@@ -1,0 +1,206 @@
+{
+  "version": "2026-04-29T16:11:52.7450486Z",
+  "rootPath": "publish",
+  "files": [
+    {
+      "relativePath": "D3DCompiler_47_cor3.dll",
+      "size": 4916840,
+      "hash": "sha256-a05d04a270f68c8c6d6ea2d23bebf8cd1d5453b26b5442fa54965f90f1c62082",
+      "zipEntryName": "D3DCompiler_47_cor3.dll"
+    },
+    {
+      "relativePath": "mdl.conf.json",
+      "size": 361,
+      "hash": "sha256-29b11868c151f2e066e2e804be5caa52cab715e72e0d5bb8d4d425c51a307984",
+      "zipEntryName": "mdl.conf.json"
+    },
+    {
+      "relativePath": "MDL.exe",
+      "size": 146742505,
+      "hash": "sha256-bd835ff4cc266fb80428b88f704a83ad54376ced42a4b8d72ab352e97065be11",
+      "zipEntryName": "MDL.exe"
+    },
+    {
+      "relativePath": "PenImc_cor3.dll",
+      "size": 157992,
+      "hash": "sha256-e1bcd85e177302a63f63b48a8f84e3686355f5058e559086a80844c1cf0f0466",
+      "zipEntryName": "PenImc_cor3.dll"
+    },
+    {
+      "relativePath": "PresentationNative_cor3.dll",
+      "size": 1237768,
+      "hash": "sha256-5de57dbc363e91b13791c24e5df76e1395b4256986de4c7844594ef809f7cbea",
+      "zipEntryName": "PresentationNative_cor3.dll"
+    },
+    {
+      "relativePath": "README.md",
+      "size": 124,
+      "hash": "sha256-cf1252aa23c00956188786957f356bfcdf629acb87efb67d678a89b5f63422dc",
+      "zipEntryName": "README.md"
+    },
+    {
+      "relativePath": "vcruntime140_cor3.dll",
+      "size": 119888,
+      "hash": "sha256-02c6aa0e6e624411a9f19b0360a7865ab15908e26024510e5c38a9c08362c35a",
+      "zipEntryName": "vcruntime140_cor3.dll"
+    },
+    {
+      "relativePath": "wpfgfx_cor3.dll",
+      "size": 1963816,
+      "hash": "sha256-5245476eed26c58e120dbad3cb138f8d7fac755836b611def109fee0d78aecb9",
+      "zipEntryName": "wpfgfx_cor3.dll"
+    },
+    {
+      "relativePath": "documents/Manual.md",
+      "size": 15382,
+      "hash": "sha256-8d32ea117684cdf8dd8089dee91177e6da11613b616187b3f3a1e61f8964aab9",
+      "zipEntryName": "documents/Manual.md"
+    },
+    {
+      "relativePath": "documents/README.md",
+      "size": 22095,
+      "hash": "sha256-52b621692188dece4555fa54b010e378289673fc2f83da5ee69f94fbb3ea0c95",
+      "zipEntryName": "documents/README.md"
+    },
+    {
+      "relativePath": "win-x64/D3DCompiler_47_cor3.dll",
+      "size": 4916840,
+      "hash": "sha256-a05d04a270f68c8c6d6ea2d23bebf8cd1d5453b26b5442fa54965f90f1c62082",
+      "zipEntryName": "win-x64/D3DCompiler_47_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/PenImc_cor3.dll",
+      "size": 157992,
+      "hash": "sha256-e1bcd85e177302a63f63b48a8f84e3686355f5058e559086a80844c1cf0f0466",
+      "zipEntryName": "win-x64/PenImc_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/PixelEditor.App.exe",
+      "size": 148926116,
+      "hash": "sha256-ccb9d575b2eadcc30be6af2d5a45632d8e7309c9983cc49363a648ac37f0dda5",
+      "zipEntryName": "win-x64/PixelEditor.App.exe"
+    },
+    {
+      "relativePath": "win-x64/PixelEditor.App.pdb",
+      "size": 80040,
+      "hash": "sha256-502d9b9324cae2962001a81414951719e018b196ade0bf45e942e5ae160a2f66",
+      "zipEntryName": "win-x64/PixelEditor.App.pdb"
+    },
+    {
+      "relativePath": "win-x64/PixelEditor.Core.pdb",
+      "size": 32976,
+      "hash": "sha256-8fca916dac4698ecd56528f2d4de6fd96ff4a34d2a28dedac60a8db862763771",
+      "zipEntryName": "win-x64/PixelEditor.Core.pdb"
+    },
+    {
+      "relativePath": "win-x64/PresentationNative_cor3.dll",
+      "size": 1237768,
+      "hash": "sha256-5de57dbc363e91b13791c24e5df76e1395b4256986de4c7844594ef809f7cbea",
+      "zipEntryName": "win-x64/PresentationNative_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/RendererWrapper.Core.pdb",
+      "size": 10304,
+      "hash": "sha256-fea5bdbf94bc8ffdf5a40b491d66aadf48ff50bd6a0cecc77ed891a9ca4713e8",
+      "zipEntryName": "win-x64/RendererWrapper.Core.pdb"
+    },
+    {
+      "relativePath": "win-x64/RendererWrapper.Fallback.pdb",
+      "size": 11692,
+      "hash": "sha256-d2fc50f109c7ffb2d397b208362c71adde37125b1328d8b1da8a29bcf4739837",
+      "zipEntryName": "win-x64/RendererWrapper.Fallback.pdb"
+    },
+    {
+      "relativePath": "win-x64/vcruntime140_cor3.dll",
+      "size": 119888,
+      "hash": "sha256-02c6aa0e6e624411a9f19b0360a7865ab15908e26024510e5c38a9c08362c35a",
+      "zipEntryName": "win-x64/vcruntime140_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/wpfgfx_cor3.dll",
+      "size": 1963816,
+      "hash": "sha256-5245476eed26c58e120dbad3cb138f8d7fac755836b611def109fee0d78aecb9",
+      "zipEntryName": "win-x64/wpfgfx_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/\u3042\u308A\u304B\u30D6\u30ED\u30C3\u30AD\u30F3\u30B0_00.bmp",
+      "size": 19510,
+      "hash": "sha256-4c1204e1d4ebd991e68e717dd832a389e3ef0bf1ce29aa5642633997ccad4cea",
+      "zipEntryName": "win-x64/\u3042\u308A\u304B\u30D6\u30ED\u30C3\u30AD\u30F3\u30B0_00.bmp"
+    }
+  ],
+  "slices": [
+    {
+      "sliceId": "0001",
+      "fileName": "data_0000.bin",
+      "size": 16777216,
+      "offset": 0,
+      "length": 16777216,
+      "hash": "sha256-652e439cd06783b1654ae10d3c33c0dc1ffd92552da003ef66dfbba9d70b6b6e",
+      "zipPartIndex": 0
+    },
+    {
+      "sliceId": "0002",
+      "fileName": "data_0001.bin",
+      "size": 16777216,
+      "offset": 16777216,
+      "length": 16777216,
+      "hash": "sha256-d5d015fd6cdb902c2119502949f3ef817db09d0af8c1f2296642893b9885770c",
+      "zipPartIndex": 1
+    },
+    {
+      "sliceId": "0003",
+      "fileName": "data_0002.bin",
+      "size": 16777216,
+      "offset": 33554432,
+      "length": 16777216,
+      "hash": "sha256-059be5c9ccfeed4a304b9441827b36c333ed9ea546e084ce79c6ec5f87909899",
+      "zipPartIndex": 2
+    },
+    {
+      "sliceId": "0004",
+      "fileName": "data_0003.bin",
+      "size": 16777216,
+      "offset": 50331648,
+      "length": 16777216,
+      "hash": "sha256-a965f57c1f3ddf9e9381e80120f47cdeceb83b263c967e7e5dbc79d4617b08cd",
+      "zipPartIndex": 3
+    },
+    {
+      "sliceId": "0005",
+      "fileName": "data_0004.bin",
+      "size": 16777216,
+      "offset": 67108864,
+      "length": 16777216,
+      "hash": "sha256-dc7a69320cd3e7398e75e9341d3b4945fb30c33171fa94621fde7516f33ba06b",
+      "zipPartIndex": 4
+    },
+    {
+      "sliceId": "0006",
+      "fileName": "data_0005.bin",
+      "size": 16777216,
+      "offset": 83886080,
+      "length": 16777216,
+      "hash": "sha256-ce7f21238689482bed6074c5fb9eb33f700bdea92374f6d8c12347e036b4549d",
+      "zipPartIndex": 5
+    },
+    {
+      "sliceId": "0007",
+      "fileName": "data_0006.bin",
+      "size": 16777216,
+      "offset": 100663296,
+      "length": 16777216,
+      "hash": "sha256-c6e7bdbaf248a4b59d84f82a4bbccfbd93062a017246cd952eb965434c842783",
+      "zipPartIndex": 6
+    },
+    {
+      "sliceId": "0008",
+      "fileName": "data_0007.bin",
+      "size": 12745001,
+      "offset": 117440512,
+      "length": 12745001,
+      "hash": "sha256-6fdfa087ac206830ad32554eee9300c73de4d1ef3ebde594b10eb71dcedd276e",
+      "zipPartIndex": 7
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
-  "version": "2026-04-30T04:27:07.6173904Z",
+  "version": "2026-05-01T17:27:01.3261309Z",
   "rootPath": "PixelEditor",
   "files": [
     {
       "relativePath": "Manual.md",
-      "size": 15382,
-      "hash": "sha256-8d32ea117684cdf8dd8089dee91177e6da11613b616187b3f3a1e61f8964aab9",
+      "size": 19878,
+      "hash": "sha256-d4cf93dd78f124e47f59614d4270e07f270688044d3f835edc609219660a25f7",
       "zipEntryName": "Manual.md"
     },
     {
       "relativePath": "README.md",
-      "size": 22095,
-      "hash": "sha256-52b621692188dece4555fa54b010e378289673fc2f83da5ee69f94fbb3ea0c95",
+      "size": 24533,
+      "hash": "sha256-00baabe1ef4bd8db0650e6efcee8b7469b9c4ece5a40c8b022be7d1ea23420d8",
       "zipEntryName": "README.md"
     },
     {
@@ -21,12 +21,6 @@
       "zipEntryName": "win-x64/D3DCompiler_47_cor3.dll"
     },
     {
-      "relativePath": "win-x64/mdl.conf.json",
-      "size": 330,
-      "hash": "sha256-33452644542b0973b7144302159b56d51bf61d6c659345793c34cd11a0378787",
-      "zipEntryName": "win-x64/mdl.conf.json"
-    },
-    {
       "relativePath": "win-x64/PenImc_cor3.dll",
       "size": 157992,
       "hash": "sha256-e1bcd85e177302a63f63b48a8f84e3686355f5058e559086a80844c1cf0f0466",
@@ -34,20 +28,20 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 148919972,
-      "hash": "sha256-a6e3ecd39589f396b250bf44bf10948500a3b80c38b68bf6a49e1a0ce975afda",
+      "size": 149284004,
+      "hash": "sha256-5ecca0777fce103d6fba64aaf598ae968170b4791f53ea070616b67b5d0732c5",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.pdb",
-      "size": 79084,
-      "hash": "sha256-1275de33a4219d25c824445a2facecd0b95b5ec3c5df923fc09f4c15a8a2d821",
+      "size": 117232,
+      "hash": "sha256-442c4b8c0cf7d2ce1830cc27cb5277f805149842203459b7b365f4c855025b9c",
       "zipEntryName": "win-x64/PixelEditor.App.pdb"
     },
     {
       "relativePath": "win-x64/PixelEditor.Core.pdb",
-      "size": 32936,
-      "hash": "sha256-849eb25efbab10efdad6d264b323d445cee4921d565a0fc101402f10592fc98c",
+      "size": 36232,
+      "hash": "sha256-7a3ff95f9078bc54bc05e3e1b95456f2e8cc609fb2962d0648a6cd94e930d448",
       "zipEntryName": "win-x64/PixelEditor.Core.pdb"
     },
     {
@@ -85,6 +79,18 @@
       "size": 19510,
       "hash": "sha256-4c1204e1d4ebd991e68e717dd832a389e3ef0bf1ce29aa5642633997ccad4cea",
       "zipEntryName": "win-x64/\u3042\u308A\u304B\u30D6\u30ED\u30C3\u30AD\u30F3\u30B0_00.bmp"
+    },
+    {
+      "relativePath": "win-x64/assets/.gitkeep",
+      "size": 0,
+      "hash": "sha256-e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "zipEntryName": "win-x64/assets/.gitkeep"
+    },
+    {
+      "relativePath": "win-x64/assets/pixeleditor.png",
+      "size": 68,
+      "hash": "sha256-d014edc031656dd8a5cb7740ed900d658ba3108ff6fcb977fc3ff4f758c10f0b",
+      "zipEntryName": "win-x64/assets/pixeleditor.png"
     }
   ],
   "slices": [
@@ -94,7 +100,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-5687d68c08cbf77090e38f5e1b392b264082081b953412f29c66f2a0887b1791",
+      "hash": "sha256-49dfb30a38147cc32603d25b0b5089c25073a03bd4474098c12557f997e314e6",
       "zipPartIndex": 0
     },
     {
@@ -103,7 +109,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-b26e23547e00f6b062af5e310b6ced2c7b48fccf8ba7e9af162d1211a12183b6",
+      "hash": "sha256-bb397d2ad3e4f2bc3eed0afccd1c93c2f39ac11153266d5d0495ff2280f76425",
       "zipPartIndex": 1
     },
     {
@@ -112,16 +118,16 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-b06e37635046e3c56d892cb9158125caa871c3c06a640bcc565417ef3850f962",
+      "hash": "sha256-9400e8c586014d295e3309dd3ba0cc2d2b6913c5754c795b402aae9180facab4",
       "zipPartIndex": 2
     },
     {
       "sliceId": "0004",
       "fileName": "data_0003.bin",
-      "size": 15373279,
+      "size": 15578987,
       "offset": 50331648,
-      "length": 15373279,
-      "hash": "sha256-791b822af929ac9fecd0a2c3d6ee5ed5bfe15a05311b378a8827aa4e77c481c3",
+      "length": 15578987,
+      "hash": "sha256-29f193c542ce4c57c08f9d7384c63e0b6828e6efb3528d0bf9016ff85d366ab1",
       "zipPartIndex": 3
     }
   ]

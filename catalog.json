@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-01T17:27:01.3261309Z",
+  "version": "2026-05-02T08:53:17.8656309Z",
   "rootPath": "PixelEditor",
   "files": [
     {
@@ -28,14 +28,14 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 149284004,
-      "hash": "sha256-5ecca0777fce103d6fba64aaf598ae968170b4791f53ea070616b67b5d0732c5",
+      "size": 149295268,
+      "hash": "sha256-0fdf4646a20d019584e94418bcfd2735612e9a6771193f5b09a6fa943b061d27",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.pdb",
-      "size": 117232,
-      "hash": "sha256-442c4b8c0cf7d2ce1830cc27cb5277f805149842203459b7b365f4c855025b9c",
+      "size": 119400,
+      "hash": "sha256-ddea267355a20ca587dc6e8942d18c2ba59220bc9f4228591ce0684370ab6598",
       "zipEntryName": "win-x64/PixelEditor.App.pdb"
     },
     {
@@ -100,7 +100,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-49dfb30a38147cc32603d25b0b5089c25073a03bd4474098c12557f997e314e6",
+      "hash": "sha256-0c52a7b06dca98ffb770af3ae86ff8c181186746fdfd476e60affbb0bbd3777f",
       "zipPartIndex": 0
     },
     {
@@ -109,7 +109,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-bb397d2ad3e4f2bc3eed0afccd1c93c2f39ac11153266d5d0495ff2280f76425",
+      "hash": "sha256-943b5c80d9d3ae57301bf1f736f538b999d69caed0b15027618513e837d2191d",
       "zipPartIndex": 1
     },
     {
@@ -118,16 +118,16 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-9400e8c586014d295e3309dd3ba0cc2d2b6913c5754c795b402aae9180facab4",
+      "hash": "sha256-941b09f4e2ea84a10afd9b8d3adde759ebfed059ac672a4071076e01eca551cf",
       "zipPartIndex": 2
     },
     {
       "sliceId": "0004",
       "fileName": "data_0003.bin",
-      "size": 15578987,
+      "size": 15586070,
       "offset": 50331648,
-      "length": 15578987,
-      "hash": "sha256-29f193c542ce4c57c08f9d7384c63e0b6828e6efb3528d0bf9016ff85d366ab1",
+      "length": 15586070,
+      "hash": "sha256-890089c48368335f58e9ddd8eb2ad9fd22994fa6a2710710e58671f91370d7a5",
       "zipPartIndex": 3
     }
   ]

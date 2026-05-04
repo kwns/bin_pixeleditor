@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-04T18:33:29.3709843Z",
+  "version": "2026-05-04T18:47:01.4585550Z",
   "rootPath": "PixelEditor",
   "files": [
     {
@@ -28,14 +28,14 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 149428388,
-      "hash": "sha256-fc9d06ca6ec0e8c07f256c9da3916bc52342bd3ecdacb4eef6f3d95e26277ac2",
+      "size": 149429924,
+      "hash": "sha256-80731a05453535b9efdfa7399145e0cad32c8339dd7ac3fc85d203c5300ad5d2",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.pdb",
-      "size": 135740,
-      "hash": "sha256-2e78db5ef6ea3dcc1520dd3842af9b485eed855b6bcd092e620399841755b02f",
+      "size": 135908,
+      "hash": "sha256-bf4723f5b09d7c35a36d6909926c3731099ae1b571724e27986a3329f6437d74",
       "zipEntryName": "win-x64/PixelEditor.App.pdb"
     },
     {
@@ -100,7 +100,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-24bd6a6d3fa062bea79c60d0d22894287e9ecba5f237cf745df271554fbc101a",
+      "hash": "sha256-db14644ca96ce643afd97021ced233bee545004701f66a46c8565f28884dd496",
       "zipPartIndex": 0
     },
     {
@@ -124,10 +124,10 @@
     {
       "sliceId": "0004",
       "fileName": "data_0003.bin",
-      "size": 15643876,
+      "size": 15644767,
       "offset": 50331648,
-      "length": 15643876,
-      "hash": "sha256-5917ea4d89d59c8c312f7f7dbf274105318a18c1473b6f33a48caed0b58ffedf",
+      "length": 15644767,
+      "hash": "sha256-1c25a789adb0763b1f9e22ecb562569344ae9d7cd48d172dbf4f5bc8622f1509",
       "zipPartIndex": 3
     }
   ]

@@ -1,11 +1,11 @@
 {
-  "version": "2026-05-04T18:47:01.4585550Z",
+  "version": "2026-05-06T16:59:17.8553513Z",
   "rootPath": "PixelEditor",
   "files": [
     {
       "relativePath": "Manual.md",
-      "size": 23443,
-      "hash": "sha256-01a4cea1e434ef7c0c57fbb1a02de7935343b162f023ce6a739cabfc99a0ab76",
+      "size": 26410,
+      "hash": "sha256-6c4fdb256a5942cec70eb50d826702f718d98d3af9863b5a20e7d1552aef8bad",
       "zipEntryName": "Manual.md"
     },
     {
@@ -28,20 +28,20 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 149429924,
-      "hash": "sha256-80731a05453535b9efdfa7399145e0cad32c8339dd7ac3fc85d203c5300ad5d2",
+      "size": 149484708,
+      "hash": "sha256-da089f7ee48ae6b6dc380e99ad3bb7048e72e64751930aae779a53963d06f023",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.pdb",
-      "size": 135908,
-      "hash": "sha256-bf4723f5b09d7c35a36d6909926c3731099ae1b571724e27986a3329f6437d74",
+      "size": 141848,
+      "hash": "sha256-c98c0b00dee9be32fe7a43cd1d8d2d0792df76f950c158b74ea96e41c9a01c7c",
       "zipEntryName": "win-x64/PixelEditor.App.pdb"
     },
     {
       "relativePath": "win-x64/PixelEditor.Core.pdb",
-      "size": 36796,
-      "hash": "sha256-aacde3d57d5eb2ce44182a928cce3be677afee82d2efe0f8b2b8d27973ea7a0f",
+      "size": 38352,
+      "hash": "sha256-453d9dfd13d15a4b6a4efefb7609b9999882a400c3e6c8604c7e19515fbc1a8d",
       "zipEntryName": "win-x64/PixelEditor.Core.pdb"
     },
     {
@@ -53,13 +53,13 @@
     {
       "relativePath": "win-x64/RendererWrapper.Core.pdb",
       "size": 10304,
-      "hash": "sha256-fea5bdbf94bc8ffdf5a40b491d66aadf48ff50bd6a0cecc77ed891a9ca4713e8",
+      "hash": "sha256-ddbcdbc2381576e784677437d40b10a93018397f9196df14bf4268ba601e1cab",
       "zipEntryName": "win-x64/RendererWrapper.Core.pdb"
     },
     {
       "relativePath": "win-x64/RendererWrapper.Fallback.pdb",
       "size": 11692,
-      "hash": "sha256-d2fc50f109c7ffb2d397b208362c71adde37125b1328d8b1da8a29bcf4739837",
+      "hash": "sha256-6d4222ef7d9a688aab9658b830f3d5d377359a880d5ee18fb16547ebd40723ef",
       "zipEntryName": "win-x64/RendererWrapper.Fallback.pdb"
     },
     {
@@ -100,7 +100,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-db14644ca96ce643afd97021ced233bee545004701f66a46c8565f28884dd496",
+      "hash": "sha256-bf7576b4996d1978a5336aaa1d791f1384ab2824d4a71baba2fc6300983f9279",
       "zipPartIndex": 0
     },
     {
@@ -109,7 +109,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-bb33cd270cf09ad07d329e76ba64629ec6cbb4cc38fac32519c02571d8831297",
+      "hash": "sha256-b13993b0ea9332f66f57e792ba12f50049ec5d57b91b396109adad9d5cbb58c8",
       "zipPartIndex": 1
     },
     {
@@ -118,16 +118,16 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-e21aa77514b401bee9995dbe57d6f7e785aad3cc4609f887c8e623874dc2c713",
+      "hash": "sha256-34880aa319316297f28bda63740f692262f0c06101ada877ef51ed9663971bb7",
       "zipPartIndex": 2
     },
     {
       "sliceId": "0004",
       "fileName": "data_0003.bin",
-      "size": 15644767,
+      "size": 15674423,
       "offset": 50331648,
-      "length": 15644767,
-      "hash": "sha256-1c25a789adb0763b1f9e22ecb562569344ae9d7cd48d172dbf4f5bc8622f1509",
+      "length": 15674423,
+      "hash": "sha256-671be70f2ba9de124087bce25008260fed9e72461b51ea41efee6d85756317bc",
       "zipPartIndex": 3
     }
   ]

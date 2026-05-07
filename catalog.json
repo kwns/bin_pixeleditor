@@ -1,5 +1,5 @@
 {
-  "version": "2026-05-06T16:59:17.8553513Z",
+  "version": "2026-05-07T16:35:40.4999992Z",
   "rootPath": "PixelEditor",
   "files": [
     {
@@ -10,8 +10,8 @@
     },
     {
       "relativePath": "README.md",
-      "size": 24683,
-      "hash": "sha256-819e733de11b63cb9c6f544566f96bd08e7ef2a7ecc824e30c3e94b051247ad1",
+      "size": 25417,
+      "hash": "sha256-c4b80438f223699ea82104da51f98a7a52735fb8ff6d40bffe4d0790cc6dbc57",
       "zipEntryName": "README.md"
     },
     {
@@ -28,20 +28,20 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 149484708,
-      "hash": "sha256-da089f7ee48ae6b6dc380e99ad3bb7048e72e64751930aae779a53963d06f023",
+      "size": 149509284,
+      "hash": "sha256-c44f62fd93f3546fc182ff40117a8185b486b6ab7f7d56999e95a1ced67ddf7f",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.pdb",
-      "size": 141848,
-      "hash": "sha256-c98c0b00dee9be32fe7a43cd1d8d2d0792df76f950c158b74ea96e41c9a01c7c",
+      "size": 145636,
+      "hash": "sha256-e4791fbde01dd097f7fcd09b410077d0f406eff621434d0bb673d8b711107529",
       "zipEntryName": "win-x64/PixelEditor.App.pdb"
     },
     {
       "relativePath": "win-x64/PixelEditor.Core.pdb",
-      "size": 38352,
-      "hash": "sha256-453d9dfd13d15a4b6a4efefb7609b9999882a400c3e6c8604c7e19515fbc1a8d",
+      "size": 38412,
+      "hash": "sha256-c50b028507d2e77a5beb32a6637bbc486f40d441e8d3c16e57e6635b555ae29a",
       "zipEntryName": "win-x64/PixelEditor.Core.pdb"
     },
     {
@@ -100,7 +100,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-bf7576b4996d1978a5336aaa1d791f1384ab2824d4a71baba2fc6300983f9279",
+      "hash": "sha256-79a537081f0440290ff0939e8ea8ed44e6c28c413e7aec1181d79d897b98e2d6",
       "zipPartIndex": 0
     },
     {
@@ -109,7 +109,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-b13993b0ea9332f66f57e792ba12f50049ec5d57b91b396109adad9d5cbb58c8",
+      "hash": "sha256-dfb2b43b1ec11fd777f4b7fc353cb6e32d45b41fc279f3b571bc347549816ded",
       "zipPartIndex": 1
     },
     {
@@ -118,16 +118,16 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-34880aa319316297f28bda63740f692262f0c06101ada877ef51ed9663971bb7",
+      "hash": "sha256-94dbe798be2871463cc92ba2a311a0d6cd906c7044c5e66933ce05daa5638ca7",
       "zipPartIndex": 2
     },
     {
       "sliceId": "0004",
       "fileName": "data_0003.bin",
-      "size": 15674423,
+      "size": 15689396,
       "offset": 50331648,
-      "length": 15674423,
-      "hash": "sha256-671be70f2ba9de124087bce25008260fed9e72461b51ea41efee6d85756317bc",
+      "length": 15689396,
+      "hash": "sha256-cbc6e9db68a3676730e1405441962493482a76469cac6e5f60b04cfb14d6265c",
       "zipPartIndex": 3
     }
   ]

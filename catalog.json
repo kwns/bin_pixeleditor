@@ -1,17 +1,17 @@
 {
-  "version": "2026-05-12T16:42:23.5938223Z",
+  "version": "2026-09-24T04:02:54.9748940Z",
   "rootPath": "PixelEditor",
   "files": [
     {
       "relativePath": "Manual.md",
-      "size": 27232,
-      "hash": "sha256-f1303ad8be54bfb1476527306df83990d4ab4b5bf83afa746062155f9bb5acec",
+      "size": 29373,
+      "hash": "sha256-210c0373e695e7961f809381f1418220c14ef457b0ac9baa3c9ef1298d8c548b",
       "zipEntryName": "Manual.md"
     },
     {
       "relativePath": "README.md",
-      "size": 26209,
-      "hash": "sha256-2d162b82c2fd843fe3508f699b3a935307bbbdfc0a7f12c5c76cf5379013d4e3",
+      "size": 31944,
+      "hash": "sha256-1cc056c37b45bed4594729a39eec27389a754058ddf17b820658c78801fa55f6",
       "zipEntryName": "README.md"
     },
     {
@@ -28,20 +28,20 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 149558436,
-      "hash": "sha256-350cfe35231e72f0b0e277aa0c60d3c86f397afa914d377b3710627a462392ce",
+      "size": 150633636,
+      "hash": "sha256-edf2816432ab58273aad368c7766b08dee9a163dd7dc777b7919ad3b504b974a",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.pdb",
-      "size": 150964,
-      "hash": "sha256-ac0de8b1bea02cfe8d44a26d15e8ab2b6ad5a7a83ff4e3a66883109fd220344b",
+      "size": 203704,
+      "hash": "sha256-3cd90a733791dfa185d0cc8dfd6c0fb9fc7f37ab5aa45fe12860d953bf512b34",
       "zipEntryName": "win-x64/PixelEditor.App.pdb"
     },
     {
       "relativePath": "win-x64/PixelEditor.Core.pdb",
-      "size": 38412,
-      "hash": "sha256-c50b028507d2e77a5beb32a6637bbc486f40d441e8d3c16e57e6635b555ae29a",
+      "size": 105672,
+      "hash": "sha256-6040e48c786b33e06d92c155591d8635a1d9d3e3157290450f91b2753461b5de",
       "zipEntryName": "win-x64/PixelEditor.Core.pdb"
     },
     {
@@ -52,14 +52,14 @@
     },
     {
       "relativePath": "win-x64/RendererWrapper.Core.pdb",
-      "size": 10304,
-      "hash": "sha256-ddbcdbc2381576e784677437d40b10a93018397f9196df14bf4268ba601e1cab",
+      "size": 10312,
+      "hash": "sha256-bc4a1d54af5c0cf54a1c46ef140f02dc6acc3a356b968cac6d08bafc9c4e034d",
       "zipEntryName": "win-x64/RendererWrapper.Core.pdb"
     },
     {
       "relativePath": "win-x64/RendererWrapper.Fallback.pdb",
-      "size": 11692,
-      "hash": "sha256-6d4222ef7d9a688aab9658b830f3d5d377359a880d5ee18fb16547ebd40723ef",
+      "size": 11696,
+      "hash": "sha256-1b96c4c01a088acf03cedc9ee3b152c44459ff2c46ccfed75f548c988321e7f2",
       "zipEntryName": "win-x64/RendererWrapper.Fallback.pdb"
     },
     {
@@ -91,6 +91,444 @@
       "size": 68,
       "hash": "sha256-d014edc031656dd8a5cb7740ed900d658ba3108ff6fcb977fc3ff4f758c10f0b",
       "zipEntryName": "win-x64/assets/pixeleditor.png"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/D3DCompiler_47_cor3.dll",
+      "size": 4916840,
+      "hash": "sha256-a05d04a270f68c8c6d6ea2d23bebf8cd1d5453b26b5442fa54965f90f1c62082",
+      "zipEntryName": "win-x64/FairyTeachSidecar/D3DCompiler_47_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.deps.json",
+      "size": 434,
+      "hash": "sha256-3b4b5e99de18f9740c656577722179b885392f63987f63c6389920aaf1b1be0f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.deps.json"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.dll",
+      "size": 26112,
+      "hash": "sha256-07abef4b0807741e4ff2e47ea1748c481e71009fafe312d16c7cb6f7a144d6cc",
+      "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.exe",
+      "size": 144597042,
+      "hash": "sha256-eb7ee3e0fd417f250fa53293349b529c1f26be40aed5285a25305c93378cb446",
+      "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.exe"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.pdb",
+      "size": 17884,
+      "hash": "sha256-0bd798ec5c2320af14911b19920fc8b3cef16ed6e90b1e3cd7ecaeabc3e11ce3",
+      "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.pdb"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.runtimeconfig.json",
+      "size": 372,
+      "hash": "sha256-1eca0f0c70070aa83bb609e4b749b26dcb4409784326032726394722224a098a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.runtimeconfig.json"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/PenImc_cor3.dll",
+      "size": 157992,
+      "hash": "sha256-e1bcd85e177302a63f63b48a8f84e3686355f5058e559086a80844c1cf0f0466",
+      "zipEntryName": "win-x64/FairyTeachSidecar/PenImc_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/PresentationNative_cor3.dll",
+      "size": 1237768,
+      "hash": "sha256-5de57dbc363e91b13791c24e5df76e1395b4256986de4c7844594ef809f7cbea",
+      "zipEntryName": "win-x64/FairyTeachSidecar/PresentationNative_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/vcruntime140_cor3.dll",
+      "size": 119888,
+      "hash": "sha256-02c6aa0e6e624411a9f19b0360a7865ab15908e26024510e5c38a9c08362c35a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/vcruntime140_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/wpfgfx_cor3.dll",
+      "size": 1963816,
+      "hash": "sha256-5245476eed26c58e120dbad3cb138f8d7fac755836b611def109fee0d78aecb9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/wpfgfx_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/yousei_ai.png",
+      "size": 434322,
+      "hash": "sha256-24d25c3fd1b94329b612a32f007f3ae6001c4cf38d626271d0bee0c5c51fb4f0",
+      "zipEntryName": "win-x64/FairyTeachSidecar/yousei_ai.png"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/LICENSE",
+      "size": 1093,
+      "hash": "sha256-de18cbedb0c3b0d1eeb9ccac3988cdf69c21fa89039cd97dd8846cb68f661f81",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/LICENSE"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/README.md",
+      "size": 6281,
+      "hash": "sha256-3af96328be0858e6dd3798d3ea63adcdfd750faa6fec106a06434f513febfef8",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/README.md"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-ncnn-vulkan.exe",
+      "size": 6974464,
+      "hash": "sha256-4b970319db2814c82b15fceed8193151560a676a9eb63f20d4877be77b98f44f",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-ncnn-vulkan.exe"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/vcomp140.dll",
+      "size": 181680,
+      "hash": "sha256-54fe6b087528b33c2969143d811eb62f1bd49071d37de9db0745fc079764d698",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/vcomp140.dll"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/contextnet.bin",
+      "size": 799760,
+      "hash": "sha256-1d03cf22f74a99d4dc72bdfc8f45d48824f08fb0dd9803238bc3f3430f1b7ce6",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/contextnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/contextnet.param",
+      "size": 5506,
+      "hash": "sha256-04d8a0478721feb6aca74cc5126fdba03ad0d21089cc3f681dc9f137952cd852",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/contextnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/flownet.bin",
+      "size": 12677784,
+      "hash": "sha256-b0c901adbbe5851a1e033a25b02ea81c3be5129ce7436c59d3b3f236abc45119",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/flownet.param",
+      "size": 20297,
+      "hash": "sha256-c4b3de01d78698839a51a957a9079ea74d1d11229b45f777219f477fcd44c4d7",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/fusionnet.bin",
+      "size": 7499380,
+      "hash": "sha256-f8c2541f9b6a0dcfd060b2d17de60c005056c6677beed0ba05aaf209275cac5b",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/fusionnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/fusionnet.param",
+      "size": 8147,
+      "hash": "sha256-491c992879625e74af4704c4227ead7572a4b60c0a01ed0451a905edbeb8575b",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/fusionnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/contextnet.bin",
+      "size": 3192340,
+      "hash": "sha256-abc4bdcc425726268d55fe380b7615e8dc6b3feba69986ce861321b1b8cc5dc6",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/contextnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/contextnet.param",
+      "size": 5831,
+      "hash": "sha256-27949d32886fb08732be00e5e4a3935dafddf622074aa6d30c6885cd2983f2cf",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/contextnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/flownet.bin",
+      "size": 26885536,
+      "hash": "sha256-ab459482f6c20294c40e94c802d09be34f5dc246576499acfd2d49c03b6cea9a",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/flownet.param",
+      "size": 27469,
+      "hash": "sha256-4156e10152cc51c50f9f41dec0eeb394492f89e70bf6f5a831667703004a78a3",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/fusionnet.bin",
+      "size": 29962920,
+      "hash": "sha256-006cdedc84c20f30825ab65a44655ee6baf181573118ca039a344dc6adff7cd9",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/fusionnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/fusionnet.param",
+      "size": 8462,
+      "hash": "sha256-18e4914ba7194158be6acb4c9b89c6d5a326e6293387cc046b974e76ad698d2e",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-anime/fusionnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/contextnet.bin",
+      "size": 3192340,
+      "hash": "sha256-dd1fe09c75cd93060200b88154db4c6f871185d49ba028a52f07d5e404701931",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/contextnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/contextnet.param",
+      "size": 5831,
+      "hash": "sha256-27949d32886fb08732be00e5e4a3935dafddf622074aa6d30c6885cd2983f2cf",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/contextnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/flownet.bin",
+      "size": 26885536,
+      "hash": "sha256-bcad0fdd5dcc3ba07c60359d1460b0fef6856f888eabd57dc721cc466c59ae30",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/flownet.param",
+      "size": 27469,
+      "hash": "sha256-4156e10152cc51c50f9f41dec0eeb394492f89e70bf6f5a831667703004a78a3",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/fusionnet.bin",
+      "size": 29962920,
+      "hash": "sha256-f58e6f05440b735349a59973d14abd5e51662404aee070536e52c2f7cfdba440",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/fusionnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/fusionnet.param",
+      "size": 8462,
+      "hash": "sha256-18e4914ba7194158be6acb4c9b89c6d5a326e6293387cc046b974e76ad698d2e",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-HD/fusionnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/contextnet.bin",
+      "size": 3192340,
+      "hash": "sha256-1f78c6ddf0e423deb90adb26d7fdfb7452277acc3bf809190eeee2b04c64d79b",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/contextnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/contextnet.param",
+      "size": 5831,
+      "hash": "sha256-27949d32886fb08732be00e5e4a3935dafddf622074aa6d30c6885cd2983f2cf",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/contextnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/flownet.bin",
+      "size": 26885536,
+      "hash": "sha256-7faa0572aebab154817e9c5a0beb584dedae87b93603782f4bda23d999f1dd09",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/flownet.param",
+      "size": 27469,
+      "hash": "sha256-4156e10152cc51c50f9f41dec0eeb394492f89e70bf6f5a831667703004a78a3",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/fusionnet.bin",
+      "size": 29962920,
+      "hash": "sha256-5c9428bb8b270b4da69ce213ca98e23d5cef8eda78ab8bae1599d559497176b8",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/fusionnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/fusionnet.param",
+      "size": 8462,
+      "hash": "sha256-18e4914ba7194158be6acb4c9b89c6d5a326e6293387cc046b974e76ad698d2e",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-UHD/fusionnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/contextnet.bin",
+      "size": 2387688,
+      "hash": "sha256-d1c8845a5e53a49816f8d9c1b9920e6c279f82f2b220b9a6e56814ab77972ea0",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/contextnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/contextnet.param",
+      "size": 3360,
+      "hash": "sha256-82c04da2d9a894986a78073803546ec75eeaf2e8e5a7d3bef312094aa49db4b1",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/contextnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/flownet.bin",
+      "size": 30555792,
+      "hash": "sha256-432c53b8d519f1a7c65813f38fc0e4cb66adc62b166bc6339040cd113c4f30fa",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/flownet.param",
+      "size": 10178,
+      "hash": "sha256-d6217636d4f71871c721bfea379e99c0df4e4d1446d282427a3939b38aa7fb92",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/fusionnet.bin",
+      "size": 23686092,
+      "hash": "sha256-10e7a372cef1285fe08421857c0ad3b70e39de98c0573adb2185f0877fdd9cdb",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/fusionnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/fusionnet.param",
+      "size": 5775,
+      "hash": "sha256-6a33fa5befe657061af4c12390917c51028e609ea3c0e7c1d390fea6a8c4f870",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2/fusionnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/contextnet.bin",
+      "size": 2387688,
+      "hash": "sha256-48cd291e3755112a3276aa216120445803601d2dbf6f66ab7dd86326a4a0e446",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/contextnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/contextnet.param",
+      "size": 3360,
+      "hash": "sha256-82c04da2d9a894986a78073803546ec75eeaf2e8e5a7d3bef312094aa49db4b1",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/contextnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/flownet.bin",
+      "size": 30555792,
+      "hash": "sha256-0cd8d87cb86882d4ebb587d78ca276c1eeb3e7f3d093bed1b77c7d6ef7db6887",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/flownet.param",
+      "size": 10178,
+      "hash": "sha256-d6217636d4f71871c721bfea379e99c0df4e4d1446d282427a3939b38aa7fb92",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/fusionnet.bin",
+      "size": 23686092,
+      "hash": "sha256-30fdc1ffdcace52688871645b20b93a5104054e8ece7f7187ed3573e9fa54f5b",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/fusionnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/fusionnet.param",
+      "size": 5775,
+      "hash": "sha256-6a33fa5befe657061af4c12390917c51028e609ea3c0e7c1d390fea6a8c4f870",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.3/fusionnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/contextnet.bin",
+      "size": 2387688,
+      "hash": "sha256-2b48d1c8f29d67f0ec839fa96e478caa0b8db200f82a6dad454514c20a5d9644",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/contextnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/contextnet.param",
+      "size": 3360,
+      "hash": "sha256-82c04da2d9a894986a78073803546ec75eeaf2e8e5a7d3bef312094aa49db4b1",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/contextnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/flownet.bin",
+      "size": 30555792,
+      "hash": "sha256-924c5d5461099cde803f85953868bf8407f8a6b342861c75122f2876d96e55b1",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/flownet.param",
+      "size": 10178,
+      "hash": "sha256-d6217636d4f71871c721bfea379e99c0df4e4d1446d282427a3939b38aa7fb92",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/fusionnet.bin",
+      "size": 23686092,
+      "hash": "sha256-26a8188b8b6fc087d03d7729ccfc92fb1ba8f40d2b237aee13436a40477d1840",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/fusionnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/fusionnet.param",
+      "size": 5775,
+      "hash": "sha256-6a33fa5befe657061af4c12390917c51028e609ea3c0e7c1d390fea6a8c4f870",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v2.4/fusionnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/contextnet.bin",
+      "size": 2387688,
+      "hash": "sha256-4d235182146dbf7afdc13565719479c09d09431d3e63d9929321b4a87ba9c663",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/contextnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/contextnet.param",
+      "size": 3360,
+      "hash": "sha256-7826edf4fba7aebcb51c4c6ccb8a10b45f6b8e60e5975ba887220eebffdaa131",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/contextnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/flownet.bin",
+      "size": 9113436,
+      "hash": "sha256-1df40d94d731f6c53e3cb8a8c818118202788d05a1b21ca921d840459f87b2a2",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/flownet.param",
+      "size": 9609,
+      "hash": "sha256-c115e7a89f7b243da0142e9c77df445c6629cc3883347da23bb8fa74c665ebcb",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/fusionnet.bin",
+      "size": 23686092,
+      "hash": "sha256-bd48e83dfed5b923d299addc483ce90a6a5c2d408012d6408c65a89a71f3bfae",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/fusionnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/fusionnet.param",
+      "size": 5775,
+      "hash": "sha256-6a33fa5befe657061af4c12390917c51028e609ea3c0e7c1d390fea6a8c4f870",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.0/fusionnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/contextnet.bin",
+      "size": 2387688,
+      "hash": "sha256-e7f406ef6b18fd785933ef44ed62f79d9971846ede790bf1bce7023bb7d33d48",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/contextnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/contextnet.param",
+      "size": 3360,
+      "hash": "sha256-7826edf4fba7aebcb51c4c6ccb8a10b45f6b8e60e5975ba887220eebffdaa131",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/contextnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/flownet.bin",
+      "size": 9113436,
+      "hash": "sha256-91de19761bddabe3ee5b114db0df265e24b6fcf74e15c88ce18086b7a4bda950",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/flownet.param",
+      "size": 9609,
+      "hash": "sha256-c115e7a89f7b243da0142e9c77df445c6629cc3883347da23bb8fa74c665ebcb",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/fusionnet.bin",
+      "size": 23686092,
+      "hash": "sha256-e8e78171d1a8dc7a406d37098c7d3130dbc1e1ca0801d84ad1cc23d8ca781271",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/fusionnet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/fusionnet.param",
+      "size": 5775,
+      "hash": "sha256-6a33fa5befe657061af4c12390917c51028e609ea3c0e7c1d390fea6a8c4f870",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v3.1/fusionnet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v4/flownet.bin",
+      "size": 10340416,
+      "hash": "sha256-f307230e32bffeaef5d27a1ea48ec4a67371f99e363ffde1f0f62016a1f725b4",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v4/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v4/flownet.param",
+      "size": 12999,
+      "hash": "sha256-8698b5a482922817ff2be3cd1dbe77dbe39eb7a8ddb2c6d7c0f27b9373bc870a",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v4/flownet.param"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v4.6/flownet.bin",
+      "size": 10614320,
+      "hash": "sha256-f334ed2260149ce0188a6dcf049844e8b0cdd912e01cbcfb63553157d2508958",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v4.6/flownet.bin"
+    },
+    {
+      "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v4.6/flownet.param",
+      "size": 16749,
+      "hash": "sha256-28df14d57a225725ee5386f52eba422488450d37c9f40800ed4f62e8ba846692",
+      "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/rife-v4.6/flownet.param"
     }
   ],
   "slices": [
@@ -100,7 +538,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-0c3ea530b5ae76c366f02099f3f1629eb85b8c1f8be112181b3eeb18c274869b",
+      "hash": "sha256-821936032049fc1e27436b9ad210781f9d3cdfa7ad0c93e6ff3846cd94c75744",
       "zipPartIndex": 0
     },
     {
@@ -109,7 +547,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-b870594ad292f0faf83057fecff740e54abef3285a99dceddc1c0a977838ddc4",
+      "hash": "sha256-585d05c51b235a51e63978449bca1ea2e0db1dff1f7b70906ac85b87af6a1a37",
       "zipPartIndex": 1
     },
     {
@@ -118,17 +556,287 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-090a1c9842cdd9c8f3112c9fb541e8b7fd2bfec8e19aa5619b18f450b8c27e7a",
+      "hash": "sha256-f7a3245c617aaa23de2815fd0cba197f97a7a86dc0b9a8818c4687dbd1d1bda9",
       "zipPartIndex": 2
     },
     {
       "sliceId": "0004",
       "fileName": "data_0003.bin",
-      "size": 15714832,
+      "size": 16777216,
       "offset": 50331648,
-      "length": 15714832,
-      "hash": "sha256-5b0d731896699ae4a7f46911aaf945f0c6a6df2b682c480426a5f08d811a5475",
+      "length": 16777216,
+      "hash": "sha256-29eeaf6a81467f36a79e944698cdeb2fd790630033dd50689e6a16187c578a1c",
       "zipPartIndex": 3
+    },
+    {
+      "sliceId": "0005",
+      "fileName": "data_0004.bin",
+      "size": 16777216,
+      "offset": 67108864,
+      "length": 16777216,
+      "hash": "sha256-13a796759b386bd121da7fce53515184cc5a564e17c11d211fc4359380a424ce",
+      "zipPartIndex": 4
+    },
+    {
+      "sliceId": "0006",
+      "fileName": "data_0005.bin",
+      "size": 16777216,
+      "offset": 83886080,
+      "length": 16777216,
+      "hash": "sha256-a3ec2fd693d8cb46072dea9d96954cf4eb5bce3c398cbd76e527497d5f1f01ca",
+      "zipPartIndex": 5
+    },
+    {
+      "sliceId": "0007",
+      "fileName": "data_0006.bin",
+      "size": 16777216,
+      "offset": 100663296,
+      "length": 16777216,
+      "hash": "sha256-31b2ccbdea37e7edf6230ff6f88812f41245c80857287b79ef861e6d4eb3d564",
+      "zipPartIndex": 6
+    },
+    {
+      "sliceId": "0008",
+      "fileName": "data_0007.bin",
+      "size": 16777216,
+      "offset": 117440512,
+      "length": 16777216,
+      "hash": "sha256-470f772ec6e1a1861d2eed5e47efcd5bf58626d819ef9f75c980af60801096bc",
+      "zipPartIndex": 7
+    },
+    {
+      "sliceId": "0009",
+      "fileName": "data_0008.bin",
+      "size": 16777216,
+      "offset": 134217728,
+      "length": 16777216,
+      "hash": "sha256-f97bdc015ba064859f4feac951c5d68c7d2f2531e1b9b89c2d2b53543e42c6c3",
+      "zipPartIndex": 8
+    },
+    {
+      "sliceId": "0010",
+      "fileName": "data_0009.bin",
+      "size": 16777216,
+      "offset": 150994944,
+      "length": 16777216,
+      "hash": "sha256-fee9759e9810dff680fcac11157c1a2b74dd2fcfa1407964fa5997db4454b1db",
+      "zipPartIndex": 9
+    },
+    {
+      "sliceId": "0011",
+      "fileName": "data_0010.bin",
+      "size": 16777216,
+      "offset": 167772160,
+      "length": 16777216,
+      "hash": "sha256-a1e5d6888d58ce2f35030492500ded4a42e786f8ee01a9c3e3fee77390775cae",
+      "zipPartIndex": 10
+    },
+    {
+      "sliceId": "0012",
+      "fileName": "data_0011.bin",
+      "size": 16777216,
+      "offset": 184549376,
+      "length": 16777216,
+      "hash": "sha256-57aad8e541324874d54a805b7da22067d77c809b4c96b65c498e05fed6e861f5",
+      "zipPartIndex": 11
+    },
+    {
+      "sliceId": "0013",
+      "fileName": "data_0012.bin",
+      "size": 16777216,
+      "offset": 201326592,
+      "length": 16777216,
+      "hash": "sha256-9ec529dcff774d302f4214f18950ae1a34961937f8764e5e7be8f3f6b10294eb",
+      "zipPartIndex": 12
+    },
+    {
+      "sliceId": "0014",
+      "fileName": "data_0013.bin",
+      "size": 16777216,
+      "offset": 218103808,
+      "length": 16777216,
+      "hash": "sha256-f99e73037a79951ed290a6a94efb2721772d641f2f25c462971ac15b18c4d439",
+      "zipPartIndex": 13
+    },
+    {
+      "sliceId": "0015",
+      "fileName": "data_0014.bin",
+      "size": 16777216,
+      "offset": 234881024,
+      "length": 16777216,
+      "hash": "sha256-4efb22988c01012b91e58040008641fd06750774572a896832651888cdf0493e",
+      "zipPartIndex": 14
+    },
+    {
+      "sliceId": "0016",
+      "fileName": "data_0015.bin",
+      "size": 16777216,
+      "offset": 251658240,
+      "length": 16777216,
+      "hash": "sha256-0b20032b5642374e7db4a517f0e566a1d3331aacd5f3642e19d47677159fbe38",
+      "zipPartIndex": 15
+    },
+    {
+      "sliceId": "0017",
+      "fileName": "data_0016.bin",
+      "size": 16777216,
+      "offset": 268435456,
+      "length": 16777216,
+      "hash": "sha256-12893ef34279d9fa2e56ded6a8f97f57fb38722db4ec05c1b1023e91dddae209",
+      "zipPartIndex": 16
+    },
+    {
+      "sliceId": "0018",
+      "fileName": "data_0017.bin",
+      "size": 16777216,
+      "offset": 285212672,
+      "length": 16777216,
+      "hash": "sha256-07d7d8ecfef0915338c62bb39f06df28b6580cf26c47715207956206cad090d3",
+      "zipPartIndex": 17
+    },
+    {
+      "sliceId": "0019",
+      "fileName": "data_0018.bin",
+      "size": 16777216,
+      "offset": 301989888,
+      "length": 16777216,
+      "hash": "sha256-cb383d7fe7caa2a96bbef288016e31e5d52f48cfab394c58ca6394a5803eae3b",
+      "zipPartIndex": 18
+    },
+    {
+      "sliceId": "0020",
+      "fileName": "data_0019.bin",
+      "size": 16777216,
+      "offset": 318767104,
+      "length": 16777216,
+      "hash": "sha256-8a01e58d6e53b01e94e6e0d9186a24e6906414b738e8a8dc871be00722f47108",
+      "zipPartIndex": 19
+    },
+    {
+      "sliceId": "0021",
+      "fileName": "data_0020.bin",
+      "size": 16777216,
+      "offset": 335544320,
+      "length": 16777216,
+      "hash": "sha256-34ac1477fe66dded8af3692b15f1a9b18310dd873457a074bf4d00a675e8d008",
+      "zipPartIndex": 20
+    },
+    {
+      "sliceId": "0022",
+      "fileName": "data_0021.bin",
+      "size": 16777216,
+      "offset": 352321536,
+      "length": 16777216,
+      "hash": "sha256-c52957c25a3a5819e708e56373666368ea939ef80557d4e55a3a6737a73d25fb",
+      "zipPartIndex": 21
+    },
+    {
+      "sliceId": "0023",
+      "fileName": "data_0022.bin",
+      "size": 16777216,
+      "offset": 369098752,
+      "length": 16777216,
+      "hash": "sha256-a0d039c1785fdee09696ed9f3c23d5125b8c6f60002653acced714de34023285",
+      "zipPartIndex": 22
+    },
+    {
+      "sliceId": "0024",
+      "fileName": "data_0023.bin",
+      "size": 16777216,
+      "offset": 385875968,
+      "length": 16777216,
+      "hash": "sha256-071e1513101398a3885bbdc0d21188f0b09e6d58b08d47d6b09e2ca0c38db8de",
+      "zipPartIndex": 23
+    },
+    {
+      "sliceId": "0025",
+      "fileName": "data_0024.bin",
+      "size": 16777216,
+      "offset": 402653184,
+      "length": 16777216,
+      "hash": "sha256-a6447fbcbbfb7945e907a82c7bd798ab778498a0afd6955e22bbda33e69a4064",
+      "zipPartIndex": 24
+    },
+    {
+      "sliceId": "0026",
+      "fileName": "data_0025.bin",
+      "size": 16777216,
+      "offset": 419430400,
+      "length": 16777216,
+      "hash": "sha256-7d5e3fe0da3dbaa38f4a4ac2a0f1f919f04e25ce186051bca5fedc4628a86c7f",
+      "zipPartIndex": 25
+    },
+    {
+      "sliceId": "0027",
+      "fileName": "data_0026.bin",
+      "size": 16777216,
+      "offset": 436207616,
+      "length": 16777216,
+      "hash": "sha256-fad39f5444afc3f6e1a8fb7e29b60e9627bf9871681e91f1bd0ffdf140d65007",
+      "zipPartIndex": 26
+    },
+    {
+      "sliceId": "0028",
+      "fileName": "data_0027.bin",
+      "size": 16777216,
+      "offset": 452984832,
+      "length": 16777216,
+      "hash": "sha256-d31e09b8aefeed77211bf428fc313d9131b2a6f433b2052541b8050993c0d60a",
+      "zipPartIndex": 27
+    },
+    {
+      "sliceId": "0029",
+      "fileName": "data_0028.bin",
+      "size": 16777216,
+      "offset": 469762048,
+      "length": 16777216,
+      "hash": "sha256-0803ac51aff54518310831dd626f910fb777cc7d5539f10bbf71b368cd028a78",
+      "zipPartIndex": 28
+    },
+    {
+      "sliceId": "0030",
+      "fileName": "data_0029.bin",
+      "size": 16777216,
+      "offset": 486539264,
+      "length": 16777216,
+      "hash": "sha256-7129eda3268814f33a591337a370065f0fcbbe2141f1fbc0796e1fa8920d27e5",
+      "zipPartIndex": 29
+    },
+    {
+      "sliceId": "0031",
+      "fileName": "data_0030.bin",
+      "size": 16777216,
+      "offset": 503316480,
+      "length": 16777216,
+      "hash": "sha256-f19a3de1747c39b94f504003af56539c2c497e95bb1f33bf7f3681a5488d9f6b",
+      "zipPartIndex": 30
+    },
+    {
+      "sliceId": "0032",
+      "fileName": "data_0031.bin",
+      "size": 16777216,
+      "offset": 520093696,
+      "length": 16777216,
+      "hash": "sha256-f4435deef49fdc0886f50f345193ba9357b67c59fdb58762893b18b8cdc11f56",
+      "zipPartIndex": 31
+    },
+    {
+      "sliceId": "0033",
+      "fileName": "data_0032.bin",
+      "size": 16777216,
+      "offset": 536870912,
+      "length": 16777216,
+      "hash": "sha256-cd56f322c8e5097e257e0cb45d04a0d72f5a5a345ac95e9503fa993d2f327f59",
+      "zipPartIndex": 32
+    },
+    {
+      "sliceId": "0034",
+      "fileName": "data_0033.bin",
+      "size": 8909790,
+      "offset": 553648128,
+      "length": 8909790,
+      "hash": "sha256-b55ef829547d8e8cddf14eb082ff17a9e10fb05fc404a3d5cebd8997e83800cc",
+      "zipPartIndex": 33
     }
   ]
 }

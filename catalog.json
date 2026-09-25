@@ -1,11 +1,11 @@
 {
-  "version": "2026-09-24T04:02:54.9748940Z",
+  "version": "2026-09-25T11:50:15.9887386Z",
   "rootPath": "PixelEditor",
   "files": [
     {
       "relativePath": "Manual.md",
-      "size": 29373,
-      "hash": "sha256-210c0373e695e7961f809381f1418220c14ef457b0ac9baa3c9ef1298d8c548b",
+      "size": 32120,
+      "hash": "sha256-0a6aa8ad3f77cf3e0bb7d66d8f6bd6c0676df24383882ef4ad2aa2d59262aab6",
       "zipEntryName": "Manual.md"
     },
     {
@@ -28,20 +28,20 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 150633636,
-      "hash": "sha256-edf2816432ab58273aad368c7766b08dee9a163dd7dc777b7919ad3b504b974a",
+      "size": 150817444,
+      "hash": "sha256-790ae99041d41656922e9182d3aa06aa8af39d6916301abadcb36ffeeb5864bf",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.pdb",
-      "size": 203704,
-      "hash": "sha256-3cd90a733791dfa185d0cc8dfd6c0fb9fc7f37ab5aa45fe12860d953bf512b34",
+      "size": 219700,
+      "hash": "sha256-f194c64a0fde88a144c50c237e1696930816f53381c764c44a611dc40771024a",
       "zipEntryName": "win-x64/PixelEditor.App.pdb"
     },
     {
       "relativePath": "win-x64/PixelEditor.Core.pdb",
-      "size": 105672,
-      "hash": "sha256-6040e48c786b33e06d92c155591d8635a1d9d3e3157290450f91b2753461b5de",
+      "size": 108908,
+      "hash": "sha256-1506d519958d9f8c6ff7a1e37e5bcd73eda2b7f2932a0c3ceef2a340598863a3",
       "zipEntryName": "win-x64/PixelEditor.Core.pdb"
     },
     {
@@ -53,13 +53,13 @@
     {
       "relativePath": "win-x64/RendererWrapper.Core.pdb",
       "size": 10312,
-      "hash": "sha256-bc4a1d54af5c0cf54a1c46ef140f02dc6acc3a356b968cac6d08bafc9c4e034d",
+      "hash": "sha256-148abfec40a6ab48a656a796fcce6925f14b5fcd98ae83461cde1ef8c2b11941",
       "zipEntryName": "win-x64/RendererWrapper.Core.pdb"
     },
     {
       "relativePath": "win-x64/RendererWrapper.Fallback.pdb",
       "size": 11696,
-      "hash": "sha256-1b96c4c01a088acf03cedc9ee3b152c44459ff2c46ccfed75f548c988321e7f2",
+      "hash": "sha256-e84822d086146b56f06697684d2e9c5ccf42a46ed829a106f66ff8e036601df1",
       "zipEntryName": "win-x64/RendererWrapper.Fallback.pdb"
     },
     {
@@ -112,14 +112,14 @@
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.exe",
-      "size": 144597042,
-      "hash": "sha256-eb7ee3e0fd417f250fa53293349b529c1f26be40aed5285a25305c93378cb446",
+      "size": 144704050,
+      "hash": "sha256-d5959f76d75eb3b7d5f9117b602198e6799549ee107d498e373fa326e80661ee",
       "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.exe"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.pdb",
-      "size": 17884,
-      "hash": "sha256-0bd798ec5c2320af14911b19920fc8b3cef16ed6e90b1e3cd7ecaeabc3e11ce3",
+      "size": 30672,
+      "hash": "sha256-3fe269e77fbc1dda1098f73af1522b0936c0932d7e181976e46ae4a6b19def4f",
       "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.pdb"
     },
     {
@@ -159,6 +159,42 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/yousei_ai.png"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/teach_dialogues.json",
+      "size": 95454,
+      "hash": "sha256-08bba11b8a01341784bedc17e3b9b1d74c192bbac922dfe8be2fbf87024cd93a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/teach_dialogues.json"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/voice_bake_state.json",
+      "size": 34846,
+      "hash": "sha256-e1423d94d2078b1cf67be8a2cc53d957fc94bf309e34f1d2e3ff01c24a9ed9d3",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/voice_bake_state.json"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/voice_speech_manifest.json",
+      "size": 32636,
+      "hash": "sha256-76746859629d17c43b7130b96b78adabe7b1ad1dcd27e1631dfda843aa8e6502",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/voice_speech_manifest.json"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/sounds/chime_fairy.wav",
+      "size": 45164,
+      "hash": "sha256-ddaf2244e6c844362713ba1c6e5abfbc2c8e685a0df8e822b794be2cc408ef65",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/sounds/chime_fairy.wav"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/sounds/chime_pingpong.wav",
+      "size": 55244,
+      "hash": "sha256-28dfa1f8ca0047f2c621d8480dd3128c7c363971c736ec7caec68d8b0cc9967b",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/sounds/chime_pingpong.wav"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/sounds/se_pentap.wav",
+      "size": 2924,
+      "hash": "sha256-8de6b44b5212bdfc2bab3ba44851128cc93d83ee3c90aac4e80a08910a928a99",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/sounds/se_pentap.wav"
+    },
+    {
       "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/LICENSE",
       "size": 1093,
       "hash": "sha256-de18cbedb0c3b0d1eeb9ccac3988cdf69c21fa89039cd97dd8846cb68f661f81",
@@ -181,6 +217,1668 @@
       "size": 181680,
       "hash": "sha256-54fe6b087528b33c2969143d811eb62f1bd49071d37de9db0745fc079764d698",
       "zipEntryName": "win-x64/Tools/animation/rife-ncnn-vulkan/vcomp140.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase.seq.json",
+      "size": 24704,
+      "hash": "sha256-724d908e139af96b0747c72b57a73594d73d33440c0c4fcf43f2f51c4782ca07",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase.seq.json"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase_gray.png",
+      "size": 6808,
+      "hash": "sha256-7303c0edac0968cfd2d32c7e0b1f112b68dbceb1c829f5113219d1808652ddde",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase_gray.png"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase_palette.png",
+      "size": 479,
+      "hash": "sha256-34ca0f4152e38a0cc59ab02ed33d04111033a4f5dc38aecadbf84c96dbad4a80",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase_palette.png"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase_seqdata.seq.json",
+      "size": 24704,
+      "hash": "sha256-724d908e139af96b0747c72b57a73594d73d33440c0c4fcf43f2f51c4782ca07",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase_seqdata.seq.json"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase_texture.png",
+      "size": 7076,
+      "hash": "sha256-e825690dbe4f588c48515ba582c3ea6f573899b6a4dbfe6c80d02761fdf6235a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/angelnonowabase/sprite_atlas/angelnonowabase_texture.png"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ActionPlayer_Hitbox_0.mp3",
+      "size": 21020,
+      "hash": "sha256-ebba285baa6d35680c849f7a0695a496eda466ad0719e3be88e9abaa894f26aa",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ActionPlayer_Hitbox_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ActionPlayer_OnionSkin_0.mp3",
+      "size": 18788,
+      "hash": "sha256-4604b029d3ca4bab96545b2810165ac8646b6199f7829e9ff9e10cd6646ff1b2",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ActionPlayer_OnionSkin_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ActionPlayer_Play_0.mp3",
+      "size": 17780,
+      "hash": "sha256-db669e79605b5277afce1881ca76891b56ffd6a4d9cc3524642f559d55334c3e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ActionPlayer_Play_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ActionPlayer_Step_0.mp3",
+      "size": 23804,
+      "hash": "sha256-571f149a0bde0abf3e814edfdea2eafa9ff4f7648b4e604735ae8a1212fb3780",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ActionPlayer_Step_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppConnected_0.mp3",
+      "size": 38732,
+      "hash": "sha256-d17144c8623200ef981baec34021514e8300a853fb1ef929facdb145a77b7db9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppConnected_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppConnected_1.mp3",
+      "size": 38156,
+      "hash": "sha256-9c7a862e844326a5dc63f8152a22dcdfc2ed9560b6cb85535cde93a6e64307ef",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppConnected_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppError_0.mp3",
+      "size": 38780,
+      "hash": "sha256-d3a6e072ba1cf0d047ace93f9dddc584c564459ed45aa7704e5ccf01ccc8d2da",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppError_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppError_1.mp3",
+      "size": 41708,
+      "hash": "sha256-36e408a7f54f449d58d187a5f245593d9699ecd3ab9754157b9bfa9ad25009e1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppError_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_0.mp3",
+      "size": 41420,
+      "hash": "sha256-3429f9c856ef2c31f3ec675b4dfaf3e029f7d8d782fb6229863508357e703843",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_Masterpiece_0.mp3",
+      "size": 45908,
+      "hash": "sha256-b264fa3d1d87f1fa8f7f4c45e7e5be430c8d1e6187abc021507f7024aeb31e0c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_Masterpiece_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_Quick_0.mp3",
+      "size": 26468,
+      "hash": "sha256-f53e593a2d9874fc6d2f889c9d63e8e2c28d274634886304bf13c91e03a905d5",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_Quick_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_Sprint_0.mp3",
+      "size": 40388,
+      "hash": "sha256-3c2d7030ab8daeaa6e8b801a3c22ddcad035350bf4f82a369d122f24aad8275f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_Sprint_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_Thoughtful_0.mp3",
+      "size": 40148,
+      "hash": "sha256-b704680c821b6932cce5cad8c122b0b72342c3bc8f15a2e9c021bcefc713651d",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppExit_Thoughtful_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppSettings_0.mp3",
+      "size": 18524,
+      "hash": "sha256-b8182396bc19a318c75cabb3e96be11eaa1a2acd1e8168ba8e7847fdb10d3d2e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppSettings_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_BlurOutline_0.mp3",
+      "size": 53828,
+      "hash": "sha256-f4a43d7a5086736eac60a2142b9da2fee98470ac177a57ba76a89ae488bf64da",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_BlurOutline_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_BlurOutline_1.mp3",
+      "size": 36716,
+      "hash": "sha256-e3f4baf6997698a9089a27e15cff688c2199211d4e07a692e1aa60a4307cd117",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_BlurOutline_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Eraser_0.mp3",
+      "size": 44612,
+      "hash": "sha256-3b97c727d8b4894ad9403316caecb68b741f2438e1a21ff9988afff2ae3bc6e1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Eraser_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Eraser_1.mp3",
+      "size": 41324,
+      "hash": "sha256-f48a45b99d9e66fa55bdbb3dc74d445a3c688e9870baba44728fec557e9a243d",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Eraser_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_KbPen_0.mp3",
+      "size": 63428,
+      "hash": "sha256-1378384dffc5e2f517060494e51d568f485621b25c5b9098d1181ad008d20c7a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_KbPen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_KbPen_1.mp3",
+      "size": 44012,
+      "hash": "sha256-76396f8eb11c7dcbea87c864fc11847afef616f8bbfc6b140f8c81920f5ac6b7",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_KbPen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_LayerSel_0.mp3",
+      "size": 53372,
+      "hash": "sha256-cdbb19da0bd4e44e077b52602337561e229975c2deff75c1c2898cb80d47741d",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_LayerSel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_LayerSel_1.mp3",
+      "size": 47084,
+      "hash": "sha256-1033d3415d54c2799b535a9b27adfb12edb479b334fa9a0580ef93a6aa8784a4",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_LayerSel_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Line_0.mp3",
+      "size": 52052,
+      "hash": "sha256-5135ac098c3997e3cf291f5c3e40918c56ae015f410d209c0f49d7f35ebe536a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Line_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Pen_0.mp3",
+      "size": 51236,
+      "hash": "sha256-ee1dfc2ca49787bc300009eae45e21d1639d7caf4462fb7386aa731afcf1f892",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Pen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Rect_0.mp3",
+      "size": 46724,
+      "hash": "sha256-b462f7eae2df4e16db11f60bc0209ef3d7c3abb7fdc57363043a6c83f83d8b14",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Rect_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Rect_1.mp3",
+      "size": 29756,
+      "hash": "sha256-ee018edcf0eadc3cf82087db87f0b6a5657dcec4b3965dc8b570526d3e9ec772",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Rect_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Sel_0.mp3",
+      "size": 49028,
+      "hash": "sha256-4e81990e215719538d1ccde8c001f7f3b70c31835a21f40c6256577922f942c8",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Sel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Text_0.mp3",
+      "size": 44492,
+      "hash": "sha256-d0b2e55d6dbd93c6c90a62504eb13b1ca530ca73dee4e114667655c280caf535",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Text_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Text_1.mp3",
+      "size": 39188,
+      "hash": "sha256-c8e5855198a28b6fd9f77f3e089eaf378256fa4cba07485f864a908c814b62a6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Text_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_BatchExport_0.mp3",
+      "size": 20420,
+      "hash": "sha256-c4449140cb4d2deef53aaffad76d55b68d435316d1c8a9ec21e2b089c5cf543e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_BatchExport_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_BatchImport_0.mp3",
+      "size": 20180,
+      "hash": "sha256-b0d35a070a40fe63656c72ff5330bd7a1906985607c6874bf0391bbde0dd2400",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_BatchImport_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_Export_0.mp3",
+      "size": 20324,
+      "hash": "sha256-8a6379794c0ccf75219579b1c43e759a29e5815749d0a46fe4256cbb503759be",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_Export_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_Export_1.mp3",
+      "size": 20324,
+      "hash": "sha256-8a6379794c0ccf75219579b1c43e759a29e5815749d0a46fe4256cbb503759be",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_Export_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_Import_0.mp3",
+      "size": 18428,
+      "hash": "sha256-c15c234e5c578d9d81668e8bba156430ea0c067d3442d51f5ef85141fb94b80f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_Import_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_Paper2DImport_0.mp3",
+      "size": 23996,
+      "hash": "sha256-cf45922539cdda60e4143fa05d77eaa9d147858ea408fe7f21daf65e2f08ae87",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Data_Paper2DImport_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ExceptionCaught_0.mp3",
+      "size": 36644,
+      "hash": "sha256-b224659347387e04b7135711f8e717bff704bf74ea15a3cc30f292b5cb03bed9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ExceptionCaught_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ExceptionCaught_1.mp3",
+      "size": 34052,
+      "hash": "sha256-a386edad9823c404a408dac71bc5114f2a22605ab50e9d9c5db1d6e2a18aea1b",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ExceptionCaught_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_0.mp3",
+      "size": 37196,
+      "hash": "sha256-64dd7c431696f9d860411e92cab5cdbd0e10851ab04b4d27d625d857e4ed6f13",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_1.mp3",
+      "size": 43532,
+      "hash": "sha256-cc84b37e98298716e7a91663490abce807b59599dad14b7603795520af78c65d",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_10.mp3",
+      "size": 46796,
+      "hash": "sha256-23c4129b96f1806d2db925810349e0b84359bd6450031cee763017b59bf9e944",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_10.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_11.mp3",
+      "size": 47756,
+      "hash": "sha256-c0cfe2c4a6f3a9a6d0d8fe2b6b87ce8fd75b3239339029ef8fb685940883e505",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_11.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_2.mp3",
+      "size": 46388,
+      "hash": "sha256-0c9c479f38ad4a9ed0d46268f618d8c1985d3da4a163382c9498179273b9b69f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_3.mp3",
+      "size": 51116,
+      "hash": "sha256-5de760369624b3e1da047209102da02ae7a2614c2e083d38f1a27727cce577b7",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_3.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_4.mp3",
+      "size": 43796,
+      "hash": "sha256-098f0a3ae9352645e2b0ec854714cd49781df15872159390d09d44d5ac58624b",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_4.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_5.mp3",
+      "size": 42404,
+      "hash": "sha256-86e0b20fb046c640a4fbf500248edacaa4b6a5bda72d416849aae828d2cfef2e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_5.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_6.mp3",
+      "size": 52652,
+      "hash": "sha256-5a1c4646c0d15ae9b7e7c6a58ee04c6f49986117270b90dbcc17286f139b75a9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_6.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_7.mp3",
+      "size": 41780,
+      "hash": "sha256-bd0a58d333307d122b9d161756590ebaedb8be869757969d22cae04378c11e2e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_7.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_8.mp3",
+      "size": 44204,
+      "hash": "sha256-2f578fdfacd649c92492094b6fc6fe733edd9b46948b2e1c55136380a8340d66",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_8.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_9.mp3",
+      "size": 52388,
+      "hash": "sha256-2ce028234c09058d0239b600bf76fb5bb48f55b57e197d7c93ce92daf81af180",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Animation_9.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_0.mp3",
+      "size": 46868,
+      "hash": "sha256-fd0308fa3b2598cf25dac698aebec5ff8d7a2b04bc3f24a792f151554d99a598",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_1.mp3",
+      "size": 56036,
+      "hash": "sha256-1bcac61d3e84547f4930ba6af01ccd83d3ec42829b9777769646e6e84a666b2c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_10.mp3",
+      "size": 46028,
+      "hash": "sha256-360f3fffd2165ded35356096efbe75479cfc3b07376c81e281f8911d1684601b",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_10.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_11.mp3",
+      "size": 45308,
+      "hash": "sha256-eaae6aebf1e6fcc82f2883f00f78010121203d49228cfdac0507a496fec0b4c8",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_11.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_2.mp3",
+      "size": 45860,
+      "hash": "sha256-d4b15b777527bcab05ef26fe64e87341bcdd36e31270f32a71deaf9396f076c9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_3.mp3",
+      "size": 46292,
+      "hash": "sha256-1594172cb7cf589fc77d0cddd7bafe1a0739caa29e6104a82fa69919479ee5a2",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_3.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_4.mp3",
+      "size": 48860,
+      "hash": "sha256-78ccee24749efa3de3d8ca47cee3c5743662fff81c8bc983392ff899895b0f8c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_4.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_5.mp3",
+      "size": 44540,
+      "hash": "sha256-3f82b9559faa3af115ed06e12b0de9ee4b5bb161993d110af0b739306f6f41bb",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_5.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_6.mp3",
+      "size": 35468,
+      "hash": "sha256-731f003a6d54f8b02715e3b13b025c66efe9b6fe43be53134d5c2e5b47e94303",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_6.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_7.mp3",
+      "size": 46052,
+      "hash": "sha256-061b9f24d319fde400a5d8b4fb6cfe80351af706db75c243f4d4c25240a33bd6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_7.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_8.mp3",
+      "size": 40196,
+      "hash": "sha256-fdde1577d1c59983571f8c9790e2e672ba7b4d695eb70387cd8f62f19aca3a94",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_8.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_9.mp3",
+      "size": 49100,
+      "hash": "sha256-633181f919c6055a374bf53138083499e22a74f1ad3d3224028067060fe9ee83",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Editor_9.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_0.mp3",
+      "size": 39884,
+      "hash": "sha256-3bd50d61b8cbe401ac18bc2e3a6426b149d4bd0bad292ddab0bb504bffb4efc2",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_1.mp3",
+      "size": 36572,
+      "hash": "sha256-93be1595718fc44e66302e79e6d439e450f55c46271f678efe9b892b0eb2c019",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_2.mp3",
+      "size": 43508,
+      "hash": "sha256-7a8d4d2c3c767e0a73daef508f995402672b55d1d5b8e76bae214d9831026c83",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_3.mp3",
+      "size": 48164,
+      "hash": "sha256-908e9021dc19ff706d5b9828b54ce4a82376fc3cd719c9ff35ea68b34b35bb93",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_3.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_4.mp3",
+      "size": 33644,
+      "hash": "sha256-c955bd059ea3c8d88bb1aea757391f05931271af03af43f7a2b4c4f3a38ba284",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_4.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_5.mp3",
+      "size": 39836,
+      "hash": "sha256-cd78c1d49b79deca8a9fdceaab6461c84abd159598ec3f89e1ca29e481c87890",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_5.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_6.mp3",
+      "size": 42620,
+      "hash": "sha256-400f134c9b15c3e6c85af81dc562dc9da24a67ae67e540cc7cdbcb907d4c3739",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_6.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_7.mp3",
+      "size": 49292,
+      "hash": "sha256-b8ae277c8ebb9e6dc743d41b14418effb6ccf4a377d121a9f0524f2ee7a2ed9a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_7.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_8.mp3",
+      "size": 40772,
+      "hash": "sha256-598cbcf7ca27bcf183e474a9622ec8d4113b16e1589e9da2cdbc0a35d7bbcc22",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_8.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_9.mp3",
+      "size": 44252,
+      "hash": "sha256-3535b0d215b70dcd7cc4588f76ab322724307d4d54ffe99871b8f9c75b05750f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/InstantAdvice_Pattern_9.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/LayerSet_Config_0.mp3",
+      "size": 23348,
+      "hash": "sha256-2a254fa3b6048030a11127d300bac4468bfbc00e2fea87c829451c9878083c23",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/LayerSet_Config_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/LayerSet_Config_1.mp3",
+      "size": 23348,
+      "hash": "sha256-2a254fa3b6048030a11127d300bac4468bfbc00e2fea87c829451c9878083c23",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/LayerSet_Config_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/LayerSet_Select_0.mp3",
+      "size": 15620,
+      "hash": "sha256-9be12eab755192a08dc4a303dc347555fb3a2fed2e832899cf89cd6915121fe6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/LayerSet_Select_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ModeChanged_Animation_0.mp3",
+      "size": 39308,
+      "hash": "sha256-86b991019bf650e1ec89d4e7e2976555cb43c187b43fe750d0a612829fbb081a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ModeChanged_Animation_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ModeChanged_Editor_0.mp3",
+      "size": 29348,
+      "hash": "sha256-104c3a48a44e15e82ed64c6bc0ca72700ccfe9b904cefec7ccd29db859cc8b78",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ModeChanged_Editor_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ModeChanged_Pattern_0.mp3",
+      "size": 34172,
+      "hash": "sha256-061b50d55e1e0d07037410aeed8b528a3ef5cdfa9845a17b62eab9e351635472",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ModeChanged_Pattern_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ModeChanged_Pattern_1.mp3",
+      "size": 34172,
+      "hash": "sha256-061b50d55e1e0d07037410aeed8b528a3ef5cdfa9845a17b62eab9e351635472",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ModeChanged_Pattern_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_Disabled_0.mp3",
+      "size": 35732,
+      "hash": "sha256-d5f22c9764bdb973b852bc44b1d80e6989a943ee14ad867806e872cf71eee850",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_Disabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_Enabled_0.mp3",
+      "size": 46004,
+      "hash": "sha256-45567ce07edf3d547811b672041fd3465205f0b517fc03daaffca5334701a253",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_Enabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_NeedSelection_0.mp3",
+      "size": 39980,
+      "hash": "sha256-f040c362058cd5f305dc23b6f13b6b3bee83b3789a981f8977076109f2cf05a7",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_NeedSelection_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_NextStep_0.mp3",
+      "size": 39500,
+      "hash": "sha256-29f53626cfb843248f97bd0b8ae7bf4320f4b0b074b0a8038985efd0e652a943",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_NextStep_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_PinFix_0.mp3",
+      "size": 29492,
+      "hash": "sha256-0ad53e2b261f531a04fb1f516a5d38b2fb024116f742fb5f4f12bc5f823b13c9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_PinFix_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_PrevStep_0.mp3",
+      "size": 46220,
+      "hash": "sha256-d53c0ac2a604b1a0f0b10011f890a5e01e603f6f77eb8519b4768a70e0bd3ebf",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_PrevStep_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_StartFromAnimation_0.mp3",
+      "size": 51716,
+      "hash": "sha256-0a87ed30b909a8f39ca4f0ffcc0dc236cb939af376ddaa7bcc1cd3217228f9f7",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_StartFromAnimation_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/PaletteColorChanged_0.mp3",
+      "size": 19388,
+      "hash": "sha256-dc195b327de255e6fa33998cb1e28d112fb20f4df2491d69a39a72a94b6b2308",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/PaletteColorChanged_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/PaletteColorChanged_1.mp3",
+      "size": 19388,
+      "hash": "sha256-dc195b327de255e6fa33998cb1e28d112fb20f4df2491d69a39a72a94b6b2308",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/PaletteColorChanged_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Palette_ColorSelect_0.mp3",
+      "size": 17636,
+      "hash": "sha256-ad3c477e2b3dc56c70b4dd0d9ac9d668e990ffebfd96f61a228489222bec4787",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Palette_ColorSelect_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Project_Load_0.mp3",
+      "size": 14444,
+      "hash": "sha256-7c75509bce85a60e6dc30a5f4950330c3787106b74f198168d9b17d2701d5d22",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Project_Load_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Project_New_0.mp3",
+      "size": 20108,
+      "hash": "sha256-599110939c720129888777c76afaf9b523bf534f596b9942e443788098355a28",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Project_New_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Project_Save_0.mp3",
+      "size": 15020,
+      "hash": "sha256-fafcd849c68892998b4874d9b386fd9f641458e7cce92e4126e0db53dbf1d51f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Project_Save_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Project_Save_1.mp3",
+      "size": 15020,
+      "hash": "sha256-fafcd849c68892998b4874d9b386fd9f641458e7cce92e4126e0db53dbf1d51f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Project_Save_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Redo_0.mp3",
+      "size": 21332,
+      "hash": "sha256-39ad70bd805c68cf61870361b1de72d682e888e367be4dd02f4c98da51c4bd66",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Redo_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Disabled_0.mp3",
+      "size": 34988,
+      "hash": "sha256-43acca28a6887001198012ffa965f0a45656882d308ec3cccfb800988e410d42",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Disabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Enabled_0.mp3",
+      "size": 51164,
+      "hash": "sha256-491664db6597d6b6d6959595955401e1ab428563cd380873938ab61f1e236c51",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Enabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Mode_MapChip_0.mp3",
+      "size": 43220,
+      "hash": "sha256-610bd9f12ef874b665f26fdb8ff4990a6466076ec570b4a34041a3144143132a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Mode_MapChip_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Mode_Symmetry_0.mp3",
+      "size": 47804,
+      "hash": "sha256-ed4e71e658eb7bd088b0ee5cf575739dc2498aa8ea772dab793a30fbc50bd550",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Mode_Symmetry_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Mode_TileRepeat_0.mp3",
+      "size": 49100,
+      "hash": "sha256-ca8665625aaa984829c3d2f05f195f507b52d32feee15c221cfe74a538229c14",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Mode_TileRepeat_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_0.mp3",
+      "size": 43388,
+      "hash": "sha256-5b7ec1541d3a79bab2f08f8fb32d26dd086733933ce61a63caa7d173259bbf8d",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_1.mp3",
+      "size": 49004,
+      "hash": "sha256-7a6ae697d15da61ece1e0da6c79d4b535bc0c91c2eda9b63fb0600bf38e632c1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_2.mp3",
+      "size": 47756,
+      "hash": "sha256-94c40695193d88d2cb472e8d8953cb2b618d07f7bfa67f7a1186ac172a674e2a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_3.mp3",
+      "size": 47252,
+      "hash": "sha256-3a9c8771de98f3e841c9eaef4a5e9a7a47e046d6fb7e426e1832a5df6f94894e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_3.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_4.mp3",
+      "size": 48620,
+      "hash": "sha256-e079ba84046c62f63aa2cbedf222ea02bb53334f51e0f39793d1e417d74d17bd",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_4.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_BlurOutline_0.mp3",
+      "size": 48668,
+      "hash": "sha256-cfb68dba8085c635c36a0d61a2584eda77bab5509fa653754a9726f6d7d7c12a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_BlurOutline_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_BlurOutline_1.mp3",
+      "size": 47708,
+      "hash": "sha256-fdb36a075cc06d19078c93530aabf3abbbc8050b5d710b998147085232835f80",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_BlurOutline_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_BlurOutline_2.mp3",
+      "size": 41084,
+      "hash": "sha256-623f07f352736598215f3a0c0b2d6b34c4244febab2754b629cd2754a7eb0999",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_BlurOutline_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Eraser_0.mp3",
+      "size": 43556,
+      "hash": "sha256-81ad377f34387505abe974fa02e0283a61066678bb006defe47a6b48350f1636",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Eraser_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Eraser_1.mp3",
+      "size": 40268,
+      "hash": "sha256-28b5277047fc2fb99ff8dad54569fcf7c601164c8338cc1e755af2a359c53e68",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Eraser_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Fill_0.mp3",
+      "size": 46604,
+      "hash": "sha256-237a0945d18c5bbd4a7f4963b95eba9b779ed13c0eecfd9b582e6d4542ca98e3",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Fill_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Fill_1.mp3",
+      "size": 42092,
+      "hash": "sha256-49119f1a24ae2955b89843d230ff67ca9a62125a1a9b14c682585c1dc99b3f5f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Fill_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Fill_2.mp3",
+      "size": 44732,
+      "hash": "sha256-ad0c0d6978332bc007c763fb095b8667b893e7c8e10545564a5200fac605218a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Fill_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_KbPen_0.mp3",
+      "size": 48596,
+      "hash": "sha256-b11ee2ba87ae6fd17675d2c8ee137387f2be34bc10b1dcd790f30c3afe552890",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_KbPen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_LayerSel_0.mp3",
+      "size": 58460,
+      "hash": "sha256-2eec0bc1a13562648c7feae978353acefb768c386cc07fd58efc7b02918e4c3c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_LayerSel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_LayerSel_1.mp3",
+      "size": 41444,
+      "hash": "sha256-fd263106e2ced412ad3c61ac0e8248df6a208924ec59200f58a265c164c0afa2",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_LayerSel_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_LayerSel_2.mp3",
+      "size": 49028,
+      "hash": "sha256-61ac3020c734ff13c72a79ee083aff1429aea62ed52772bbcaaac0c9aff07f58",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_LayerSel_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Line_0.mp3",
+      "size": 52412,
+      "hash": "sha256-e2ded9482ca344570c48dfacb058a66689544c49f1553534d2a58017228cb511",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Line_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Line_1.mp3",
+      "size": 55628,
+      "hash": "sha256-d5e80a589fc7349ce4dabf85a0a0f8dfe40d1084b5d311963459dd658d232a17",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Line_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Line_2.mp3",
+      "size": 42596,
+      "hash": "sha256-35b18043516228ec9488bb53788b17127b4a7f5827651f84a9153bb634ebd1f3",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Line_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pen_0.mp3",
+      "size": 38084,
+      "hash": "sha256-8ff5cf05277936956f35c9c74de7a212e07ffb4dd47254ad3355675ce38ed011",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pen_1.mp3",
+      "size": 46100,
+      "hash": "sha256-62fc7ad8920e6f9df7f8ea8cfdb4b2aa0153534a516008cf58967cea87bc0fc1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pick_0.mp3",
+      "size": 51164,
+      "hash": "sha256-539c8ebec1b022fdcc991835c2486159e4a24e8ca1b37fed8789f23e9d2cfef9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pick_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pick_1.mp3",
+      "size": 48212,
+      "hash": "sha256-96bbc06cb2f8611ababec549d5e64a4e3c31fc4ab8693cd5cfff0302c3cc6249",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pick_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pick_2.mp3",
+      "size": 44708,
+      "hash": "sha256-848d0fe774d6bdbba990ceaede1a3462fe17cf571c0ee0c3bf512ca395727172",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pick_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Rect_0.mp3",
+      "size": 53996,
+      "hash": "sha256-517901d544c9173eedb54e614f6a5eae2d0b09a780662362585dde7f3d9b296e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Rect_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Rect_1.mp3",
+      "size": 40436,
+      "hash": "sha256-bcb70d56dda7cf4bcbfca80277b05573ecd7b61738f65dcb8bff7543a81185ee",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Rect_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Rect_2.mp3",
+      "size": 44492,
+      "hash": "sha256-00f0a722ea3859651cf6e29fb8ad8cea19738184cae43f045107456706a6e7b4",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Rect_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Sel_0.mp3",
+      "size": 57548,
+      "hash": "sha256-19daa92dfc0732b56466f264b600d82e125d78d83d806aedc4f01024797cda67",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Sel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Text_0.mp3",
+      "size": 45332,
+      "hash": "sha256-d592c8cdbcaec3d478dd7e8a3706449ae4a9ef80b44c7f76a87968ec7d27f62a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Text_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Text_1.mp3",
+      "size": 33548,
+      "hash": "sha256-927bec9ab4c060567dd074091837eba978ee8812a7d2137dc8530baa0ac266e2",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Text_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Text_2.mp3",
+      "size": 37508,
+      "hash": "sha256-c8eeeeee4c9201141ff029e773f06db991f2b75ea16900e5e5fa9f3299f6e1c1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Text_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/UndoStreak_0.mp3",
+      "size": 39644,
+      "hash": "sha256-f9df2ef2e55957d8b1f00ecbbcc5b8c6c851e65707100d2e817934ceeca30bab",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/UndoStreak_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/UndoStreak_1.mp3",
+      "size": 26084,
+      "hash": "sha256-bd7c261afe7042c7ad9b16a08511f11868ad06e610926ec472955694efdedb83",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/UndoStreak_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Undo_0.mp3",
+      "size": 17684,
+      "hash": "sha256-8932827784ef73e528202dbe3941c89b14e167f1d4a43ca6664024f484a763eb",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Undo_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/UnsavedAlert_0.mp3",
+      "size": 48620,
+      "hash": "sha256-9093cd94933fe1b0746378377898df6b9dbeeae3ec6119e00b55a3641ce31786",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/UnsavedAlert_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/UnsavedAlert_1.mp3",
+      "size": 38780,
+      "hash": "sha256-7f5b32dfedaf248bbf8991a915f6c8c638fd75f41a38f9e41aa2255621961c9c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/UnsavedAlert_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/UnsavedAlert_2.mp3",
+      "size": 39140,
+      "hash": "sha256-0af27eb59ff108f9ab70b75f98fe72a482f545d0d1a71e10fdcc6c5467ffd13d",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/UnsavedAlert_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ActionPlayer_Hitbox_0.mp3",
+      "size": 18500,
+      "hash": "sha256-e1f1291335f21f1d86b552a7b5d04089690faeb66e858362901af910a39b6c1e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ActionPlayer_Hitbox_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ActionPlayer_OnionSkin_0.mp3",
+      "size": 15500,
+      "hash": "sha256-d88e9cd4cd70a0f9704706d6c0060b32c44c1ccc0483b18a6af1157d8ec5c955",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ActionPlayer_OnionSkin_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ActionPlayer_Play_0.mp3",
+      "size": 15548,
+      "hash": "sha256-b14b8511c087d018cafca05ac1262a6798fec2c0e003d96e13081decb349e213",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ActionPlayer_Play_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ActionPlayer_Step_0.mp3",
+      "size": 18476,
+      "hash": "sha256-1b95d88874754db990004ba134ac15d70c3448d5fcbaf08b443663d32ff3c004",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ActionPlayer_Step_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppConnected_0.mp3",
+      "size": 34028,
+      "hash": "sha256-ccd7e8fc8d29bd9c13099e3966f82030aa7a38bca3c0ce86dbc2794ed5d13d72",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppConnected_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppConnected_1.mp3",
+      "size": 31676,
+      "hash": "sha256-1ac23599379e7bc77a1a48af8ef2862d8ff2bedd67b286e0850c208112699f89",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppConnected_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppError_0.mp3",
+      "size": 29852,
+      "hash": "sha256-6fc1e6bf4dc2491832797a1cdff920249547d243fb5de9a9ca5ff3a92216a4d6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppError_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppError_1.mp3",
+      "size": 33836,
+      "hash": "sha256-0ede872098aa3174edc50646aaa320e8340c11b3a6519617af5248c0c988ccca",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppError_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_0.mp3",
+      "size": 33044,
+      "hash": "sha256-021dd1093ff4f6f2140291bf8b5697bd7f2d841efd583bd50cf06f3446deceab",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_Masterpiece_0.mp3",
+      "size": 32108,
+      "hash": "sha256-ca214703c2e82e2ebb8621c04dc24b0965ecb6272b7ff3ee0950f3ddcfb4be1d",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_Masterpiece_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_Quick_0.mp3",
+      "size": 29780,
+      "hash": "sha256-61a2cb0395b05f1a948402ea38b861365280d5af6c3a4244bc294f77a128f901",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_Quick_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_Sprint_0.mp3",
+      "size": 35540,
+      "hash": "sha256-e83e66cc1310137836f40cdb27ba6ed4746a9a31a41f2b5ba68820befd052c58",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_Sprint_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_Thoughtful_0.mp3",
+      "size": 30332,
+      "hash": "sha256-583f0d6344a44cffc74b04e0bcc0cf3a557fae974f66feeceadc7aa1829a3100",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppExit_Thoughtful_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppSettings_0.mp3",
+      "size": 31268,
+      "hash": "sha256-97cbdf9aee33613ac5c70638a0fc8afaf5a62c708b84167933a15a6262a24ae3",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppSettings_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_BlurOutline_0.mp3",
+      "size": 37964,
+      "hash": "sha256-842a76b4859ef2d2910a8af9d71756707115c1e085b40b83b3fefeaea42029c3",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_BlurOutline_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_BlurOutline_1.mp3",
+      "size": 37028,
+      "hash": "sha256-3eef84413c4f584dae8cc4258ac147e46306647f355f9ac080d69cfd58d88373",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_BlurOutline_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Eraser_0.mp3",
+      "size": 36860,
+      "hash": "sha256-ce0a40b5907ce999c36602d2d9fcb66c017902da4d95faadbb433c609a8616bf",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Eraser_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Eraser_1.mp3",
+      "size": 31580,
+      "hash": "sha256-61acf023157d0d884e5ff320d5c78343705b9e6fad488b051eb4edd31d76d952",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Eraser_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_KbPen_0.mp3",
+      "size": 52940,
+      "hash": "sha256-ed4dddb50d5bfea7b74d98adcf6820c5560f53e16c418035ec3652a6cd36d3b6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_KbPen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_KbPen_1.mp3",
+      "size": 33572,
+      "hash": "sha256-e05bad857963d108d79eb5773e733694ba8a0b5c6761ee5df5d5a1d2350cc006",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_KbPen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_LayerSel_0.mp3",
+      "size": 49724,
+      "hash": "sha256-e21d9917cbba5729b1f748944e59e8ecfc09615ff407bb5181173b478a27a2d6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_LayerSel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_LayerSel_1.mp3",
+      "size": 33092,
+      "hash": "sha256-a6929d4e4e5914ed607a5e843257ab2b9594144959390a5a4ea1f7d632a1aa66",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_LayerSel_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Line_0.mp3",
+      "size": 35876,
+      "hash": "sha256-8e59a210389a6a5c535d9366293b444b388032f0acf15a73d7fca4b0a0c842b5",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Line_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Pen_0.mp3",
+      "size": 39764,
+      "hash": "sha256-38af5fc13aef671a284392055c39711e56d8938a326b352978fc8fba09b99c75",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Pen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Rect_0.mp3",
+      "size": 36908,
+      "hash": "sha256-5d194f2f24d6e0c5adcb40c1be4d13377847b50af2d5ba245f4bf4447cbe216a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Rect_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Rect_1.mp3",
+      "size": 37988,
+      "hash": "sha256-ef3f3be7f702710fdcb9b6f33120961764b671ae522ff0e9c293866c98eeefe5",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Rect_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Sel_0.mp3",
+      "size": 37388,
+      "hash": "sha256-043dfc1a93abbfcf8649af7ec53709389724ffe39dfbf1d80ec9dcbe5d04f5d2",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Sel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Text_0.mp3",
+      "size": 35204,
+      "hash": "sha256-beceabd727086d62606268e0b6df35ceb09e9edc6f863f32f8d8f61947e75629",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Text_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Text_1.mp3",
+      "size": 30788,
+      "hash": "sha256-6cee5ba7be6745c09d81d8e54960143bbc236ee5d24717da49a1fe9edfc7c676",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Text_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_BatchExport_0.mp3",
+      "size": 24668,
+      "hash": "sha256-83d7999a1b94578db237cbbaad8093b6fae8a41ddd640b5578fcc1ddba72c3ed",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_BatchExport_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_BatchImport_0.mp3",
+      "size": 21644,
+      "hash": "sha256-b05e155f0221d3f382cdf34fdea4a19a011694b05174d5dd3470581f14b3ec09",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_BatchImport_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_Export_0.mp3",
+      "size": 26996,
+      "hash": "sha256-e13dfee927b5c9758b55c8da0c3464dddf0befc3e702834e3d5f0e1dcbaeec74",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_Export_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_Export_1.mp3",
+      "size": 26996,
+      "hash": "sha256-e13dfee927b5c9758b55c8da0c3464dddf0befc3e702834e3d5f0e1dcbaeec74",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_Export_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_Import_0.mp3",
+      "size": 23900,
+      "hash": "sha256-afe2f63a4f5f8e0945c686fb625c40d314a411b01e7f2122ff879421c296a468",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_Import_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_Paper2DImport_0.mp3",
+      "size": 18932,
+      "hash": "sha256-ad357c78c1db83db861388a9207febe2b249b2b0a3375a5004502ade07a52261",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Data_Paper2DImport_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ExceptionCaught_0.mp3",
+      "size": 31580,
+      "hash": "sha256-57f48b1c3984845e03f28f934ccd380eddc8ad55a2f51ad9acf8d5ea1ed58f5b",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ExceptionCaught_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ExceptionCaught_1.mp3",
+      "size": 32300,
+      "hash": "sha256-801fd3e124d43ff4552c898cea21b9ac5ae3b185dfd2f63e0a81fc0a62bb41ec",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ExceptionCaught_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_0.mp3",
+      "size": 33980,
+      "hash": "sha256-1a98f977d403918288be2a745b72cab22c7f4fdf06d296a5d0a3bed74dff514c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_1.mp3",
+      "size": 41396,
+      "hash": "sha256-2c09b5cc52d048ea0b3363f7ba71ddba04bc3ebf1e2668e42bac63604bd1618e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_10.mp3",
+      "size": 39308,
+      "hash": "sha256-683530dc64f8501ad7ca1f01df611a056351c3ad15d125a5b490278999534c9f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_10.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_11.mp3",
+      "size": 32516,
+      "hash": "sha256-603452b9509ef56117903998c364b249db2b8fde68aecedbf3042dbc74157f4f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_11.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_2.mp3",
+      "size": 38012,
+      "hash": "sha256-6431f8705658f635438a9515e1edc24c74c9f15730c63b873f4fed65bd1d1371",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_3.mp3",
+      "size": 32756,
+      "hash": "sha256-6128d93a62abfdbd0adfb91610323225952d3af358d48f18f857af43d59a69a6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_3.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_4.mp3",
+      "size": 30404,
+      "hash": "sha256-428bc034c3400f54c0557deb65b46749e196301f79e19c026dd82442cbe6f595",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_4.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_5.mp3",
+      "size": 32660,
+      "hash": "sha256-1f968476a37aaf47bb7a0acc3be0fff673053f5bcb41dded172349f5df5f3b34",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_5.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_6.mp3",
+      "size": 28940,
+      "hash": "sha256-25ed286e4b3533d09c5c5532ac3c709aa322155257b636fce32c4498299372df",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_6.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_7.mp3",
+      "size": 38636,
+      "hash": "sha256-7cd7698c9b6442bf9c52ea7604e97e4131772ef234bc41ef16036728ede7929a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_7.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_8.mp3",
+      "size": 34148,
+      "hash": "sha256-83a407b1c374aa8525cc4f323c3b27fb3423fa3b7949b29e6a8646fc0b850a42",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_8.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_9.mp3",
+      "size": 45020,
+      "hash": "sha256-6654fbbb6ea0c1ba20df5a4c82bda68c26e8b9fd7929f0549aaa992d1ac02132",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Animation_9.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_0.mp3",
+      "size": 37196,
+      "hash": "sha256-2af063766631a0df7672abbe155ee3d47ce8117535c5a910dd0a52fe275848f1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_1.mp3",
+      "size": 41252,
+      "hash": "sha256-a852d4e6f890901d104a08d1425c92184b62e383da384d5a6fc8104e28e3110b",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_10.mp3",
+      "size": 36740,
+      "hash": "sha256-2e0a2539ff832e4906eeae4a90b6cff48790406a34270063e091eac989758da0",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_10.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_11.mp3",
+      "size": 35420,
+      "hash": "sha256-5825b6f5e9df68dac69e7394d4e4039eec462365642039fc41c5af53a464a3d6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_11.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_2.mp3",
+      "size": 42116,
+      "hash": "sha256-fa25a6f844a3d1393a1f045881d97554955d6675cc6d7ede92bdf4d23ed65990",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_3.mp3",
+      "size": 37292,
+      "hash": "sha256-d69f3270e87c7ebf35d33e45e333dfdb9835d86faec2526f855534ed2cafc9da",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_3.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_4.mp3",
+      "size": 37100,
+      "hash": "sha256-03693e771fd7547576fccbc187dcb942003b382d434d8d65ab1fbcc582b76752",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_4.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_5.mp3",
+      "size": 38132,
+      "hash": "sha256-3dffb5d58c1e418ea3bf529964289be34024b180a1ba52da6fe91d3003f6c14c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_5.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_6.mp3",
+      "size": 33884,
+      "hash": "sha256-d3af5cb047d55384967a7fcd65fc86ed0ea51c9374ae91cce1963ebb017a7992",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_6.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_7.mp3",
+      "size": 40004,
+      "hash": "sha256-8d9f35dd371c88fb15836e30df531a99397e71fc629bf85ddfba30db15f07dee",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_7.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_8.mp3",
+      "size": 35444,
+      "hash": "sha256-c86a06b789c3ede167cf9f25928965bf2a39e0f71e35917fa2d5b447055ad3bd",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_8.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_9.mp3",
+      "size": 32180,
+      "hash": "sha256-2e0e3ee608bfb32823ae4ba201e44f9ad14481d388ef036ee67f1896da822d63",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Editor_9.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_0.mp3",
+      "size": 32780,
+      "hash": "sha256-c61dda97d7ee0d48af6b1b1cddcafd18edebb8ade6c471e0fef2c70d28a854a1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_1.mp3",
+      "size": 33620,
+      "hash": "sha256-df54873e41c54468f0f8e93f6067e1e33a563471e75ef521913110ec0851de5e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_2.mp3",
+      "size": 35516,
+      "hash": "sha256-2649ccbc984b0cea762954c01bf154acbb41d02d932f39b8e78751662551ac5a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_3.mp3",
+      "size": 39764,
+      "hash": "sha256-c6bcacd6fe50c3a66a90c4f61ae62e5fdd35381675733362ed8e99a424245546",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_3.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_4.mp3",
+      "size": 26444,
+      "hash": "sha256-805deea6fa17c4f48149d47cfaea559c0784eecf2a0aa932fc4e69376daa61d5",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_4.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_5.mp3",
+      "size": 35492,
+      "hash": "sha256-c485f1197f8bf19f345ded8d68babbbbdcb9cbc8d1f7c31f8b341fba6e881dc0",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_5.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_6.mp3",
+      "size": 32972,
+      "hash": "sha256-f2ff3994f7a754d759bd0a58715d870d7c6fec8f073897acde2985a571543077",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_6.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_7.mp3",
+      "size": 37820,
+      "hash": "sha256-4c5e8eedb6f12aab24e28226799bbb599d63b070dd9385e6816c6353859bf99a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_7.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_8.mp3",
+      "size": 33428,
+      "hash": "sha256-b23046d654bc2ba178708ae6a0e2561c3d4b918c28a1da520c27c1f8636ce5f5",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_8.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_9.mp3",
+      "size": 32708,
+      "hash": "sha256-d697b30478b243bada315de6e5a97364ff33f764cf644c9de75d96ceeb4561cd",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/InstantAdvice_Pattern_9.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/LayerSet_Config_0.mp3",
+      "size": 21956,
+      "hash": "sha256-ded1bf53b81755457d5c80f1b4eb5d24f850c768a909a11d80b02b0109593422",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/LayerSet_Config_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/LayerSet_Config_1.mp3",
+      "size": 21956,
+      "hash": "sha256-ded1bf53b81755457d5c80f1b4eb5d24f850c768a909a11d80b02b0109593422",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/LayerSet_Config_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/LayerSet_Select_0.mp3",
+      "size": 14876,
+      "hash": "sha256-6eb04bf319de885307bc57ddfd87cf91386c480167f72ef1b22294b932ffca8e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/LayerSet_Select_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ModeChanged_Animation_0.mp3",
+      "size": 32708,
+      "hash": "sha256-3f8eeb3b0096f6fc9ed3254b55b435f9904badacfb46fef4a69c602113bda727",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ModeChanged_Animation_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ModeChanged_Editor_0.mp3",
+      "size": 25724,
+      "hash": "sha256-96d4bbad898aaa97bf1634e91cf6ba830c190c010034c65bbf096bdc26dec7b1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ModeChanged_Editor_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ModeChanged_Pattern_0.mp3",
+      "size": 29156,
+      "hash": "sha256-e4ba0198f5ce20e2492268d02ce3827d96cbdc1a60fd3961d2851ad2d5832234",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ModeChanged_Pattern_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ModeChanged_Pattern_1.mp3",
+      "size": 29156,
+      "hash": "sha256-e4ba0198f5ce20e2492268d02ce3827d96cbdc1a60fd3961d2851ad2d5832234",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ModeChanged_Pattern_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_Disabled_0.mp3",
+      "size": 36644,
+      "hash": "sha256-46dff538425f0e10486859ef53503fd4b447a24e4c04faa3f2875a33008bd297",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_Disabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_Enabled_0.mp3",
+      "size": 42452,
+      "hash": "sha256-9eac5c1a299958f7c9bdf9243ade1242ecf70a6be3b4b2b17c6c39fcf78c23e9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_Enabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_NeedSelection_0.mp3",
+      "size": 36812,
+      "hash": "sha256-5e90be9c1816f8b0a4c96ca76c2081d89d98486c109530fbcd552a558ed5c23a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_NeedSelection_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_NextStep_0.mp3",
+      "size": 37556,
+      "hash": "sha256-8c2812cffe5125120fa56b590b507df6aaaabd392048966961786b25ec61f07a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_NextStep_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_PinFix_0.mp3",
+      "size": 31172,
+      "hash": "sha256-74cd9744542ad822b93966df2cda43baffa8a363035fe8318a47ca81fb8abacf",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_PinFix_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_PrevStep_0.mp3",
+      "size": 34460,
+      "hash": "sha256-604b90cdfc8db14c66ffdcea88eeaede251aaba6666d7422034eed99a9c1c695",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_PrevStep_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_StartFromAnimation_0.mp3",
+      "size": 36860,
+      "hash": "sha256-e02f856c64a4abc3277da311939a6864b23446a51b00d939cb870332c57806a3",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_StartFromAnimation_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/PaletteColorChanged_0.mp3",
+      "size": 13124,
+      "hash": "sha256-fab464a7cfeafe189c50a0655bfe918d4aa70dfbd99149540f8728a454532a12",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/PaletteColorChanged_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/PaletteColorChanged_1.mp3",
+      "size": 13124,
+      "hash": "sha256-fab464a7cfeafe189c50a0655bfe918d4aa70dfbd99149540f8728a454532a12",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/PaletteColorChanged_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Palette_ColorSelect_0.mp3",
+      "size": 13892,
+      "hash": "sha256-976f74387ac0d5ec58accaaa70356f331bd4552b72ef469706cb1d4eebd46486",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Palette_ColorSelect_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Project_Load_0.mp3",
+      "size": 19844,
+      "hash": "sha256-246de5cd4ef4ae0baed2e32c07c6e71e13f153c5916bd2bbb767f1a4750bcf6c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Project_Load_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Project_New_0.mp3",
+      "size": 23324,
+      "hash": "sha256-7cd411a837b0240fb01629f8c707c9d1cf27a92e6986298fa3c6a3e4c45e51cc",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Project_New_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Project_Save_0.mp3",
+      "size": 19532,
+      "hash": "sha256-26943b1ccdd2e48df17b7aa60479e116892d980c56f732d779375568f64def85",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Project_Save_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Project_Save_1.mp3",
+      "size": 19532,
+      "hash": "sha256-26943b1ccdd2e48df17b7aa60479e116892d980c56f732d779375568f64def85",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Project_Save_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Redo_0.mp3",
+      "size": 15932,
+      "hash": "sha256-9c3a032893095dffc2619cd78215d556e97fee2344568a585953d3699467f5b1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Redo_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Disabled_0.mp3",
+      "size": 29420,
+      "hash": "sha256-4d8fd37eb1deab949d1fa45620143ce213635b1188112565b9a128b09c1b7c54",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Disabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Enabled_0.mp3",
+      "size": 47972,
+      "hash": "sha256-a0ab6bf012356277827eec4241517d5b438f1dba4d7468c0149b5a7162c22eb4",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Enabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Mode_MapChip_0.mp3",
+      "size": 39908,
+      "hash": "sha256-6a658bb5d2bc0763ccccbb131215acec5ecb6e662a7ef6c85d684c8d750291b2",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Mode_MapChip_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Mode_Symmetry_0.mp3",
+      "size": 43412,
+      "hash": "sha256-e6f97fcdefdc014a5b9099df32b18c703352073ae2fa90713a16872e1d93210b",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Mode_Symmetry_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Mode_TileRepeat_0.mp3",
+      "size": 37196,
+      "hash": "sha256-1f18a97a467fba1f07cfe490598e86e9ba1604793795d5b6b797fce3025e53a8",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Mode_TileRepeat_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_0.mp3",
+      "size": 36812,
+      "hash": "sha256-5e90be9c1816f8b0a4c96ca76c2081d89d98486c109530fbcd552a558ed5c23a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_1.mp3",
+      "size": 43124,
+      "hash": "sha256-b60bef3e0fbe098dff4d7afd0ca55cd2661ac10b65d88d114ef8ff3fd14fae56",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_2.mp3",
+      "size": 43844,
+      "hash": "sha256-adfd1ba2b43e764c67cd57692d536a0a3d6de7dfc7bf7792f1098b169ba87153",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_3.mp3",
+      "size": 41708,
+      "hash": "sha256-888b7ec960e6beb49bb8410c503239d49e3ce1831444e5ee19003bb2f1a94eba",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_3.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_4.mp3",
+      "size": 45404,
+      "hash": "sha256-7ff967ac03f581afa90bb278819e9b380b39147eca922cb10329611e9a302746",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_4.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_BlurOutline_0.mp3",
+      "size": 40820,
+      "hash": "sha256-e764aecdda72c74d6c2abb06fbc9e70f7f554c2ea1c7a5cf57d2999693209a51",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_BlurOutline_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_BlurOutline_1.mp3",
+      "size": 30908,
+      "hash": "sha256-03b1ce9e3e897ec80dede26bde3bb5e8a0ac3046c6940b1cde478095a43edbf9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_BlurOutline_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_BlurOutline_2.mp3",
+      "size": 42908,
+      "hash": "sha256-37de51390065b70c9527fbc41094a1c7e51188746f13473c3e16aabd5e236b55",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_BlurOutline_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Eraser_0.mp3",
+      "size": 34508,
+      "hash": "sha256-ba3f2e8063781fce31864df26555466d532cf9c616d6caf3b3ad6d7829fb6742",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Eraser_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Eraser_1.mp3",
+      "size": 35780,
+      "hash": "sha256-a8165bc7e30feed3b4232f1317c4ddee5ee4c01eac581f7b280d6b2d80b40ace",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Eraser_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Fill_0.mp3",
+      "size": 32948,
+      "hash": "sha256-790a66889a05fbc51841ea0bb651b5adab31d6c24772db2a9c8c2916c2f140f1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Fill_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Fill_1.mp3",
+      "size": 30116,
+      "hash": "sha256-30ee48e4efd9642c86989d64239f04b1e4420b1a1642614ba7e083b60beac241",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Fill_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Fill_2.mp3",
+      "size": 29372,
+      "hash": "sha256-d40f0efb68f732913efce0d64583af7b97f3c588f284224f324795be6164f2c7",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Fill_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_KbPen_0.mp3",
+      "size": 48332,
+      "hash": "sha256-2831f73222c07fb6c6dda25411587ab0d092f9d98f2e2e1278c9dfcd10ea7fd6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_KbPen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_LayerSel_0.mp3",
+      "size": 44732,
+      "hash": "sha256-cc587b6421a89125e38d489a07f8530ef365de50da719b21f6ade7451e477d28",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_LayerSel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_LayerSel_1.mp3",
+      "size": 38516,
+      "hash": "sha256-cedce85a0c41ee06956d3a6ba81801600971384ef90a795aa236002127191ca0",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_LayerSel_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_LayerSel_2.mp3",
+      "size": 39572,
+      "hash": "sha256-53b9fa4357b44fc28406162ba1646bcd97f0f807b8c3f4287fcba93813237530",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_LayerSel_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Line_0.mp3",
+      "size": 37892,
+      "hash": "sha256-5f893fb1d9affd2e89e16ba91aeecdb788b4a2835602576147aed26cf39ff3d6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Line_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Line_1.mp3",
+      "size": 44612,
+      "hash": "sha256-7d9f54eab4322b01426890b2ba5c7e3e6035f374a85429f2cd1ebe7a728e0270",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Line_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Line_2.mp3",
+      "size": 38996,
+      "hash": "sha256-bcfe1d547833bd23f80630264ed56c54a6e401d896fb7d9a52e68bb5eaeb1c88",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Line_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pen_0.mp3",
+      "size": 29324,
+      "hash": "sha256-dd49b5bb0ce254d86073f9488a2371924346f3ea3f65fc441ce524bea8d0fbdd",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pen_1.mp3",
+      "size": 39980,
+      "hash": "sha256-2cf19ceb482dd7a498a382193babdd6643fab021531ed8b25a5e345f1620d9e0",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pick_0.mp3",
+      "size": 32876,
+      "hash": "sha256-c83ffa2c3175b1f74377bd0e018d9ca9d23b599668ddc1fa16f91a9ebf6bca39",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pick_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pick_1.mp3",
+      "size": 34604,
+      "hash": "sha256-4d697f70da6c4bc7a60f633168b46ad52368b19328192e3248a3a70193fb8820",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pick_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pick_2.mp3",
+      "size": 32780,
+      "hash": "sha256-7daa7c6001162802a0db6f88f150d127223300eb9e2d142976f3ab9d53537eb0",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pick_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Rect_0.mp3",
+      "size": 42716,
+      "hash": "sha256-2b9fbf8f5efab45f7ef67517405e000e08d0a255ab1e32fe123fc2e43b86925c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Rect_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Rect_1.mp3",
+      "size": 35780,
+      "hash": "sha256-150d43dd3487f1eaa43eb2c2b1d50845fb7d1c40bcb618c8467e4e3bb03b9009",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Rect_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Rect_2.mp3",
+      "size": 37004,
+      "hash": "sha256-2ade9ca3cc456323d8dfaeab6c3a63234b9e599d71441e8f6026c1d6f7919e3e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Rect_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Sel_0.mp3",
+      "size": 45260,
+      "hash": "sha256-ebdb6f742806690481eab2567e635fa9ca1fe7b9f356673453a404e5e520f17f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Sel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Text_0.mp3",
+      "size": 36236,
+      "hash": "sha256-f419f574730120da8a58c4823d910be6854987fdf108c0a25b63c1b5c4663a02",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Text_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Text_1.mp3",
+      "size": 33788,
+      "hash": "sha256-ac40b950a5797c75d29e60616651b2c7d7137ee5a517801e3c3d6d715327a7c9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Text_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Text_2.mp3",
+      "size": 37532,
+      "hash": "sha256-542b845bca37a1492b34007babb9bdacd2a293bb252599f593cf3a1d541cd893",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Text_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UndoStreak_0.mp3",
+      "size": 26444,
+      "hash": "sha256-21a0b5b6fb6ca6199c76e4ed4ca9d705ed9e14ee26859eec6ee8332fe6d99299",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UndoStreak_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UndoStreak_1.mp3",
+      "size": 28604,
+      "hash": "sha256-46454b863eb272f5a0ad02a5223bffc07e7178a2f614a6d2ba16485f81a2cbf0",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UndoStreak_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Undo_0.mp3",
+      "size": 19964,
+      "hash": "sha256-13682cbadd8f5751ea9dc671c419f48ef2b759e293595fa2bb42e29308253795",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Undo_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UnsavedAlert_0.mp3",
+      "size": 32132,
+      "hash": "sha256-b271f46b40923c78dd27ae4553777bb0d865c2ed07076c57d5c2d73f27752c09",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UnsavedAlert_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UnsavedAlert_1.mp3",
+      "size": 31220,
+      "hash": "sha256-703f41a3d5a5337261cdd87d1317fba85628c0ebf2353f1124a6c4310769ed9c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UnsavedAlert_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UnsavedAlert_2.mp3",
+      "size": 29588,
+      "hash": "sha256-0f37d779fbdd73ed6b2f2dce0c84e7d505ad7371a54abe17c853d5c83ca70d8f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/UnsavedAlert_2.mp3"
     },
     {
       "relativePath": "win-x64/Tools/animation/rife-ncnn-vulkan/rife/contextnet.bin",
@@ -538,7 +2236,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-821936032049fc1e27436b9ad210781f9d3cdfa7ad0c93e6ff3846cd94c75744",
+      "hash": "sha256-4690d1c798e7a133e9cdc65c83054bf067ba46d354c1755b0a38333413cd3805",
       "zipPartIndex": 0
     },
     {
@@ -547,7 +2245,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-585d05c51b235a51e63978449bca1ea2e0db1dff1f7b70906ac85b87af6a1a37",
+      "hash": "sha256-ebc65f6c07c1e7961b210a69c0571923f9518ba34475badbd3f7b4bc2c64e237",
       "zipPartIndex": 1
     },
     {
@@ -556,7 +2254,7 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-f7a3245c617aaa23de2815fd0cba197f97a7a86dc0b9a8818c4687dbd1d1bda9",
+      "hash": "sha256-59cce98ab6a23f39b0175f72d78d3f9de3678cc576622e800b16114cd78d32fa",
       "zipPartIndex": 2
     },
     {
@@ -565,7 +2263,7 @@
       "size": 16777216,
       "offset": 50331648,
       "length": 16777216,
-      "hash": "sha256-29eeaf6a81467f36a79e944698cdeb2fd790630033dd50689e6a16187c578a1c",
+      "hash": "sha256-94fcab62446e699f6b9ae37deae46421637df4af2a170e9dc8b5d9e56c11ae81",
       "zipPartIndex": 3
     },
     {
@@ -574,7 +2272,7 @@
       "size": 16777216,
       "offset": 67108864,
       "length": 16777216,
-      "hash": "sha256-13a796759b386bd121da7fce53515184cc5a564e17c11d211fc4359380a424ce",
+      "hash": "sha256-e48ea726bfd1c8db95b451de46b390519ca602d4188a4da4c413e86c1da694e4",
       "zipPartIndex": 4
     },
     {
@@ -583,7 +2281,7 @@
       "size": 16777216,
       "offset": 83886080,
       "length": 16777216,
-      "hash": "sha256-a3ec2fd693d8cb46072dea9d96954cf4eb5bce3c398cbd76e527497d5f1f01ca",
+      "hash": "sha256-9b73903e5f492b95b95afb0f06e22557a59e317bce74466192b783c89634131b",
       "zipPartIndex": 5
     },
     {
@@ -592,7 +2290,7 @@
       "size": 16777216,
       "offset": 100663296,
       "length": 16777216,
-      "hash": "sha256-31b2ccbdea37e7edf6230ff6f88812f41245c80857287b79ef861e6d4eb3d564",
+      "hash": "sha256-72c69b88131102b9b1ef40b591b65537f045cca6f09c6ef143f501baa7494ecb",
       "zipPartIndex": 6
     },
     {
@@ -601,7 +2299,7 @@
       "size": 16777216,
       "offset": 117440512,
       "length": 16777216,
-      "hash": "sha256-470f772ec6e1a1861d2eed5e47efcd5bf58626d819ef9f75c980af60801096bc",
+      "hash": "sha256-be6cfe13920d490a423c5bd69ab62ec6e3a8661321e877dde48c475221511964",
       "zipPartIndex": 7
     },
     {
@@ -610,7 +2308,7 @@
       "size": 16777216,
       "offset": 134217728,
       "length": 16777216,
-      "hash": "sha256-f97bdc015ba064859f4feac951c5d68c7d2f2531e1b9b89c2d2b53543e42c6c3",
+      "hash": "sha256-d892e9ed06ce2c5596c5474037f5001b22bc7efdc4ad3ea9cf3cfc186048d36e",
       "zipPartIndex": 8
     },
     {
@@ -619,7 +2317,7 @@
       "size": 16777216,
       "offset": 150994944,
       "length": 16777216,
-      "hash": "sha256-fee9759e9810dff680fcac11157c1a2b74dd2fcfa1407964fa5997db4454b1db",
+      "hash": "sha256-27c0747c0c98b801f963ea6811c49fe4f79535aff903fd5a9fa25d29489070f3",
       "zipPartIndex": 9
     },
     {
@@ -628,7 +2326,7 @@
       "size": 16777216,
       "offset": 167772160,
       "length": 16777216,
-      "hash": "sha256-a1e5d6888d58ce2f35030492500ded4a42e786f8ee01a9c3e3fee77390775cae",
+      "hash": "sha256-2e47ce88c58dfbd834a191f82a6caba81e5a9e82920c9ed00393d56eec5e0aaf",
       "zipPartIndex": 10
     },
     {
@@ -637,7 +2335,7 @@
       "size": 16777216,
       "offset": 184549376,
       "length": 16777216,
-      "hash": "sha256-57aad8e541324874d54a805b7da22067d77c809b4c96b65c498e05fed6e861f5",
+      "hash": "sha256-26dabe25bc82993ca951cdf43a7d5b22db5437ebce87793e2a98f4e0823397d8",
       "zipPartIndex": 11
     },
     {
@@ -646,7 +2344,7 @@
       "size": 16777216,
       "offset": 201326592,
       "length": 16777216,
-      "hash": "sha256-9ec529dcff774d302f4214f18950ae1a34961937f8764e5e7be8f3f6b10294eb",
+      "hash": "sha256-11decce1f0476133c85f748f1dd6a4331223f407e3fb6c1b379798135b3cec7f",
       "zipPartIndex": 12
     },
     {
@@ -655,7 +2353,7 @@
       "size": 16777216,
       "offset": 218103808,
       "length": 16777216,
-      "hash": "sha256-f99e73037a79951ed290a6a94efb2721772d641f2f25c462971ac15b18c4d439",
+      "hash": "sha256-c403eedec9b4393c1c98dcdb1de85b85d773cd71c9dc41f757601a4826875bba",
       "zipPartIndex": 13
     },
     {
@@ -664,7 +2362,7 @@
       "size": 16777216,
       "offset": 234881024,
       "length": 16777216,
-      "hash": "sha256-4efb22988c01012b91e58040008641fd06750774572a896832651888cdf0493e",
+      "hash": "sha256-6a6912d412db06c430361770545b290f00a291c7646b570eb29bfaf62a3917d4",
       "zipPartIndex": 14
     },
     {
@@ -673,7 +2371,7 @@
       "size": 16777216,
       "offset": 251658240,
       "length": 16777216,
-      "hash": "sha256-0b20032b5642374e7db4a517f0e566a1d3331aacd5f3642e19d47677159fbe38",
+      "hash": "sha256-a08fc28493b1c30fd13871fc8955e580cc4ed91f2ad376ef899ff160e668d419",
       "zipPartIndex": 15
     },
     {
@@ -682,7 +2380,7 @@
       "size": 16777216,
       "offset": 268435456,
       "length": 16777216,
-      "hash": "sha256-12893ef34279d9fa2e56ded6a8f97f57fb38722db4ec05c1b1023e91dddae209",
+      "hash": "sha256-a17786e429e82787181ded7b1a0630f6037a05ca6176bc05283dbdf213a365b6",
       "zipPartIndex": 16
     },
     {
@@ -691,7 +2389,7 @@
       "size": 16777216,
       "offset": 285212672,
       "length": 16777216,
-      "hash": "sha256-07d7d8ecfef0915338c62bb39f06df28b6580cf26c47715207956206cad090d3",
+      "hash": "sha256-2d47abbe9ac2e48efc5f29a831464cde44495dc897b4348aaf4cbfbfa75b1573",
       "zipPartIndex": 17
     },
     {
@@ -700,7 +2398,7 @@
       "size": 16777216,
       "offset": 301989888,
       "length": 16777216,
-      "hash": "sha256-cb383d7fe7caa2a96bbef288016e31e5d52f48cfab394c58ca6394a5803eae3b",
+      "hash": "sha256-432ca4bbb5777aad301d7c2d749f18fd4c424882460d9190f5967964ee922f50",
       "zipPartIndex": 18
     },
     {
@@ -709,7 +2407,7 @@
       "size": 16777216,
       "offset": 318767104,
       "length": 16777216,
-      "hash": "sha256-8a01e58d6e53b01e94e6e0d9186a24e6906414b738e8a8dc871be00722f47108",
+      "hash": "sha256-b2f23306b03844b0c5c0f08f7c4b1d33a1337bbaf91665d751a05cf0f6e6f0e0",
       "zipPartIndex": 19
     },
     {
@@ -718,7 +2416,7 @@
       "size": 16777216,
       "offset": 335544320,
       "length": 16777216,
-      "hash": "sha256-34ac1477fe66dded8af3692b15f1a9b18310dd873457a074bf4d00a675e8d008",
+      "hash": "sha256-213a4ed25b761bcd8983b21e582ee1482f9ab1192912a7d969be05407da322c6",
       "zipPartIndex": 20
     },
     {
@@ -727,7 +2425,7 @@
       "size": 16777216,
       "offset": 352321536,
       "length": 16777216,
-      "hash": "sha256-c52957c25a3a5819e708e56373666368ea939ef80557d4e55a3a6737a73d25fb",
+      "hash": "sha256-c3a7c71e239705366d018dac8ffc1e3186ff0318661e78d244cf8db2c6e9416d",
       "zipPartIndex": 21
     },
     {
@@ -736,7 +2434,7 @@
       "size": 16777216,
       "offset": 369098752,
       "length": 16777216,
-      "hash": "sha256-a0d039c1785fdee09696ed9f3c23d5125b8c6f60002653acced714de34023285",
+      "hash": "sha256-76838babc7a8e31498e52638b1ad59b572a7156b2bf8c38f799924095810c41a",
       "zipPartIndex": 22
     },
     {
@@ -745,7 +2443,7 @@
       "size": 16777216,
       "offset": 385875968,
       "length": 16777216,
-      "hash": "sha256-071e1513101398a3885bbdc0d21188f0b09e6d58b08d47d6b09e2ca0c38db8de",
+      "hash": "sha256-501f29097cfcd1b9afa7eadcb3b505fec688862aeb006405cff8b0e03d152eb4",
       "zipPartIndex": 23
     },
     {
@@ -754,7 +2452,7 @@
       "size": 16777216,
       "offset": 402653184,
       "length": 16777216,
-      "hash": "sha256-a6447fbcbbfb7945e907a82c7bd798ab778498a0afd6955e22bbda33e69a4064",
+      "hash": "sha256-01c9f5f9a35cac6666fbe53a226701e8edda3c83520b66c62f97814684d8cded",
       "zipPartIndex": 24
     },
     {
@@ -763,7 +2461,7 @@
       "size": 16777216,
       "offset": 419430400,
       "length": 16777216,
-      "hash": "sha256-7d5e3fe0da3dbaa38f4a4ac2a0f1f919f04e25ce186051bca5fedc4628a86c7f",
+      "hash": "sha256-b550ca47f4ca00038b2342860b9a81f4fb4f3be9a8e97daa31b1d2d2d03fb4aa",
       "zipPartIndex": 25
     },
     {
@@ -772,7 +2470,7 @@
       "size": 16777216,
       "offset": 436207616,
       "length": 16777216,
-      "hash": "sha256-fad39f5444afc3f6e1a8fb7e29b60e9627bf9871681e91f1bd0ffdf140d65007",
+      "hash": "sha256-7912dc7e3fb2b034539c4b75adddfb0eecc0b42d91f902b265e9b617001ccbc8",
       "zipPartIndex": 26
     },
     {
@@ -781,7 +2479,7 @@
       "size": 16777216,
       "offset": 452984832,
       "length": 16777216,
-      "hash": "sha256-d31e09b8aefeed77211bf428fc313d9131b2a6f433b2052541b8050993c0d60a",
+      "hash": "sha256-dc09b350f30eb5a467214717169a8f7de9c21701b564da37b356d294c2ef1ab2",
       "zipPartIndex": 27
     },
     {
@@ -790,7 +2488,7 @@
       "size": 16777216,
       "offset": 469762048,
       "length": 16777216,
-      "hash": "sha256-0803ac51aff54518310831dd626f910fb777cc7d5539f10bbf71b368cd028a78",
+      "hash": "sha256-2fe7ebb6f93a936df89e4ea1786ab4a29246be34b4c18131605bf1cd56466a0b",
       "zipPartIndex": 28
     },
     {
@@ -799,7 +2497,7 @@
       "size": 16777216,
       "offset": 486539264,
       "length": 16777216,
-      "hash": "sha256-7129eda3268814f33a591337a370065f0fcbbe2141f1fbc0796e1fa8920d27e5",
+      "hash": "sha256-4750cc2542c23f6afc34967486dc0969c3777b751b6e7b5b9149dcedd8ccee23",
       "zipPartIndex": 29
     },
     {
@@ -808,7 +2506,7 @@
       "size": 16777216,
       "offset": 503316480,
       "length": 16777216,
-      "hash": "sha256-f19a3de1747c39b94f504003af56539c2c497e95bb1f33bf7f3681a5488d9f6b",
+      "hash": "sha256-f15c567eb87112b8bb16299048c39c40676e9051a3fdfd857f60b26a6d246ab6",
       "zipPartIndex": 30
     },
     {
@@ -817,7 +2515,7 @@
       "size": 16777216,
       "offset": 520093696,
       "length": 16777216,
-      "hash": "sha256-f4435deef49fdc0886f50f345193ba9357b67c59fdb58762893b18b8cdc11f56",
+      "hash": "sha256-92f44b5f8549c57a8c0489301baa2ad8009e7f7fe3845670753432b37f2f5f90",
       "zipPartIndex": 31
     },
     {
@@ -826,17 +2524,26 @@
       "size": 16777216,
       "offset": 536870912,
       "length": 16777216,
-      "hash": "sha256-cd56f322c8e5097e257e0cb45d04a0d72f5a5a345ac95e9503fa993d2f327f59",
+      "hash": "sha256-aa96dd6e28c9e66174052b6fdbb43452bfaf5646b952e8871f78ee9be87418cb",
       "zipPartIndex": 32
     },
     {
       "sliceId": "0034",
       "fileName": "data_0033.bin",
-      "size": 8909790,
+      "size": 16777216,
       "offset": 553648128,
-      "length": 8909790,
-      "hash": "sha256-b55ef829547d8e8cddf14eb082ff17a9e10fb05fc404a3d5cebd8997e83800cc",
+      "length": 16777216,
+      "hash": "sha256-75f66a40390cf8cac61abe6232d534b9380f46ee1615cbfb39d7a558ca2cb97c",
       "zipPartIndex": 33
+    },
+    {
+      "sliceId": "0035",
+      "fileName": "data_0034.bin",
+      "size": 2302373,
+      "offset": 570425344,
+      "length": 2302373,
+      "hash": "sha256-2c0edeccedc45c4a715dc7620ed48056f8d81f96361c1062d3ee2f719fb08a10",
+      "zipPartIndex": 34
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-04T14:38:37.4006581Z",
+  "version": "2026-10-07T15:39:26.7480700Z",
   "rootPath": "PixelEditor",
   "files": [
     {
@@ -76,20 +76,20 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 152597954,
-      "hash": "sha256-0845e3efb5dbdbda931f1dc1eb298d1fbd9685c05112bdabe197fcbd7a39bfb4",
+      "size": 152753602,
+      "hash": "sha256-7b7db3cdd50b1e3e4c851319e668c5896cb6b137c3716324813f69a7cad9308e",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.pdb",
-      "size": 279028,
-      "hash": "sha256-2fe844d276445b89bfa076e5fbd600670b725013acb43c732dfed144cb6369a5",
+      "size": 289748,
+      "hash": "sha256-3452857003bc2db8be80c9c5c0a81eaddad4a2682bbf812355d2790b31490a89",
       "zipEntryName": "win-x64/PixelEditor.App.pdb"
     },
     {
       "relativePath": "win-x64/PixelEditor.Core.pdb",
-      "size": 116672,
-      "hash": "sha256-3949368ffb3d7bccb4c59bfd0ab4882b646254157457214143eaed9f114a7821",
+      "size": 123196,
+      "hash": "sha256-d4336c2d2912099f00621c96608109e6e9caa6f06624d5673b70ccd08f1bad55",
       "zipEntryName": "win-x64/PixelEditor.Core.pdb"
     },
     {
@@ -225,21 +225,27 @@
       "zipEntryName": "win-x64/assets/Scaler/models/4x-PixelPerfectV4.onnx"
     },
     {
+      "relativePath": "win-x64/assets/Scaler/models/4x-PixelPerfectV4.onnx.data",
+      "size": 66737664,
+      "hash": "sha256-f0038b1ced1dc4ff058421bed44be4458e08b7952abd9cb691c4348749663227",
+      "zipEntryName": "win-x64/assets/Scaler/models/4x-PixelPerfectV4.onnx.data"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/teach_dialogues.json",
-      "size": 124307,
-      "hash": "sha256-7f455902464d6069bc57d0bc02a07a1e5704f516153b2734db50939ab96585ee",
+      "size": 138690,
+      "hash": "sha256-50f7f270abbead2313e4f1db314274c2da63097796721fceb77a08e920bead22",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/teach_dialogues.json"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/voice_bake_state.json",
-      "size": 37391,
-      "hash": "sha256-a3d914d171dc5f1730518600bebc45158099eed96e4ad43e261023f883d8d349",
+      "size": 41151,
+      "hash": "sha256-ff961568816659f6c89a0bcd5f8306a29dda211d0f3409f4679019a8e20589ab",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/voice_bake_state.json"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/voice_speech_manifest.json",
-      "size": 38632,
-      "hash": "sha256-49b4aad3fb4f42669ef4dbe111d0f5ddb99c02b6dba536b2fdad8aa1ee7f5583",
+      "size": 43818,
+      "hash": "sha256-74e666b256e9a2c2ea6ba28db8b9a6bf8eba29b0954e6c7452750eb0d24e5dec",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/voice_speech_manifest.json"
     },
     {
@@ -451,6 +457,12 @@
       "size": 51236,
       "hash": "sha256-ee1dfc2ca49787bc300009eae45e21d1639d7caf4462fb7386aa731afcf1f892",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Pen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Pen_1.mp3",
+      "size": 34580,
+      "hash": "sha256-35ecbe737ec2077931dc4aeb78051352d3f58d532da40171e196494828e5dda6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Pen_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_Rect_0.mp3",
@@ -784,9 +796,15 @@
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_Enabled_0.mp3",
-      "size": 46004,
-      "hash": "sha256-45567ce07edf3d547811b672041fd3465205f0b517fc03daaffca5334701a253",
+      "size": 45332,
+      "hash": "sha256-192886d9a07edb946da5a2e4a0f7685a3b8cfb28babd8bbd5305daee46d7f6b2",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_Enabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_Enabled_1.mp3",
+      "size": 44108,
+      "hash": "sha256-48aa162fbb89cd3bc8e705c526ca21482f8c1d959e518568b380e8a6012eb692",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_Enabled_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/OnionGhost_NeedSelection_0.mp3",
@@ -897,6 +915,18 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Pattern_Selected_0.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/pen_size_changed_0.mp3",
+      "size": 24692,
+      "hash": "sha256-83b38075f3aba3adf57c10e2e9f8b5961b1790878f2eb11110e8ce22bbe8f9e9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/pen_size_changed_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/pixel_guide_grid_changed_0.mp3",
+      "size": 27620,
+      "hash": "sha256-48b4706a20627eb9db47f4b3d94308947c5b5ede6bd55ac228faf6bb2138feae",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/pixel_guide_grid_changed_0.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Project_Load_0.mp3",
       "size": 14444,
       "hash": "sha256-7c75509bce85a60e6dc30a5f4950330c3787106b74f198168d9b17d2701d5d22",
@@ -925,6 +955,36 @@
       "size": 21332,
       "hash": "sha256-39ad70bd805c68cf61870361b1de72d682e888e367be4dd02f4c98da51c4bd66",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Redo_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Select_Committed_0.mp3",
+      "size": 52124,
+      "hash": "sha256-2edd2ac899efdcc4546f7ba30491b5ce12db8a79003b1c2f70415103b4e1a9f6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Select_Committed_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/select_mode_changed_0.mp3",
+      "size": 27620,
+      "hash": "sha256-6d559019f7ee27aff3660905bafd31676a56e1390afc4c7d1f0aab4505257a98",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/select_mode_changed_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/select_scaler_changed_0.mp3",
+      "size": 29684,
+      "hash": "sha256-119cacaf3aebfa0f99f20c2a4ab33a257f2b7482221bf99792b8a2cf6ae155a2",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/select_scaler_changed_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/select_scaler_changed_Esrgan_0.mp3",
+      "size": 38012,
+      "hash": "sha256-c7d722186e11c222d76110f3260f18dd5198e0b2926e4d6f15d69d3011245bf9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/select_scaler_changed_Esrgan_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Select_Transformed_0.mp3",
+      "size": 40148,
+      "hash": "sha256-12d5690c6d112858bfce4ccb812cdca4e9c9c853d1545d190b32a5ff0e01c69d",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Select_Transformed_0.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_Disabled_0.mp3",
@@ -987,6 +1047,12 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/SpecialCanvas_NeedSelection_4.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/tablet_pressure_changed_0.mp3",
+      "size": 27044,
+      "hash": "sha256-530bc721dffc8236172fda849c1d3c064a8d2920b2fe71e1580c92a523e39f0c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/tablet_pressure_changed_0.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_BlurOutline_0.mp3",
       "size": 48668,
       "hash": "sha256-cfb68dba8085c635c36a0d61a2584eda77bab5509fa653754a9726f6d7d7c12a",
@@ -1041,6 +1107,24 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_KbPen_0.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_KbPen_1.mp3",
+      "size": 51092,
+      "hash": "sha256-b9084683cf7aa480922f69371b339f326f40b202dda3d8a058c14964a7bd89a5",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_KbPen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_KbPen_2.mp3",
+      "size": 49556,
+      "hash": "sha256-1bf2e580792fd86b23069e8bccb959af960f064eb9777d60e458a950447f74e7",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_KbPen_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_KbPen_3.mp3",
+      "size": 58532,
+      "hash": "sha256-ea42ddf9d0e3fc0ded368628ac5f94535d3293170cdc214b2b398ad5dfc895e4",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_KbPen_3.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_LayerSel_0.mp3",
       "size": 58460,
       "hash": "sha256-2eec0bc1a13562648c7feae978353acefb768c386cc07fd58efc7b02918e4c3c",
@@ -1089,6 +1173,18 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pen_1.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pen_2.mp3",
+      "size": 37004,
+      "hash": "sha256-ea848b798b7d4d01334496f61e619220cc6b9eaf5e9df4caa17dc29418874899",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pen_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pen_3.mp3",
+      "size": 32516,
+      "hash": "sha256-2f1c235d0c6cdf4dd7d63fd0b0e7cc3b3978f6fa9a27a28cf34296f1450b7caa",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pen_3.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Pick_0.mp3",
       "size": 51164,
       "hash": "sha256-539c8ebec1b022fdcc991835c2486159e4a24e8ca1b37fed8789f23e9d2cfef9",
@@ -1126,9 +1222,15 @@
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Sel_0.mp3",
-      "size": 57548,
-      "hash": "sha256-19daa92dfc0732b56466f264b600d82e125d78d83d806aedc4f01024797cda67",
+      "size": 52220,
+      "hash": "sha256-03fd12cd191398b972e1ee82bb0468cd0750172cdc04c4825efb716b6770edf6",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Sel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Sel_1.mp3",
+      "size": 39740,
+      "hash": "sha256-3ce88e7a1b43e776e5bb18187e0a68b7b5d4e70156f526acffb16477a3c2a455",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Sel_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Tool_Text_0.mp3",
@@ -1327,6 +1429,12 @@
       "size": 39764,
       "hash": "sha256-38af5fc13aef671a284392055c39711e56d8938a326b352978fc8fba09b99c75",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Pen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Pen_1.mp3",
+      "size": 41948,
+      "hash": "sha256-fd4b3c8cce1b5c918dc25cfad6b84becfafc2709d848da17fc8376adc011b4b1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Pen_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_Rect_0.mp3",
@@ -1660,9 +1768,15 @@
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_Enabled_0.mp3",
-      "size": 42452,
-      "hash": "sha256-9eac5c1a299958f7c9bdf9243ade1242ecf70a6be3b4b2b17c6c39fcf78c23e9",
+      "size": 36116,
+      "hash": "sha256-46174ccae6300f574cf4b2bc020a541382d5c1306813eb651ec1cac9b73b0756",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_Enabled_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_Enabled_1.mp3",
+      "size": 38852,
+      "hash": "sha256-721099a36c1ba81f66c1c2ad9e2a276106ba826875f42b8f675b7e2336a83b36",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_Enabled_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/OnionGhost_NeedSelection_0.mp3",
@@ -1773,6 +1887,18 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Pattern_Selected_0.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/pen_size_changed_0.mp3",
+      "size": 20060,
+      "hash": "sha256-b9cc7dda22543afb62d0c683ae08650fb90e95b5402b4bd7e6f7bd6913fa8ae7",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/pen_size_changed_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/pixel_guide_grid_changed_0.mp3",
+      "size": 24092,
+      "hash": "sha256-6e3668ec1fe8d8e654682b87ce8f32ec4d750389360c8f3df840e16c9571992f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/pixel_guide_grid_changed_0.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Project_Load_0.mp3",
       "size": 19844,
       "hash": "sha256-246de5cd4ef4ae0baed2e32c07c6e71e13f153c5916bd2bbb767f1a4750bcf6c",
@@ -1801,6 +1927,36 @@
       "size": 15932,
       "hash": "sha256-9c3a032893095dffc2619cd78215d556e97fee2344568a585953d3699467f5b1",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Redo_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Select_Committed_0.mp3",
+      "size": 44516,
+      "hash": "sha256-9db096ab8383ab5d53e339d0417444c26e574589b62304d7e60dce051b28d95a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Select_Committed_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/select_mode_changed_0.mp3",
+      "size": 22436,
+      "hash": "sha256-1e4e5d1800c240f7ceb0371e563555870b3a7dd704e3e5fa0503963a50587462",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/select_mode_changed_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/select_scaler_changed_0.mp3",
+      "size": 26324,
+      "hash": "sha256-56ae8757b1e5d4cac556e1b547ec4619927f51a3ee2323f4b8f9b93d01f5b72f",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/select_scaler_changed_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/select_scaler_changed_Esrgan_0.mp3",
+      "size": 35948,
+      "hash": "sha256-bad1dc4dcc4b1bbeb6d0953954e1a7cb020ce06693051216c50b66c188089be6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/select_scaler_changed_Esrgan_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Select_Transformed_0.mp3",
+      "size": 35804,
+      "hash": "sha256-e0d083cecfdd936c4cf15063f6fc81e7ae4587461eb600692d693d5e6cdca564",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Select_Transformed_0.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_Disabled_0.mp3",
@@ -1863,6 +2019,12 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/SpecialCanvas_NeedSelection_4.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/tablet_pressure_changed_0.mp3",
+      "size": 22556,
+      "hash": "sha256-329087e6afacae5c061a1f10c396c4f8c8205b664512c7c13ed048d8ff2a3721",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/tablet_pressure_changed_0.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_BlurOutline_0.mp3",
       "size": 40820,
       "hash": "sha256-e764aecdda72c74d6c2abb06fbc9e70f7f554c2ea1c7a5cf57d2999693209a51",
@@ -1917,6 +2079,24 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_KbPen_0.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_KbPen_1.mp3",
+      "size": 43364,
+      "hash": "sha256-1bc87a4585e1cdf8522ef430d0ffa246202007fc36ca87d82b4157c4e12165a6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_KbPen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_KbPen_2.mp3",
+      "size": 40940,
+      "hash": "sha256-2a24ef5b016434a1efb1906658ffeb8a12ddd2d149c9a9ed587943677c6bac79",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_KbPen_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_KbPen_3.mp3",
+      "size": 44756,
+      "hash": "sha256-cb2ea574d91826b53621f473e63a35856b277c7d260f6547e7857530c2f71943",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_KbPen_3.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_LayerSel_0.mp3",
       "size": 44732,
       "hash": "sha256-cc587b6421a89125e38d489a07f8530ef365de50da719b21f6ade7451e477d28",
@@ -1965,6 +2145,18 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pen_1.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pen_2.mp3",
+      "size": 36140,
+      "hash": "sha256-d0ccc351f03908b2c86f9b2718efc1128ad36acc1cd38c50a27605edfcc1f90a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pen_2.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pen_3.mp3",
+      "size": 23852,
+      "hash": "sha256-069f8748d218f7626d89d33999de195b713305d46754ba9bb8cc404bf2af6476",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pen_3.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Pick_0.mp3",
       "size": 32876,
       "hash": "sha256-c83ffa2c3175b1f74377bd0e018d9ca9d23b599668ddc1fa16f91a9ebf6bca39",
@@ -2002,9 +2194,15 @@
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Sel_0.mp3",
-      "size": 45260,
-      "hash": "sha256-ebdb6f742806690481eab2567e635fa9ca1fe7b9f356673453a404e5e520f17f",
+      "size": 41636,
+      "hash": "sha256-52580f71f821eb2e9c6cdbcb2c1201b5ec433d1bd21db20f7ff402f630760b22",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Sel_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Sel_1.mp3",
+      "size": 42404,
+      "hash": "sha256-2226871a1d3b4e9f13825dcd9639de98242394ace0aca30ab33def1a6e3d510c",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Sel_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Tool_Text_0.mp3",
@@ -2212,7 +2410,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-cee0a956c7e46accb0c720db44acbd17693fdda64c180fad61b04c702f620c02",
+      "hash": "sha256-fa9b0e841e3c2d39a287850372955bba46c002e86c3116800cb91f64dcb6769c",
       "zipPartIndex": 0
     },
     {
@@ -2221,7 +2419,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-4b988ff15e868fd3918dc189cceab96010f96a7643ae74a37b14468da865478a",
+      "hash": "sha256-790e4f2f212f1cd5a6289fd8ca4003ba104ac56a4f34df98f8ca1ebbef7bb374",
       "zipPartIndex": 1
     },
     {
@@ -2230,7 +2428,7 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-10134529539629e06fb5fb06694a4846ccb47a70024da28d42f6b49db53e280f",
+      "hash": "sha256-a337b287d67a2d7a0ce29dbfc615963f2fad0f21adfff2ba31780457ce70e163",
       "zipPartIndex": 2
     },
     {
@@ -2239,7 +2437,7 @@
       "size": 16777216,
       "offset": 50331648,
       "length": 16777216,
-      "hash": "sha256-d088b66f619149ee019665934707e96ab82e05dbeaa57e6211f02a2d246547c4",
+      "hash": "sha256-cb9477ac9edd30e0b62e7b2f7fbad93b2442ca234f9bf899fe573588011d9325",
       "zipPartIndex": 3
     },
     {
@@ -2248,7 +2446,7 @@
       "size": 16777216,
       "offset": 67108864,
       "length": 16777216,
-      "hash": "sha256-8a6951d74cbcffebf99707eb744dbb0e55b43ea00d9b493285289c25336c43cf",
+      "hash": "sha256-ed4ec056bbf1ead25c360498f1d08bed9e51077dd48828f0a14b4dae41579c32",
       "zipPartIndex": 4
     },
     {
@@ -2257,7 +2455,7 @@
       "size": 16777216,
       "offset": 83886080,
       "length": 16777216,
-      "hash": "sha256-5bccf2199ab1c3ff9217d7afd3f0f564c228cc562d41e1d45bed19f6ca11c723",
+      "hash": "sha256-001f1f3a25e7eb07c35432a93c82a3da57bfbd04f56151e688b2941ca6b1c1b2",
       "zipPartIndex": 5
     },
     {
@@ -2266,7 +2464,7 @@
       "size": 16777216,
       "offset": 100663296,
       "length": 16777216,
-      "hash": "sha256-d84a331d7089460f5e1adbf50cfe93489aa4afe1a2dd8a88b1ab341cc6f9e04f",
+      "hash": "sha256-acaae10f4d806e6fadf520cd4a45880c82a08cc4f5c49d9b8ab7fd05b6c74a8d",
       "zipPartIndex": 6
     },
     {
@@ -2275,7 +2473,7 @@
       "size": 16777216,
       "offset": 117440512,
       "length": 16777216,
-      "hash": "sha256-976d4376a96a1ede7e6356e94d7cea8a9e9efe121b61341192fe1673bc257be7",
+      "hash": "sha256-9f3fbe77287cae4f985ab54e6d652ade6bb98c057739e0ce419ddc95e4f6f9bd",
       "zipPartIndex": 7
     },
     {
@@ -2284,7 +2482,7 @@
       "size": 16777216,
       "offset": 134217728,
       "length": 16777216,
-      "hash": "sha256-69998cf6165d2ebe2008548aad95a0bf2623bd8c17dce5b1f743fb79728dcbde",
+      "hash": "sha256-eecdd926ed431a3f848a3847188e4971fb2f3bac5e20767ee62136e00a5f24e6",
       "zipPartIndex": 8
     },
     {
@@ -2293,7 +2491,7 @@
       "size": 16777216,
       "offset": 150994944,
       "length": 16777216,
-      "hash": "sha256-6fdfaaca5285fd7f8cde099ebc78200a6ffbe984ff091f09b480ae7c9260886b",
+      "hash": "sha256-736b5289fe0ed96d2d988a8497c0670e4650fc60e8d51d00479007d1d6143ab4",
       "zipPartIndex": 9
     },
     {
@@ -2302,7 +2500,7 @@
       "size": 16777216,
       "offset": 167772160,
       "length": 16777216,
-      "hash": "sha256-9c71e196f17b6379d71189dc40fc11e73ef4803b688991e6521f30f49dad352a",
+      "hash": "sha256-1696367449d73897dad8d28b1ad7667898423ab82eb451ea5cd9c6e451493268",
       "zipPartIndex": 10
     },
     {
@@ -2311,7 +2509,7 @@
       "size": 16777216,
       "offset": 184549376,
       "length": 16777216,
-      "hash": "sha256-305ee1890f14a1be4478606a9a64bb187f150a0c12028332ba67020b2e550dfd",
+      "hash": "sha256-80beb00b0b7735172ad12108a3d96454878ad1b3aff672d4ecaac7a2804f75c2",
       "zipPartIndex": 11
     },
     {
@@ -2320,7 +2518,7 @@
       "size": 16777216,
       "offset": 201326592,
       "length": 16777216,
-      "hash": "sha256-69dea6cdab219e9256a73fc4237beee62a5fea49effe7398dcf90b1d6ef1d21d",
+      "hash": "sha256-d4a2a08ce7f646bd6133e57a1bc0b0cd83e057caf37e1a8e1d1fdd6f062f6609",
       "zipPartIndex": 12
     },
     {
@@ -2329,7 +2527,7 @@
       "size": 16777216,
       "offset": 218103808,
       "length": 16777216,
-      "hash": "sha256-85cca458a7e539e7a4e558f4e0ebd4b92cac34fa3fe2c23a3a5aaadbfaabab37",
+      "hash": "sha256-24d100a482a22e359c1f0ccf8f328753ffb928c8393b7c5b7d251a3c3397fa17",
       "zipPartIndex": 13
     },
     {
@@ -2338,7 +2536,7 @@
       "size": 16777216,
       "offset": 234881024,
       "length": 16777216,
-      "hash": "sha256-77e9dcb078f60c77676b124ca57cf6a48e569d24f23e62726749ad92e4f02a56",
+      "hash": "sha256-abbf305bc516aba45ca5535217eed443abb7b69f36d7ef576fe63b6e2008e50d",
       "zipPartIndex": 14
     },
     {
@@ -2347,7 +2545,7 @@
       "size": 16777216,
       "offset": 251658240,
       "length": 16777216,
-      "hash": "sha256-739e7337e83bc8faaa28f4c34dbda8cde1ee57ca40ac720eb88ad24420bbef9d",
+      "hash": "sha256-7de58fb0471591737bd4609bc0c3056588bb0be7453b29bd3dd8d713ac172593",
       "zipPartIndex": 15
     },
     {
@@ -2356,7 +2554,7 @@
       "size": 16777216,
       "offset": 268435456,
       "length": 16777216,
-      "hash": "sha256-a1fb6789ea1d000c20faa08811ced26b4d94238d1f9d7cb570f104d6ef0910e9",
+      "hash": "sha256-55a749a25bbae42268bd978850d4b4bd0b2ded8472174ed40cf61ebb0317d8c1",
       "zipPartIndex": 16
     },
     {
@@ -2365,7 +2563,7 @@
       "size": 16777216,
       "offset": 285212672,
       "length": 16777216,
-      "hash": "sha256-ba7fe9b3b0e0281929bc48828933a6e5eb770f6b68b1b8f70f89f09f801075fb",
+      "hash": "sha256-03f6245c5111086f8bf1e753d7c27d51e4674532dba6cd825a6fdabb96b5c45f",
       "zipPartIndex": 17
     },
     {
@@ -2374,7 +2572,7 @@
       "size": 16777216,
       "offset": 301989888,
       "length": 16777216,
-      "hash": "sha256-d19965a4ae5d1438389747abf2876a043041d6fe64459e57a2b75f4c85e5919e",
+      "hash": "sha256-2cf36dfefa0ea7f06874b791d56793a022303ef731eafc95f9250fba0bd457eb",
       "zipPartIndex": 18
     },
     {
@@ -2383,7 +2581,7 @@
       "size": 16777216,
       "offset": 318767104,
       "length": 16777216,
-      "hash": "sha256-92cc8dd8954e439bd331ee7d17fb3cdebab93a29b63f5fd1aed73d0e8ca52943",
+      "hash": "sha256-a1bb6e39686d9623f9606ad5d563886f9a8fd0ac0a78e8b86346d30b915c18a3",
       "zipPartIndex": 19
     },
     {
@@ -2392,7 +2590,7 @@
       "size": 16777216,
       "offset": 335544320,
       "length": 16777216,
-      "hash": "sha256-9876fa518fc7e65f9b2c6a54f02bb7e3c1b3b0746a4516810ee0d513109c6f28",
+      "hash": "sha256-68da2bb8b7803f8efd82906dd37a7cc6d84ddca852f205f0ad31f44c85b9a418",
       "zipPartIndex": 20
     },
     {
@@ -2401,7 +2599,7 @@
       "size": 16777216,
       "offset": 352321536,
       "length": 16777216,
-      "hash": "sha256-a2b8fa8090606c5d5e422ddfc40d9879f33829c19e06c7fb29e1e9e763eba9cb",
+      "hash": "sha256-ae314680ee79dcf68c3d56c5b11180630c5eda24557866b36523872f4936d4e5",
       "zipPartIndex": 21
     },
     {
@@ -2410,7 +2608,7 @@
       "size": 16777216,
       "offset": 369098752,
       "length": 16777216,
-      "hash": "sha256-b04bb5fd7304554ed09497d2837a37b29b82a21f630a9ef56b2745970dde55c8",
+      "hash": "sha256-286a7d0fb5a84cb8dd1db7867f1e5cb0f33cb3260552fa485b7c21c491b67ef3",
       "zipPartIndex": 22
     },
     {
@@ -2419,7 +2617,7 @@
       "size": 16777216,
       "offset": 385875968,
       "length": 16777216,
-      "hash": "sha256-6263536f77299cddb11663f3438bdd41d8e243047b5ee92c02e4aabd983243ca",
+      "hash": "sha256-4eb7d30104d5953173732810745e1b558da132f85edfead903bd187449af6e49",
       "zipPartIndex": 23
     },
     {
@@ -2428,7 +2626,7 @@
       "size": 16777216,
       "offset": 402653184,
       "length": 16777216,
-      "hash": "sha256-af370ccc8bbbe89f322c92b6597fe79554a3a8f1dda3d835cc1dba681086c7c5",
+      "hash": "sha256-b5151e188a74fe3bfc147a4eacb25527eb0edd325939492d69896cd235750b7b",
       "zipPartIndex": 24
     },
     {
@@ -2437,7 +2635,7 @@
       "size": 16777216,
       "offset": 419430400,
       "length": 16777216,
-      "hash": "sha256-58e595e92425ec28d06edb4e1961bf731331c72866a166f9e458daa46a451f07",
+      "hash": "sha256-df59d12686330da00a87de5abf80f0eae91c6615a43b1456b9e5d536ab2deffc",
       "zipPartIndex": 25
     },
     {
@@ -2446,7 +2644,7 @@
       "size": 16777216,
       "offset": 436207616,
       "length": 16777216,
-      "hash": "sha256-d97fd952b885ab6ff6c54d6d8c4c6da639cbf00260d6f4230f04f2304ec0495b",
+      "hash": "sha256-d8dd42c90046b26cad8ca656d4396e69a454155d6ea193b4a523f27d8b07d666",
       "zipPartIndex": 26
     },
     {
@@ -2455,7 +2653,7 @@
       "size": 16777216,
       "offset": 452984832,
       "length": 16777216,
-      "hash": "sha256-11941fe037462cde3e353c15769d59dafebf9e2f68a78f092ca567b14330b69a",
+      "hash": "sha256-d2210eef410944e55efdff5773c904d4004a61987bb9ecc64abacea2024965e6",
       "zipPartIndex": 27
     },
     {
@@ -2464,7 +2662,7 @@
       "size": 16777216,
       "offset": 469762048,
       "length": 16777216,
-      "hash": "sha256-9367d3fcb812ea87083652afcec75c99551e75ddcd8101a97e09463510a9f2c0",
+      "hash": "sha256-9580dc2d34a453bb7a0932c706a9f7049511eaba488dc917eedc767465002fff",
       "zipPartIndex": 28
     },
     {
@@ -2473,7 +2671,7 @@
       "size": 16777216,
       "offset": 486539264,
       "length": 16777216,
-      "hash": "sha256-ee0f757d4a04621ad216909bb9d46dfcda173f35aef98c7a45c8f2af68fa4900",
+      "hash": "sha256-38d73e079ea49ece8843c7d22ad0ecb09b5ca6360949e967eedd5da577abff2b",
       "zipPartIndex": 29
     },
     {
@@ -2482,7 +2680,7 @@
       "size": 16777216,
       "offset": 503316480,
       "length": 16777216,
-      "hash": "sha256-a7cca73f5a0d141267b99a8b2b2157032fb84843f733dfb569ab43ed6947b9e0",
+      "hash": "sha256-c94205cf0ff686c8511634a984674e64d01fdd366b2d0668f7e8b1e934d64e98",
       "zipPartIndex": 30
     },
     {
@@ -2491,7 +2689,7 @@
       "size": 16777216,
       "offset": 520093696,
       "length": 16777216,
-      "hash": "sha256-fc675074b3489fad545fcb28e33d2200dbe9693baeff39e5af5eb6bb62f629f4",
+      "hash": "sha256-f8d585f6367b7009f1b0e816037cb1d5d41205212594dd0d304bc1c04b506c71",
       "zipPartIndex": 31
     },
     {
@@ -2500,7 +2698,7 @@
       "size": 16777216,
       "offset": 536870912,
       "length": 16777216,
-      "hash": "sha256-645798bae22ecf805abc539193888bff95be838e8ab03d357c83b5f3df6caab5",
+      "hash": "sha256-f266dbc6dd226897491eec7b36fd95be43981d3dcc42d820aade2a546b273b3c",
       "zipPartIndex": 32
     },
     {
@@ -2509,7 +2707,7 @@
       "size": 16777216,
       "offset": 553648128,
       "length": 16777216,
-      "hash": "sha256-528ddb89fd660e6e01d485262ab015ad8e5903a18bbbe0913d5b42aedc5005e8",
+      "hash": "sha256-f4a9a5166a27c1fad83f190fb4bb37ffec55e00b6128e3c2be93285367d18466",
       "zipPartIndex": 33
     },
     {
@@ -2518,7 +2716,7 @@
       "size": 16777216,
       "offset": 570425344,
       "length": 16777216,
-      "hash": "sha256-0764b476271fb23f2bb0112577fbcd83a2e301f2ed3be373ec16bb4650e1896e",
+      "hash": "sha256-4e86caa7bcd5d1840a1597f7ab38d76c67c618a29eedfbc7923f0e18ecb33ddb",
       "zipPartIndex": 34
     },
     {
@@ -2527,7 +2725,7 @@
       "size": 16777216,
       "offset": 587202560,
       "length": 16777216,
-      "hash": "sha256-7ed9d51da32dd2893d2fc788bf646cb6a4fb2d0051ff7bd045f6b64decc0c356",
+      "hash": "sha256-d66a79c671dfdef8185639e2aecc2709d441658fdf5fe3d167de08ac6e8ff8de",
       "zipPartIndex": 35
     },
     {
@@ -2536,7 +2734,7 @@
       "size": 16777216,
       "offset": 603979776,
       "length": 16777216,
-      "hash": "sha256-5204d7d3575896e310af9bdfbe3d0f5992da16e4544c519b883a6ded0e3c1958",
+      "hash": "sha256-b6aae5e9d82037fb7fc3d00e2db7bbe196ee8c956d3494c78afed9e128abad85",
       "zipPartIndex": 36
     },
     {
@@ -2545,7 +2743,7 @@
       "size": 16777216,
       "offset": 620756992,
       "length": 16777216,
-      "hash": "sha256-f7a02e33e1e61b0ef30cbbf03fac387179d0c3676289f8cfa7646f8bc3e6d1a5",
+      "hash": "sha256-15007a2e09ee3c67759f931dca558bb804c729a6b90058d528449eab0370624d",
       "zipPartIndex": 37
     },
     {
@@ -2554,7 +2752,7 @@
       "size": 16777216,
       "offset": 637534208,
       "length": 16777216,
-      "hash": "sha256-439ac00aedc654cacc5052d641dd09aaecde5a6c9fe65ce1b2c491de792a7270",
+      "hash": "sha256-b1eb83860b5c9393115675d3b4b09b09947f06ef2b4f71ac7b3122043eb90c80",
       "zipPartIndex": 38
     },
     {
@@ -2563,7 +2761,7 @@
       "size": 16777216,
       "offset": 654311424,
       "length": 16777216,
-      "hash": "sha256-714ace4952a2ea71686c41d0e3b466b93d1a24f0cab9e0e0ff39466eec46033c",
+      "hash": "sha256-81cea12262e143929e300e74318aba224daa256c6a87115f3875d168891e800e",
       "zipPartIndex": 39
     },
     {
@@ -2572,7 +2770,7 @@
       "size": 16777216,
       "offset": 671088640,
       "length": 16777216,
-      "hash": "sha256-107acc24613b2ae305ac6ca75f5e0ca4e5889ae5fdb82352c9ac4e59da302241",
+      "hash": "sha256-1789e09a10d40c7634dacbed42c9500b7c64ba30d0ec013f5ceaa4947026162b",
       "zipPartIndex": 40
     },
     {
@@ -2581,7 +2779,7 @@
       "size": 16777216,
       "offset": 687865856,
       "length": 16777216,
-      "hash": "sha256-b742e69b3070f70397b0d0b2ffc27936aab53ebd8758cab8c6255801d3623824",
+      "hash": "sha256-18cc5d46889e03e025efb330b019f40ab2174f03d5a1cb4543c7d456267173e4",
       "zipPartIndex": 41
     },
     {
@@ -2590,7 +2788,7 @@
       "size": 16777216,
       "offset": 704643072,
       "length": 16777216,
-      "hash": "sha256-022cb8570fce262a842cf47ae815be56f5a32a0b98422d88659bf7c0e19be568",
+      "hash": "sha256-6d9fe82548adcc9ed727581e27bd234f6e0ad5bf83c1d99cf9812bd026661684",
       "zipPartIndex": 42
     },
     {
@@ -2599,7 +2797,7 @@
       "size": 16777216,
       "offset": 721420288,
       "length": 16777216,
-      "hash": "sha256-42dc8757781c044b816d20a5f1fcee40ab9243d141f5b2c88e29cff05d92dca2",
+      "hash": "sha256-1ea604a8c1d0370cadc65dfb4d23b666c82f0e2089e9c4b158d40d7871c1f9e6",
       "zipPartIndex": 43
     },
     {
@@ -2608,7 +2806,7 @@
       "size": 16777216,
       "offset": 738197504,
       "length": 16777216,
-      "hash": "sha256-f768a0b328ee27a0e6bd1ec4b2fa092b2840e6e1214555798577ea7be808206a",
+      "hash": "sha256-7b79753e16ce9a1ab590dc4484a26fc2aa2ac07ad73eb499929ab564ac2d9cc2",
       "zipPartIndex": 44
     },
     {
@@ -2617,7 +2815,7 @@
       "size": 16777216,
       "offset": 754974720,
       "length": 16777216,
-      "hash": "sha256-2a8c7c2a883d16fcc96e7f86f130edb65e1beea00f1d072ea5b67a147e741bc8",
+      "hash": "sha256-f4a5dd26301debb4b8c56f7fcc17df09e4d963ba0c082fca613d3cddb43c1971",
       "zipPartIndex": 45
     },
     {
@@ -2626,7 +2824,7 @@
       "size": 16777216,
       "offset": 771751936,
       "length": 16777216,
-      "hash": "sha256-f88092d64c4292a3cf465365606887983627ba44c721c5321819a5cf2f36a8de",
+      "hash": "sha256-91259975d5ec42a366c60771857e7f88bf2762a73a8e1d375432bbadf8bcb1b6",
       "zipPartIndex": 46
     },
     {
@@ -2635,7 +2833,7 @@
       "size": 16777216,
       "offset": 788529152,
       "length": 16777216,
-      "hash": "sha256-a4072f87cc66ffefb97416da55a1b733ccc032acfa133a3ae4c101e2c146a42d",
+      "hash": "sha256-52864f27259cff506f17a5c995c8b81398e455ccedae366ff32c293a8b9a14a8",
       "zipPartIndex": 47
     },
     {
@@ -2644,7 +2842,7 @@
       "size": 16777216,
       "offset": 805306368,
       "length": 16777216,
-      "hash": "sha256-763f34524f0f7b539cd9a86524727fb8788a833e2ed5fd56b962bca5c124ab30",
+      "hash": "sha256-6c29ce2f7bd743c828ec232864ad0296f43352bd69aa309a25badb497c819849",
       "zipPartIndex": 48
     },
     {
@@ -2653,7 +2851,7 @@
       "size": 16777216,
       "offset": 822083584,
       "length": 16777216,
-      "hash": "sha256-7433ac5615e997f44afb618d4f1dfce5832310d98edaf68db22217515bb9c7a1",
+      "hash": "sha256-7c85674f8086a4461bd5248a3fe561dec7c3f8b09b9f06dafd43a1fc08903487",
       "zipPartIndex": 49
     },
     {
@@ -2662,7 +2860,7 @@
       "size": 16777216,
       "offset": 838860800,
       "length": 16777216,
-      "hash": "sha256-c3beb887b24fd784cc355267ed29492f85d48a68b95f0c5640f523d06fb4b544",
+      "hash": "sha256-2e90a39818b6aa2fec2cfde1302a5fc23d939cce00a8239d0c3dbca9dc9b65ad",
       "zipPartIndex": 50
     },
     {
@@ -2671,7 +2869,7 @@
       "size": 16777216,
       "offset": 855638016,
       "length": 16777216,
-      "hash": "sha256-23221b9dc7b1aecc56694ffc1f7edb26202a4c2f722899b56f1cc7e25b4e5bbd",
+      "hash": "sha256-98f28223d2f87da4d538f2a9a131e95610fb20cbc4cb5c31195336fc38134179",
       "zipPartIndex": 51
     },
     {
@@ -2680,7 +2878,7 @@
       "size": 16777216,
       "offset": 872415232,
       "length": 16777216,
-      "hash": "sha256-2e874e64e5a0abd7b8c4583e95469a67b787c5332ab1316d4e70364c331922a6",
+      "hash": "sha256-a63e4dbdd3f6989a6f93f11a274ded3ab828ce5030416b5b7b6b2a920c3f21e7",
       "zipPartIndex": 52
     },
     {
@@ -2689,7 +2887,7 @@
       "size": 16777216,
       "offset": 889192448,
       "length": 16777216,
-      "hash": "sha256-e08a9290ac232096b678ad83347c2c6c5287c78cd64e79dc7b940c981e6c0b04",
+      "hash": "sha256-2a00fe6c9e795b762f65524cd36ac9f0de3822785c04ef7c64e02ce611dec9b6",
       "zipPartIndex": 53
     },
     {
@@ -2698,7 +2896,7 @@
       "size": 16777216,
       "offset": 905969664,
       "length": 16777216,
-      "hash": "sha256-df9720a8fde6b523f8ff9f9172c839fe678b7136084f7f35900b68a94eb9d028",
+      "hash": "sha256-9ed2896467f75af8f332a38c60f757f9ca926ce07fb13e209e68dda403561f3e",
       "zipPartIndex": 54
     },
     {
@@ -2707,7 +2905,7 @@
       "size": 16777216,
       "offset": 922746880,
       "length": 16777216,
-      "hash": "sha256-d5708c4771544ab2eb33f111f5a0e92d0e8fca90f34eef1139d06c7409777655",
+      "hash": "sha256-2c57e4bc4d791f2c51e5186ad62f736047388ac050314a6de46501227be1681f",
       "zipPartIndex": 55
     },
     {
@@ -2716,7 +2914,7 @@
       "size": 16777216,
       "offset": 939524096,
       "length": 16777216,
-      "hash": "sha256-6b95cf3afc33e27c48fda760489f6f71c3ca77136a2f138e5da264e6e1967b92",
+      "hash": "sha256-fbc8165a36e9fe4a80583e7a321ee13063d163c73211cee52b13e43347c7758f",
       "zipPartIndex": 56
     },
     {
@@ -2725,7 +2923,7 @@
       "size": 16777216,
       "offset": 956301312,
       "length": 16777216,
-      "hash": "sha256-742c96c188e4c27bb5fa794541eab07cabc7a13e8ac6f27693a3f0aca285dcc1",
+      "hash": "sha256-754d72f05c17e4ba6aaea9e4cb03a4d601e3e061a1b4f3ea2e4a5e77092a6781",
       "zipPartIndex": 57
     },
     {
@@ -2734,7 +2932,7 @@
       "size": 16777216,
       "offset": 973078528,
       "length": 16777216,
-      "hash": "sha256-f17290824874814c98d5d0c2a5e58f61842f17037d9868bf3d2ba7502a69b549",
+      "hash": "sha256-e33d4d6583113edfc26526813c425214cb7911d16025322102c6cb1978fad853",
       "zipPartIndex": 58
     },
     {
@@ -2743,7 +2941,7 @@
       "size": 16777216,
       "offset": 989855744,
       "length": 16777216,
-      "hash": "sha256-2b16a13bec127bac550f7c09faf8797f835c2d85daa7c9d88cf31db84fae9dc6",
+      "hash": "sha256-f81941437a253320ea0238260e7fe3b2687b48cb00fc547a0d8193d0ab862236",
       "zipPartIndex": 59
     },
     {
@@ -2752,7 +2950,7 @@
       "size": 16777216,
       "offset": 1006632960,
       "length": 16777216,
-      "hash": "sha256-a4384caab0e26dc3db43f961abb958e5697c14c3ee708e32449fb877ee74d782",
+      "hash": "sha256-49aa4d6f374bba185e5f7f97da5813f1e46529e41cc44aee2934e8d35eee9e37",
       "zipPartIndex": 60
     },
     {
@@ -2761,7 +2959,7 @@
       "size": 16777216,
       "offset": 1023410176,
       "length": 16777216,
-      "hash": "sha256-cd846bfa38a22a8a4f9795b77da7de262d133a2e90cc5e3e4dc7c77e4b7a4105",
+      "hash": "sha256-dde1608b70e8bd2a4373e302f048c2008fbf353c75dc848931f184cff70c07ab",
       "zipPartIndex": 61
     },
     {
@@ -2770,7 +2968,7 @@
       "size": 16777216,
       "offset": 1040187392,
       "length": 16777216,
-      "hash": "sha256-8b16498f85c325213a4d7b8a722e2c19a3e97008bf4f2fa71c2ddaf9391eb552",
+      "hash": "sha256-1c09ac8c43b405cc04f73532f4813202daa98c43ae10ea745a08544948dccaf4",
       "zipPartIndex": 62
     },
     {
@@ -2779,7 +2977,7 @@
       "size": 16777216,
       "offset": 1056964608,
       "length": 16777216,
-      "hash": "sha256-475dd3bdacbc1deaf7b239bbdd80b0c188219bf614ba543b1023abd732c4b620",
+      "hash": "sha256-c9a5b4356e8527bba701bf7668a7e78f7b409c09d3ab1211cbabc8345d1242b9",
       "zipPartIndex": 63
     },
     {
@@ -2788,7 +2986,7 @@
       "size": 16777216,
       "offset": 1073741824,
       "length": 16777216,
-      "hash": "sha256-66a7dc6bd9968d0c983f501464127689994647e48664adc1c79a6b2fe059b609",
+      "hash": "sha256-495427502c6c82f37ada08ba2db852363d3fc2223d3509a13215e0ce9c8ef403",
       "zipPartIndex": 64
     },
     {
@@ -2797,7 +2995,7 @@
       "size": 16777216,
       "offset": 1090519040,
       "length": 16777216,
-      "hash": "sha256-83f991b3a53e2069721e4eb7b28aae6a5faf28332704b88dc5a73b877751f81a",
+      "hash": "sha256-15d32ae162c62c89672c933e7ebfd00e56ba6eda9be5aa9f81e52b7297b58de6",
       "zipPartIndex": 65
     },
     {
@@ -2806,7 +3004,7 @@
       "size": 16777216,
       "offset": 1107296256,
       "length": 16777216,
-      "hash": "sha256-637e6122e0af350920c87deacb9fadfcf5eeffae6860e89689ddb0df6b402289",
+      "hash": "sha256-044b92ecd74d3c0070d3491fe2a894ec3a35724824d1b21f97b6c790db70d1ce",
       "zipPartIndex": 66
     },
     {
@@ -2815,7 +3013,7 @@
       "size": 16777216,
       "offset": 1124073472,
       "length": 16777216,
-      "hash": "sha256-8c4820d25881d9db4f7ce69988923bba9490ef2fd100e868a5d959eb7c047dff",
+      "hash": "sha256-7e08060c5b0cb4fafe0943a26f92513d5dcfac0b2a47c0a9d54ba195186ad6ae",
       "zipPartIndex": 67
     },
     {
@@ -2824,7 +3022,7 @@
       "size": 16777216,
       "offset": 1140850688,
       "length": 16777216,
-      "hash": "sha256-3726327eaef0611da6789d0807abe51c7d81445d564039257926aa7473f754c3",
+      "hash": "sha256-cc8a858fe55e9d8868d67962b4a21416bf439078e072357836fb4f8b6012216d",
       "zipPartIndex": 68
     },
     {
@@ -2833,7 +3031,7 @@
       "size": 16777216,
       "offset": 1157627904,
       "length": 16777216,
-      "hash": "sha256-b5bca14e2a01728c4c2b22c56fc4ef3926740bc44a513252c41dd6a34d34f9fa",
+      "hash": "sha256-f5a5acf4de0344ca26f4ac117706e8d8d4382467489ddc842ac77c285cdec41f",
       "zipPartIndex": 69
     },
     {
@@ -2842,7 +3040,7 @@
       "size": 16777216,
       "offset": 1174405120,
       "length": 16777216,
-      "hash": "sha256-ef6bb4b3ce4e6c859796b85d46f58cf67b1212b588cccf618fdca259a3237d25",
+      "hash": "sha256-a19d1ef0fc1e02d41338df04fe80fd29b459cc3d14c8cfb0b8f6651a1b469c69",
       "zipPartIndex": 70
     },
     {
@@ -2851,7 +3049,7 @@
       "size": 16777216,
       "offset": 1191182336,
       "length": 16777216,
-      "hash": "sha256-e5cb125fe4269f31168e4ce2ba7fb936ea3ee05cf3eaf96373a31510c3f0a56c",
+      "hash": "sha256-7ba84563ce929d52c5abeb8cb1345fca9241656142e7f643e50ed891e9adbe27",
       "zipPartIndex": 71
     },
     {
@@ -2860,7 +3058,7 @@
       "size": 16777216,
       "offset": 1207959552,
       "length": 16777216,
-      "hash": "sha256-91f792d72837ed39a124c3e88ef0ddc119c0251ecd0ef6d23008d0c91187d9d8",
+      "hash": "sha256-bcdc124369481dd35e64f4b17db466af6ed05c55e17b9781e0fdf48df5f1a1cd",
       "zipPartIndex": 72
     },
     {
@@ -2869,7 +3067,7 @@
       "size": 16777216,
       "offset": 1224736768,
       "length": 16777216,
-      "hash": "sha256-366559e29fc95bfc126c3148dc13cc39ace5e4c84c11326a2494620e879c9150",
+      "hash": "sha256-24475d602bac3a1e06e8bc6a2a26c7c13cfcf9a5fe75d8fa74b401981e15216a",
       "zipPartIndex": 73
     },
     {
@@ -2878,7 +3076,7 @@
       "size": 16777216,
       "offset": 1241513984,
       "length": 16777216,
-      "hash": "sha256-2c5414b713ff3813afc0cf76b8aba7f173ddaf562c8be038962fb784ab10d9ca",
+      "hash": "sha256-3d05919424749a98975a5fe986decb3b65d147cb68e3fba63a75fc2568929d9e",
       "zipPartIndex": 74
     },
     {
@@ -2887,7 +3085,7 @@
       "size": 16777216,
       "offset": 1258291200,
       "length": 16777216,
-      "hash": "sha256-39f75efca7112590d181387cfb3aa688b017420e70d4f5ea2768d56e73ffbfe9",
+      "hash": "sha256-f876496b4b60eef70975bc11bea4a9f44ef310f2e6ab417563782b62a5a45da8",
       "zipPartIndex": 75
     },
     {
@@ -2896,7 +3094,7 @@
       "size": 16777216,
       "offset": 1275068416,
       "length": 16777216,
-      "hash": "sha256-2f3759b5b2eebff54ccc8b8242f7259eb64c8d644b68970aab1c6d45d6074562",
+      "hash": "sha256-f9b9723257357b1ccb76925ea290efe1fe576fe058794a822ed790c49c5d889d",
       "zipPartIndex": 76
     },
     {
@@ -2905,7 +3103,7 @@
       "size": 16777216,
       "offset": 1291845632,
       "length": 16777216,
-      "hash": "sha256-0e0ecf692b7cca03f96f8765e59c959d57c51ac798e8a7a0e2ac02dd03d0efce",
+      "hash": "sha256-8cf5203dbd93f6371afd3d9244a72613ae7937f89091697290dca09ffdfeb158",
       "zipPartIndex": 77
     },
     {
@@ -2914,7 +3112,7 @@
       "size": 16777216,
       "offset": 1308622848,
       "length": 16777216,
-      "hash": "sha256-26f53b12177bf84898223ac661227b20b2816fe5f545da1ffe839fa69498d9a9",
+      "hash": "sha256-3188e8eec43311446eade107fd91795e35464ab887911c68ee62d4d8cda74529",
       "zipPartIndex": 78
     },
     {
@@ -2923,7 +3121,7 @@
       "size": 16777216,
       "offset": 1325400064,
       "length": 16777216,
-      "hash": "sha256-84874edaeb902c44466b377518da171829a98bda2b372330ba14d34124620b02",
+      "hash": "sha256-b2ba391464954f6d626505aae7a4c61f1dc315ded072b930d4e3351978fa4907",
       "zipPartIndex": 79
     },
     {
@@ -2932,7 +3130,7 @@
       "size": 16777216,
       "offset": 1342177280,
       "length": 16777216,
-      "hash": "sha256-0bbde43fe00d054eff41e8fae9c742fc3617d9b44871d15571b51942600dc7b9",
+      "hash": "sha256-859a900b17c1d1f79f58c517965af9cbc1aec99bf500418dbc2ddcd488cee42e",
       "zipPartIndex": 80
     },
     {
@@ -2941,7 +3139,7 @@
       "size": 16777216,
       "offset": 1358954496,
       "length": 16777216,
-      "hash": "sha256-0b94e5a559c5e37afc0904d4e914f8a2db7df0ecc73e763eef318e9531b56b58",
+      "hash": "sha256-eb7a37a2466b37d25d0c00cb06d5eadfd6939af900dd17ac8071ff5ff69635c5",
       "zipPartIndex": 81
     },
     {
@@ -2950,7 +3148,7 @@
       "size": 16777216,
       "offset": 1375731712,
       "length": 16777216,
-      "hash": "sha256-1c86464dbc1efe8dcc4c6962417ef01e237a4ed6e8f93d453803693a410680c1",
+      "hash": "sha256-9904cf0a0e998ec6aada93e6911915c6ca8eff93f947cabd29cf584ba0aff4f0",
       "zipPartIndex": 82
     },
     {
@@ -2959,7 +3157,7 @@
       "size": 16777216,
       "offset": 1392508928,
       "length": 16777216,
-      "hash": "sha256-c9f046d1d60b8885d457c48672c4e0cdbaa8340838c039c6b28f903bd301e0f3",
+      "hash": "sha256-5adae6a793031e53155efc4eca92d09e937386e026595770d880248ba19929a4",
       "zipPartIndex": 83
     },
     {
@@ -2968,7 +3166,7 @@
       "size": 16777216,
       "offset": 1409286144,
       "length": 16777216,
-      "hash": "sha256-f24a0d0191f549019fc9dc95d6f57dbd52d77495bee7a4ce48e54500ff40a600",
+      "hash": "sha256-224696ce3911ac29826b64a369914ec9038748551f0da38eaaa1c0a9b0b3136d",
       "zipPartIndex": 84
     },
     {
@@ -2977,7 +3175,7 @@
       "size": 16777216,
       "offset": 1426063360,
       "length": 16777216,
-      "hash": "sha256-65cc962b48afd385a641e1eb25f598df1d32ad0506223e5f2e2898de28de00de",
+      "hash": "sha256-1b5e7cf950854321aff60dff318e70639b13d74a91901e5fa6b82e79e8b9816e",
       "zipPartIndex": 85
     },
     {
@@ -2986,7 +3184,7 @@
       "size": 16777216,
       "offset": 1442840576,
       "length": 16777216,
-      "hash": "sha256-bd0cb85ee2cfd08d294c03274375d9bc9c13937a795b15fa0c19adc4e3e1b7b1",
+      "hash": "sha256-e8619993a3713b3626b4ba2053278f92998c01a990f652d12734e0a37ccf88a6",
       "zipPartIndex": 86
     },
     {
@@ -2995,7 +3193,7 @@
       "size": 16777216,
       "offset": 1459617792,
       "length": 16777216,
-      "hash": "sha256-7063c4171ea27411543e7d8f16a4fbfbd9a0a397f84b99288eaba30d9eec97fa",
+      "hash": "sha256-ae453d91c0f90d27f3a3e097768f187aa819ac253430135ed948c03d1f4752f8",
       "zipPartIndex": 87
     },
     {
@@ -3004,7 +3202,7 @@
       "size": 16777216,
       "offset": 1476395008,
       "length": 16777216,
-      "hash": "sha256-861d0a9f2d6e006029bc988097f08df1564739cc4f059de3bbb8858f0412bf6b",
+      "hash": "sha256-a693df01a70afb639c314b9ae25de3273789aaa3ff31d77fb51edd967e3d1c8e",
       "zipPartIndex": 88
     },
     {
@@ -3013,7 +3211,7 @@
       "size": 16777216,
       "offset": 1493172224,
       "length": 16777216,
-      "hash": "sha256-f0b9f4e309f7b850a6c3cc8274c24c35000941dc8c371825c7cace2506fe0f1c",
+      "hash": "sha256-3c45e093723955f636e88b5f74e15cfa435d7a9bfa4540fa432f45a88f468f99",
       "zipPartIndex": 89
     },
     {
@@ -3022,7 +3220,7 @@
       "size": 16777216,
       "offset": 1509949440,
       "length": 16777216,
-      "hash": "sha256-2431eda3cd10734566e910b7230273f292a5684ae02c318e9d70df38d0df0ac8",
+      "hash": "sha256-3d121a778c9183f17b99fc5f82fc70ed025c69caed68837037d2607b5c1c199a",
       "zipPartIndex": 90
     },
     {
@@ -3031,7 +3229,7 @@
       "size": 16777216,
       "offset": 1526726656,
       "length": 16777216,
-      "hash": "sha256-833beb590513da33d9b93447044787caaf8f9169ce6424c23b6f5dabb053dd6a",
+      "hash": "sha256-f572ab0fa5a232de7f868e02fc26895265b2f30418488cb933f5d30d89702595",
       "zipPartIndex": 91
     },
     {
@@ -3040,7 +3238,7 @@
       "size": 16777216,
       "offset": 1543503872,
       "length": 16777216,
-      "hash": "sha256-1a8d762b1a62a0690b347a1e9b8c1c2638c6d1804adaf24a02e41d9c4bba61de",
+      "hash": "sha256-aa8dd63750fcb0a44b79962e3b5c6cd5e08b964c13627c2b77f45d8ba59b2cad",
       "zipPartIndex": 92
     },
     {
@@ -3049,7 +3247,7 @@
       "size": 16777216,
       "offset": 1560281088,
       "length": 16777216,
-      "hash": "sha256-d4207e7af151b3b546f8c536ae68c5c6e6891cbda878304da4c7c2099b5e38bb",
+      "hash": "sha256-ed6d913568fa955d2c2d4f890238644f6ea2900d808c6f395ca2e178cc72238c",
       "zipPartIndex": 93
     },
     {
@@ -3058,7 +3256,7 @@
       "size": 16777216,
       "offset": 1577058304,
       "length": 16777216,
-      "hash": "sha256-896059bfacb26eea2eb4a9a9e700a22424a4a72a9d86cf4f7e16c258a7626d6a",
+      "hash": "sha256-eaf8e69c031026df3cae571389835e2e8594bdc9d7cd3fdbb15d3bfd5543b540",
       "zipPartIndex": 94
     },
     {
@@ -3067,7 +3265,7 @@
       "size": 16777216,
       "offset": 1593835520,
       "length": 16777216,
-      "hash": "sha256-932cef5abcc182313b1629494b2214504db5057be1b8bcf1b240d224dade58c3",
+      "hash": "sha256-916606a233fcdb91cb51f232878dcbe5e8a3f42c570e89dadf19bcffd662978c",
       "zipPartIndex": 95
     },
     {
@@ -3076,7 +3274,7 @@
       "size": 16777216,
       "offset": 1610612736,
       "length": 16777216,
-      "hash": "sha256-f25953bd0a2d25e0703bad1ab508140572ce32aa05f3232a8887b72fa5aa084c",
+      "hash": "sha256-6027ab638b89ee8dfc5550edc0811cf72d8631ad77515272bfe5ca1845228eb3",
       "zipPartIndex": 96
     },
     {
@@ -3085,7 +3283,7 @@
       "size": 16777216,
       "offset": 1627389952,
       "length": 16777216,
-      "hash": "sha256-d140b5df8a5f03ae39cdb15481fbce89d5e0f0fff91cbb5a8c31bee00ad33b87",
+      "hash": "sha256-8985f1484de69501dfcdb13c0f72f3287103c76c416fa59faf3753732aed73a8",
       "zipPartIndex": 97
     },
     {
@@ -3094,7 +3292,7 @@
       "size": 16777216,
       "offset": 1644167168,
       "length": 16777216,
-      "hash": "sha256-c19c58f189972c4faf36c6c0abcf82c54783eadf7b5efd0f06319c008d3f5ecb",
+      "hash": "sha256-e292f1ff2848c33e8e73a3b74b0e8487d983663422ed83427675499c050d4720",
       "zipPartIndex": 98
     },
     {
@@ -3103,7 +3301,7 @@
       "size": 16777216,
       "offset": 1660944384,
       "length": 16777216,
-      "hash": "sha256-8977429baa5a9d88e5e099363d9146e203998ef217d8811e05a77b1112596047",
+      "hash": "sha256-a56f73663af1da7030cce07e77f32e0f43f718340f40664bc3911708612b2c95",
       "zipPartIndex": 99
     },
     {
@@ -3112,7 +3310,7 @@
       "size": 16777216,
       "offset": 1677721600,
       "length": 16777216,
-      "hash": "sha256-07aeb0feb008500a1124ff05e6d00e6abaf51670584ddc3981de2c20f2cc0ec4",
+      "hash": "sha256-6ccc2a25741151a6911c07c70f7cda82261b99c95a17392cef6c266a1ed34f01",
       "zipPartIndex": 100
     },
     {
@@ -3121,7 +3319,7 @@
       "size": 16777216,
       "offset": 1694498816,
       "length": 16777216,
-      "hash": "sha256-2f2dacbefdc5c29cbef435e31c40076182052537a71f232f4db8fc25a8019c6e",
+      "hash": "sha256-bed819473ccfda62689ca194946184a7543a7ea2b5fc895f0b5c68ea3dda3860",
       "zipPartIndex": 101
     },
     {
@@ -3130,7 +3328,7 @@
       "size": 16777216,
       "offset": 1711276032,
       "length": 16777216,
-      "hash": "sha256-bc915216887ee257522e6e60adc04ecc43c2fb0173ebc108cff0ff13cf06bfd1",
+      "hash": "sha256-5b17a066580eb36ce13f1b75dd63bc73f7cf4d02e40ef872f5285ef592a783c0",
       "zipPartIndex": 102
     },
     {
@@ -3139,7 +3337,7 @@
       "size": 16777216,
       "offset": 1728053248,
       "length": 16777216,
-      "hash": "sha256-e5ce00afe9d1e913cf35424c990af433c6db01060aeff2299fa4511270bd08e7",
+      "hash": "sha256-bff69b7ad712a44c04e5f592c366f617eedaab677142194322b315f8a453790a",
       "zipPartIndex": 103
     },
     {
@@ -3148,7 +3346,7 @@
       "size": 16777216,
       "offset": 1744830464,
       "length": 16777216,
-      "hash": "sha256-d240181552da04df2c44837313ad973997ab63d97676cc6afc4ac8e629c69429",
+      "hash": "sha256-933d9f7bd7e76735929306eb2f7506dd6cf32187247cabbd36e3a633b3aa0d06",
       "zipPartIndex": 104
     },
     {
@@ -3157,7 +3355,7 @@
       "size": 16777216,
       "offset": 1761607680,
       "length": 16777216,
-      "hash": "sha256-60105e6d10822370b6805a7ce6f7241da1caa3a849dc7f8c595035be7c25131a",
+      "hash": "sha256-949de4a46e2af3a36fb2a0c15929917bc4add7cc6db4f6edd46355e9d3361689",
       "zipPartIndex": 105
     },
     {
@@ -3166,7 +3364,7 @@
       "size": 16777216,
       "offset": 1778384896,
       "length": 16777216,
-      "hash": "sha256-0ca1cf8abe70b2108776142fc037f8c064a7ebbde29178d57a5767a2596a453c",
+      "hash": "sha256-200c4752760225159662082c4e0e4243d222ab98a0cd35918f5e98160f19e9cd",
       "zipPartIndex": 106
     },
     {
@@ -3175,7 +3373,7 @@
       "size": 16777216,
       "offset": 1795162112,
       "length": 16777216,
-      "hash": "sha256-c6a5aa779bed13ff8e9ada5ee69cb42e8483ed54ae1c4bbb7afafe5d31699e9d",
+      "hash": "sha256-fb3d546bcba261ba938297564343d54ce41a573aa4a880bb203abbc1226b4371",
       "zipPartIndex": 107
     },
     {
@@ -3184,7 +3382,7 @@
       "size": 16777216,
       "offset": 1811939328,
       "length": 16777216,
-      "hash": "sha256-82bfcb35c9be95feedc28f8796216eaf8980343e30444583b4031407f3d65260",
+      "hash": "sha256-922c45ad5ee766ea19565929ab59a08358991e7eaa630ee389e67ea2274736f4",
       "zipPartIndex": 108
     },
     {
@@ -3193,7 +3391,7 @@
       "size": 16777216,
       "offset": 1828716544,
       "length": 16777216,
-      "hash": "sha256-acf59fe98f32f427f3f52bfef32a5df772aac6e6e208fb2f0cab7ae3d987bdbb",
+      "hash": "sha256-ca92b7b40316858ed10189ceffea078a0899e34a143c191d56f1e252d39d6d69",
       "zipPartIndex": 109
     },
     {
@@ -3202,7 +3400,7 @@
       "size": 16777216,
       "offset": 1845493760,
       "length": 16777216,
-      "hash": "sha256-8b051e2f691e927f7ac1b2fa624394eeec8bce701e2d31dfcc843b6a4a4bdb2d",
+      "hash": "sha256-84137e8190b771e7e87383cdd19fe95df8df96c78784cafdf39259af0f01e5ba",
       "zipPartIndex": 110
     },
     {
@@ -3211,7 +3409,7 @@
       "size": 16777216,
       "offset": 1862270976,
       "length": 16777216,
-      "hash": "sha256-0bef592d4ccbd81ba75906fe1bf525fe15ecb3c4bd14af259916d0b103967f00",
+      "hash": "sha256-85e0ffd4df4772d43c047aa5ab1891f2b46eddcae87c94dd5f9b7f551c63da6d",
       "zipPartIndex": 111
     },
     {
@@ -3220,7 +3418,7 @@
       "size": 16777216,
       "offset": 1879048192,
       "length": 16777216,
-      "hash": "sha256-08e49df196e079a256ac9decc4b58f9bb0e2b51b5b7aff7416547e5f18c4f170",
+      "hash": "sha256-be99c8cf243ef5193cecf2ffd0be9c1066a0c5fa061851f1bb059a09f9b39044",
       "zipPartIndex": 112
     },
     {
@@ -3229,7 +3427,7 @@
       "size": 16777216,
       "offset": 1895825408,
       "length": 16777216,
-      "hash": "sha256-6ff5f9916356c0452bffda8d7fd1e25196cd083cb54b6ac9118903b69b80657d",
+      "hash": "sha256-39ffb1cd556be6154e70944f76ce4d8aa9fe451847fb916b54476721507afca1",
       "zipPartIndex": 113
     },
     {
@@ -3238,7 +3436,7 @@
       "size": 16777216,
       "offset": 1912602624,
       "length": 16777216,
-      "hash": "sha256-cfb441889cbdd5f58d0d64fa631ef7289b45f35828f67e280f00d66095169ffd",
+      "hash": "sha256-1fe3b00827e7cb4b6ee5d1005c9826e7c35359adfc1630b781d20b7115a56404",
       "zipPartIndex": 114
     },
     {
@@ -3247,7 +3445,7 @@
       "size": 16777216,
       "offset": 1929379840,
       "length": 16777216,
-      "hash": "sha256-5d36d436523a866578cee08c0799f80c3ef337d5798fab6bb98288c756153219",
+      "hash": "sha256-a4009cf5b39c1a7e6bffbc34f45f846d646a98645175ca4f103fe7bc4f4327dd",
       "zipPartIndex": 115
     },
     {
@@ -3256,7 +3454,7 @@
       "size": 16777216,
       "offset": 1946157056,
       "length": 16777216,
-      "hash": "sha256-ee6cd48dba8b8b67370aa8dd85f1ea2ffe073b592e572f691e917394dbb72eb5",
+      "hash": "sha256-c2c2ee2b724927a7a2b1729a7da6ea9e10539117d3cfe60ab3cb5602b905be9f",
       "zipPartIndex": 116
     },
     {
@@ -3265,7 +3463,7 @@
       "size": 16777216,
       "offset": 1962934272,
       "length": 16777216,
-      "hash": "sha256-1d0b06bd96a2816ddbb245cab8fe14c5f165933bf7b307144435ef1a32ff29b6",
+      "hash": "sha256-4cfa8009060ce1d89a77c228558334a85bf870ed83eedbaafb04d996da03792b",
       "zipPartIndex": 117
     },
     {
@@ -3274,7 +3472,7 @@
       "size": 16777216,
       "offset": 1979711488,
       "length": 16777216,
-      "hash": "sha256-02f299afcf701b633240cc23ef9288274a622e878f30748653e80c51d8a9e882",
+      "hash": "sha256-037d08a39ecd49b0bb68bcda82c46e2ad28b137b81b0d1ddb0aa74108bb23e12",
       "zipPartIndex": 118
     },
     {
@@ -3283,7 +3481,7 @@
       "size": 16777216,
       "offset": 1996488704,
       "length": 16777216,
-      "hash": "sha256-8edb7c18fd64650b5ff2ad1e12eadb34c33ed86e38d9607e35b90e5f4c6e3636",
+      "hash": "sha256-34603506a60db1444488e1deb8bd9f1fda084aac84d11b66549e130d4aea4f93",
       "zipPartIndex": 119
     },
     {
@@ -3292,7 +3490,7 @@
       "size": 16777216,
       "offset": 2013265920,
       "length": 16777216,
-      "hash": "sha256-cefbeef3ad207e3c157ecfc92607ae235ebd731e3dccfe9b9bd9aa5f5ff537a9",
+      "hash": "sha256-b1499deaab6b9af682b1ebf9deae8b1507504ddfa42d905358168715b6972833",
       "zipPartIndex": 120
     },
     {
@@ -3301,7 +3499,7 @@
       "size": 16777216,
       "offset": 2030043136,
       "length": 16777216,
-      "hash": "sha256-f1a5927772f245444b0a3ca53f2ca14302da9cb271a597ce29fbe6464ddd930f",
+      "hash": "sha256-be21b4cb289a886ed081f3d100d904a1c55776c9a5b56f81e7644b7cce0dfd1d",
       "zipPartIndex": 121
     },
     {
@@ -3310,7 +3508,7 @@
       "size": 16777216,
       "offset": 2046820352,
       "length": 16777216,
-      "hash": "sha256-ede059385569ca40e4b3ed1853be365b5519a07a0fc37c80d5c5f11d6201db43",
+      "hash": "sha256-77caebb9a24af121759635921d0a5086db35b416e61f1462836de5473e70eeba",
       "zipPartIndex": 122
     },
     {
@@ -3319,7 +3517,7 @@
       "size": 16777216,
       "offset": 2063597568,
       "length": 16777216,
-      "hash": "sha256-6ba7f7409cf81680256d5591271b2507ba2a59b45162a915894a92aee7268731",
+      "hash": "sha256-51c2ef5e4c9451481cc3ff1c8d15b1323994108c214ed5a8fbd2b959f9bddacf",
       "zipPartIndex": 123
     },
     {
@@ -3328,7 +3526,7 @@
       "size": 16777216,
       "offset": 2080374784,
       "length": 16777216,
-      "hash": "sha256-8ae8da5be76053f08b89d3ba6d3017e4a047b78cad26cae155f31c2858d7b0cb",
+      "hash": "sha256-72c519c859789c1af0f56c816a91a91bfb56fb1f339bb51c286db17f14885bde",
       "zipPartIndex": 124
     },
     {
@@ -3337,7 +3535,7 @@
       "size": 16777216,
       "offset": 2097152000,
       "length": 16777216,
-      "hash": "sha256-41bca643f3dcc83c3f3d05337ebb294065e2bd57fd771c976eb193324d1f6303",
+      "hash": "sha256-28c1178c2d5b254ceb28ba43ec9676d8c574c3851b30d43262fe500f8b3df3a6",
       "zipPartIndex": 125
     },
     {
@@ -3346,7 +3544,7 @@
       "size": 16777216,
       "offset": 2113929216,
       "length": 16777216,
-      "hash": "sha256-e39060cb492b4915f50d7f5d7fc602a9912631dc8544b09b5e07b1fcc3611958",
+      "hash": "sha256-df3b9dd459fae94678c9e8408575a6d64f28f8a4ad194f026c06a3fa82324936",
       "zipPartIndex": 126
     },
     {
@@ -3355,7 +3553,7 @@
       "size": 16777216,
       "offset": 2130706432,
       "length": 16777216,
-      "hash": "sha256-6629623d60ed29a87fe63b6f3b2f9fc3f999c1bd9c66f295d537280f28fb3f01",
+      "hash": "sha256-57b2f90871ea50b3e9468a4b98657b845e9184ea12eb60d401f67db42f8b8444",
       "zipPartIndex": 127
     },
     {
@@ -3364,7 +3562,7 @@
       "size": 16777216,
       "offset": 2147483648,
       "length": 16777216,
-      "hash": "sha256-d48e18bf6ec3cb049051be603474bf92d577288c3ddaa7b19201c9ec9887e19d",
+      "hash": "sha256-0fd2ac859390178a3a5c2ac87038c3688425fea41d4ca625dbd8bee31eea38f5",
       "zipPartIndex": 128
     },
     {
@@ -3373,7 +3571,7 @@
       "size": 16777216,
       "offset": 2164260864,
       "length": 16777216,
-      "hash": "sha256-c3e001829a50b455ae3befcd17c3dcb3154226c47e91b13c8a8cca8c187308c2",
+      "hash": "sha256-3b3bdcfda94fe2fc9c70430128d7faf33b57669a0ae39ddfbad27144db663987",
       "zipPartIndex": 129
     },
     {
@@ -3382,7 +3580,7 @@
       "size": 16777216,
       "offset": 2181038080,
       "length": 16777216,
-      "hash": "sha256-30f2b7355a23c6fcbc258794afad339388093dfa548ee1a0612803a00cd1515a",
+      "hash": "sha256-1717794332d207f566a3cf00c9ac24168a1f8ea39ec691332623461c86296c22",
       "zipPartIndex": 130
     },
     {
@@ -3391,7 +3589,7 @@
       "size": 16777216,
       "offset": 2197815296,
       "length": 16777216,
-      "hash": "sha256-78131512cde014c1cbef489338472ba8feeceab905155727fd2665cd2b5afa65",
+      "hash": "sha256-a427292561b21f146df7a9b3d429a97223a3d31c21934763f91155affa859fec",
       "zipPartIndex": 131
     },
     {
@@ -3400,7 +3598,7 @@
       "size": 16777216,
       "offset": 2214592512,
       "length": 16777216,
-      "hash": "sha256-d7357bbd1b14b50134e0ea9100f1ef86adbf44e651a14401a2b72c6e4011f7ff",
+      "hash": "sha256-042e0c714bd03d0c7960147b8d766e3370b815ef994d75446b6319f883706dad",
       "zipPartIndex": 132
     },
     {
@@ -3409,7 +3607,7 @@
       "size": 16777216,
       "offset": 2231369728,
       "length": 16777216,
-      "hash": "sha256-a9e9b6a63d638d02139e069d66d5152d3f0474562020ae3d6e779d7137eb142a",
+      "hash": "sha256-6910815527e355da78802a7cc72b90a79f5369b1cbeeb641b5d9b5baf1fe1c4e",
       "zipPartIndex": 133
     },
     {
@@ -3418,7 +3616,7 @@
       "size": 16777216,
       "offset": 2248146944,
       "length": 16777216,
-      "hash": "sha256-6f972f8ce450d155bde83a5c4457d4e7889cbf9124add2479cddd015d7669584",
+      "hash": "sha256-5432ac03c3e8878a763ad83370adf4023a4dad506edd6d00476c8ff3c35ba980",
       "zipPartIndex": 134
     },
     {
@@ -3427,7 +3625,7 @@
       "size": 16777216,
       "offset": 2264924160,
       "length": 16777216,
-      "hash": "sha256-a5f589b13771be46e3f7f574a3be5b455639ef41b4a12d8ae20b7359135d6642",
+      "hash": "sha256-40afe635ec5294442696b25736ac5978ed2e88e8cc331a0c2a801da3c31342b6",
       "zipPartIndex": 135
     },
     {
@@ -3436,7 +3634,7 @@
       "size": 16777216,
       "offset": 2281701376,
       "length": 16777216,
-      "hash": "sha256-07524781761cb555ffcbef293197411e5df842e30f442ee13d4634ae2c933dd9",
+      "hash": "sha256-88d801b63c1437eeecb1f8a4260d8318d6331b291b70f417fa7415e401f38595",
       "zipPartIndex": 136
     },
     {
@@ -3445,7 +3643,7 @@
       "size": 16777216,
       "offset": 2298478592,
       "length": 16777216,
-      "hash": "sha256-4608aa3336c596fb6945aa96b1e4e3aa57521b3b02c4009ac2670328959f8090",
+      "hash": "sha256-d312e1d04037324a11e7703639858d9e294cf7d868b93942359568767747844c",
       "zipPartIndex": 137
     },
     {
@@ -3454,7 +3652,7 @@
       "size": 16777216,
       "offset": 2315255808,
       "length": 16777216,
-      "hash": "sha256-2cfb66ed4699cfc5ac7a04e57bfe2959291c1ac42f0eede640b6d3ac31934bee",
+      "hash": "sha256-6cb29ffa0da0344b81163f4222cac23cea2396a6ec1aa621b4f7336199f2481a",
       "zipPartIndex": 138
     },
     {
@@ -3463,7 +3661,7 @@
       "size": 16777216,
       "offset": 2332033024,
       "length": 16777216,
-      "hash": "sha256-d174112ac76d771b448d8f97d322d82db460cac229c63e3d9bc57ebd3dcb5914",
+      "hash": "sha256-521bbe47b299b6176a1bee63b2423a687b9f23748209efd49c347e4b03bd9342",
       "zipPartIndex": 139
     },
     {
@@ -3472,7 +3670,7 @@
       "size": 16777216,
       "offset": 2348810240,
       "length": 16777216,
-      "hash": "sha256-a037e59498a61c70c22b61d6a98ed93a7b906645be475552607b4dc944bcefda",
+      "hash": "sha256-23398fa7abacff43cf3c42b9f4e291ce4a82edfa4c566b0fd2696a449553c0c5",
       "zipPartIndex": 140
     },
     {
@@ -3481,7 +3679,7 @@
       "size": 16777216,
       "offset": 2365587456,
       "length": 16777216,
-      "hash": "sha256-9cf1f6f0bcf7724f3b783d4a0a8df671c696397c8e7b654c9439c572a719c441",
+      "hash": "sha256-46b23b9415e5229eab5318e6476ceb8e2b6356e1cab84aebb868abd4b134b83d",
       "zipPartIndex": 141
     },
     {
@@ -3490,7 +3688,7 @@
       "size": 16777216,
       "offset": 2382364672,
       "length": 16777216,
-      "hash": "sha256-93d86b33b263a70fff2dfe6cbd9aea5439f82cd1f4be60eecdf62ba54a932c4b",
+      "hash": "sha256-adf3b1c0906d844821b49238980399ae12764ecb2f7cba993dd73e955315f4d8",
       "zipPartIndex": 142
     },
     {
@@ -3499,7 +3697,7 @@
       "size": 16777216,
       "offset": 2399141888,
       "length": 16777216,
-      "hash": "sha256-2dfa7110e08d86523fda3fb718dda793702d82dc801a6f10e76bdc4d8f19e434",
+      "hash": "sha256-e9f31b913aa36c98c0c5f7bcdd4db6137e1c69be283b661fc42da007953580d3",
       "zipPartIndex": 143
     },
     {
@@ -3508,7 +3706,7 @@
       "size": 16777216,
       "offset": 2415919104,
       "length": 16777216,
-      "hash": "sha256-b8d021014c00d48385074053529a5738b1ba656a813d5d2d0b51bf3930a27170",
+      "hash": "sha256-70e1de228771c5bd27128f99881851252593c15f0202d363426a3d1f409bac79",
       "zipPartIndex": 144
     },
     {
@@ -3517,7 +3715,7 @@
       "size": 16777216,
       "offset": 2432696320,
       "length": 16777216,
-      "hash": "sha256-d210366102a11a91289930aa8ebd1dec8d40087bbac17efc22c726fca40c0982",
+      "hash": "sha256-a7db76f29ca142947ed4d1e71143aa301bef80ba5b7fd0c5949e736e0f83b60b",
       "zipPartIndex": 145
     },
     {
@@ -3526,7 +3724,7 @@
       "size": 16777216,
       "offset": 2449473536,
       "length": 16777216,
-      "hash": "sha256-b92acacd20e77e78a1b38d2aef162dc4a2cec00da587c2550298461715ca6626",
+      "hash": "sha256-a9493850c7a666df5d00a11ad33cc35e983877abb59e616ebd288be9dc1cb145",
       "zipPartIndex": 146
     },
     {
@@ -3535,7 +3733,7 @@
       "size": 16777216,
       "offset": 2466250752,
       "length": 16777216,
-      "hash": "sha256-2772f792c321287bb47fe1e7d406c0acfdb7bd7ebfaf14dfaa87f196564e880a",
+      "hash": "sha256-1ffd334b8979d28fb45aeb0ed1e5a3641987975606512d8170a05127b8664b7f",
       "zipPartIndex": 147
     },
     {
@@ -3544,7 +3742,7 @@
       "size": 16777216,
       "offset": 2483027968,
       "length": 16777216,
-      "hash": "sha256-1724cfcd207b3819144c3316c5edab1bf68391da8cc456a3e6ff6f49ab9a5f59",
+      "hash": "sha256-8b47768c1a6409a88135150e3dc45f6d5801be0cd0da6ae4ad0e0d9786ddf096",
       "zipPartIndex": 148
     },
     {
@@ -3553,7 +3751,7 @@
       "size": 16777216,
       "offset": 2499805184,
       "length": 16777216,
-      "hash": "sha256-d65e7cb1e880f12599004cde0fcd63f22c4ca08325b3c089710745f53d345558",
+      "hash": "sha256-67c5a59eb7893d38382b261536b6cc13cd1242df3f3d2083b3244f2dab873fe0",
       "zipPartIndex": 149
     },
     {
@@ -3562,7 +3760,7 @@
       "size": 16777216,
       "offset": 2516582400,
       "length": 16777216,
-      "hash": "sha256-097c0051adda0c94d7b8253bea111f575671d52abc91d5a36b1decf77125ab49",
+      "hash": "sha256-305da151cdceb332dc6ab054e72fedbda8ef8c270765050b06348ed98c5691cb",
       "zipPartIndex": 150
     },
     {
@@ -3571,7 +3769,7 @@
       "size": 16777216,
       "offset": 2533359616,
       "length": 16777216,
-      "hash": "sha256-02e077249ddee0182678ea44aa9d55faaffdcf496e1017ba0d10f7b23733ddea",
+      "hash": "sha256-6b2fec7573bcea67524e949b3616951c5c1b144474f4a164f3043c3e686d124d",
       "zipPartIndex": 151
     },
     {
@@ -3580,7 +3778,7 @@
       "size": 16777216,
       "offset": 2550136832,
       "length": 16777216,
-      "hash": "sha256-d676f8447aca8230dd1837af73a64e5660b27f21496c114800dfc4a1cbd4b0c4",
+      "hash": "sha256-8d6374df9633d78aefd0360ae003649f45bfe7bba6d84b115658f3f66e3eda4d",
       "zipPartIndex": 152
     },
     {
@@ -3589,7 +3787,7 @@
       "size": 16777216,
       "offset": 2566914048,
       "length": 16777216,
-      "hash": "sha256-34e9202ec73fcf1e0d457a7724e93056c8973d1f269127f2eebdcdf590ca74c5",
+      "hash": "sha256-861b9f01e0459e7ee874b895ec293fa00c178d10b2183c436dd47fd7a1653df9",
       "zipPartIndex": 153
     },
     {
@@ -3598,7 +3796,7 @@
       "size": 16777216,
       "offset": 2583691264,
       "length": 16777216,
-      "hash": "sha256-859caa5f11083c5ba90c85c80b0f577aba59073fd0d7180d40e520d20c3f8258",
+      "hash": "sha256-b3c24933f452cd7fa63a8367dd6aabda5286759ef24dc3c5b4d68b8ea6a922f9",
       "zipPartIndex": 154
     },
     {
@@ -3607,7 +3805,7 @@
       "size": 16777216,
       "offset": 2600468480,
       "length": 16777216,
-      "hash": "sha256-947c7211109abd10991b6c16bca262969132d607406b03a41410a89a895daf9b",
+      "hash": "sha256-8f513501a9c39b2dfffd4a0558fd16e23a448cd16ac04295918540c75de832c3",
       "zipPartIndex": 155
     },
     {
@@ -3616,7 +3814,7 @@
       "size": 16777216,
       "offset": 2617245696,
       "length": 16777216,
-      "hash": "sha256-80b5a7be20e1953ebd0a010b0945ff22c9966af8af6d43b7c26d3c1fa4ee1fa9",
+      "hash": "sha256-40e4618bd694f98dfe6531225b9fb95e0aca699a3882ef301b51571bc7526d27",
       "zipPartIndex": 156
     },
     {
@@ -3625,7 +3823,7 @@
       "size": 16777216,
       "offset": 2634022912,
       "length": 16777216,
-      "hash": "sha256-0a7f668eacb866a9e87ea178591e096b3de720ae7be0136534027df848090445",
+      "hash": "sha256-2f8185106fcfeafe09b9dbd5ccf19a9b256ed8dfeea59ce5d24a45be15c46cc4",
       "zipPartIndex": 157
     },
     {
@@ -3634,7 +3832,7 @@
       "size": 16777216,
       "offset": 2650800128,
       "length": 16777216,
-      "hash": "sha256-cfa3f293c110b68579cb3e8a88a0f1de35a13a90239c0d01bfb3648d1f0b9b35",
+      "hash": "sha256-9c44c08b4d3072f725ddd60caaa98384c8baf1ba451210d9059987d15bfaadff",
       "zipPartIndex": 158
     },
     {
@@ -3643,7 +3841,7 @@
       "size": 16777216,
       "offset": 2667577344,
       "length": 16777216,
-      "hash": "sha256-1c44d4ef838bab4d4d6b07f5512419703b8099f1e76b24f1a432c4feb2445a83",
+      "hash": "sha256-c9a38481213ce9ac3fcf1485c9e953ef31db6ab7d3f6af705ac8f2b3e24beaed",
       "zipPartIndex": 159
     },
     {
@@ -3652,7 +3850,7 @@
       "size": 16777216,
       "offset": 2684354560,
       "length": 16777216,
-      "hash": "sha256-451460b8b2df6506ad10c14c91a55140c648641485de0ca108d062f0a25bcbe9",
+      "hash": "sha256-c9a698fcee88c3c6b9e35286dc3d31842f00954b335bf538f14dc27d1a86000e",
       "zipPartIndex": 160
     },
     {
@@ -3661,7 +3859,7 @@
       "size": 16777216,
       "offset": 2701131776,
       "length": 16777216,
-      "hash": "sha256-b055fbceb71b43c8e803f009c595ad022698747aba896aca7ac1869b4680705c",
+      "hash": "sha256-9def07deac91f45ef49f009e7cda3f007f6ef42f5efab2cba11eab03f08dfbbf",
       "zipPartIndex": 161
     },
     {
@@ -3670,7 +3868,7 @@
       "size": 16777216,
       "offset": 2717908992,
       "length": 16777216,
-      "hash": "sha256-b01fcd7c8aa0c14208efa41bc39dc6251348bbe27461ce8f9d0b2bba1f44d392",
+      "hash": "sha256-aa1bc1f9acebb44a2d1aeb71586e209f35eb167160abeca10c13d1d31a6ac4fc",
       "zipPartIndex": 162
     },
     {
@@ -3679,7 +3877,7 @@
       "size": 16777216,
       "offset": 2734686208,
       "length": 16777216,
-      "hash": "sha256-9545057fb3325ff30df421d75f305f80dffc2e2f65602227c2e2d69b1676d37c",
+      "hash": "sha256-b6d14c7c3dcf9a638bb364057fea6b8e6ca030534d384e78f21672ad1687fd48",
       "zipPartIndex": 163
     },
     {
@@ -3688,7 +3886,7 @@
       "size": 16777216,
       "offset": 2751463424,
       "length": 16777216,
-      "hash": "sha256-7a2e89b493c2e7979a4024472dff5a16a29d0f0e7f974c5c00bbb8123b9a38ec",
+      "hash": "sha256-39bfaa11e16d447b3b3152f2ecd7e336c44815987f97814ced6390b48b031be6",
       "zipPartIndex": 164
     },
     {
@@ -3697,7 +3895,7 @@
       "size": 16777216,
       "offset": 2768240640,
       "length": 16777216,
-      "hash": "sha256-428d29c0f4884f073a7faa12585a937673e7314a8d3bc2a3f0cf1b8a9ab6f5dc",
+      "hash": "sha256-9af452042fdb05f2a7fc77aeac62a5e9b03a2d76df10e4d87410ee48ddec1223",
       "zipPartIndex": 165
     },
     {
@@ -3706,7 +3904,7 @@
       "size": 16777216,
       "offset": 2785017856,
       "length": 16777216,
-      "hash": "sha256-e1c3fa0c2e8d1d1dd5029622d0e606e9d695feb8889f0aebb780b941c671db2e",
+      "hash": "sha256-f1df68936dfe2aac0c4794e54812d70a1f078529c18f471da1f983e61a2db737",
       "zipPartIndex": 166
     },
     {
@@ -3715,7 +3913,7 @@
       "size": 16777216,
       "offset": 2801795072,
       "length": 16777216,
-      "hash": "sha256-536b8c30953c6a2710c091ecabe8e1f00b1e5332aef30c966063d9922bb0377c",
+      "hash": "sha256-0984155add45ab7296ccce006aa6e700ec3c1cc524376300284a86683d046b28",
       "zipPartIndex": 167
     },
     {
@@ -3724,7 +3922,7 @@
       "size": 16777216,
       "offset": 2818572288,
       "length": 16777216,
-      "hash": "sha256-ab78fb0ddfac37218f1b92e2e2145ec2c61737b19736ff28739f021428ffe6ba",
+      "hash": "sha256-bb7c875fc4a9a57f13e927f8fad954c186f99c2e38f279096eb27e5ae36e93b3",
       "zipPartIndex": 168
     },
     {
@@ -3733,7 +3931,7 @@
       "size": 16777216,
       "offset": 2835349504,
       "length": 16777216,
-      "hash": "sha256-5ccd9ac7caa2c5357d1baa3c5524d0358851b67c9f3c1e654cd58466b4e40d88",
+      "hash": "sha256-8eaee97f38e69dee578e39c5d0939214b44e0b75506af75f02b936b1549caab3",
       "zipPartIndex": 169
     },
     {
@@ -3742,7 +3940,7 @@
       "size": 16777216,
       "offset": 2852126720,
       "length": 16777216,
-      "hash": "sha256-62fbf3f05eee35dc4064d6f77b3fedb2c344c7e0100e6349bd64e7f49a4220a1",
+      "hash": "sha256-134ed5aee1204a80335ac218873abfacccbeb4a5fc6c658c0fe764be36129cb6",
       "zipPartIndex": 170
     },
     {
@@ -3751,7 +3949,7 @@
       "size": 16777216,
       "offset": 2868903936,
       "length": 16777216,
-      "hash": "sha256-fabddb1a2a624428a957fe7915edba741bff1c6fc1853300c8f5fe38995c7540",
+      "hash": "sha256-ef9cdf4ef14d806052facb1ff97e12f4082f23eade3d2368ec00ddec578877c7",
       "zipPartIndex": 171
     },
     {
@@ -3760,7 +3958,7 @@
       "size": 16777216,
       "offset": 2885681152,
       "length": 16777216,
-      "hash": "sha256-67452c64762d6bbb63bb58f470520fde25649d9dcbb800d580ba3bff4bdf60d9",
+      "hash": "sha256-67c2d32e01fee1019ed873054797bbaa791e20d8567737ad4fbf8df32d4385fd",
       "zipPartIndex": 172
     },
     {
@@ -3769,7 +3967,7 @@
       "size": 16777216,
       "offset": 2902458368,
       "length": 16777216,
-      "hash": "sha256-fb37d30030980f5564b6bed202f4d94424b3bb6e12bffae9a55612cb792a5b34",
+      "hash": "sha256-7c8f28feb855d6551ae54df8a4ce10afac184d894c30854b4f70b1fd779ed1ee",
       "zipPartIndex": 173
     },
     {
@@ -3778,7 +3976,7 @@
       "size": 16777216,
       "offset": 2919235584,
       "length": 16777216,
-      "hash": "sha256-678ebde6d1eb3a293fdf17983ac0b0bc1a01f9623906fe483ed25afdb266b199",
+      "hash": "sha256-13fe6266a61a448942b297f4168ad1c52f8f56779a497f6bc9533547b832ec57",
       "zipPartIndex": 174
     },
     {
@@ -3787,7 +3985,7 @@
       "size": 16777216,
       "offset": 2936012800,
       "length": 16777216,
-      "hash": "sha256-febc7d4822c4791d1aefd1a7e2c00045a3ca6e5625b5d111fa28a5a3559bf0d5",
+      "hash": "sha256-f7c01d373a0e1752580a3dac9dc6a5b254e493c5db6d5e8a3975fcf1605c8810",
       "zipPartIndex": 175
     },
     {
@@ -3796,7 +3994,7 @@
       "size": 16777216,
       "offset": 2952790016,
       "length": 16777216,
-      "hash": "sha256-5d6b2ada878e8e51d28c8abdf3b6bf42b583c147af8d917775fc94a66654903f",
+      "hash": "sha256-3d3cd6c114cacaa4b1db45329a5fc3ab602a4e750fb8caf013195b5a0d4bebc5",
       "zipPartIndex": 176
     },
     {
@@ -3805,7 +4003,7 @@
       "size": 16777216,
       "offset": 2969567232,
       "length": 16777216,
-      "hash": "sha256-6cb4aa7d09901487ca9b9616e9f3b352cb816b949e78a025868db143b3334595",
+      "hash": "sha256-bcee1f277c6902281745aec3a43a8ed08cdc097b6c1943cf7a9a6eb41d83c1c1",
       "zipPartIndex": 177
     },
     {
@@ -3814,7 +4012,7 @@
       "size": 16777216,
       "offset": 2986344448,
       "length": 16777216,
-      "hash": "sha256-beb24bdf8b03529efeae13ed475a3e3a88c0094391389dfc75a52ad29e4b75f7",
+      "hash": "sha256-5b309dd27f649985e6b37b305403298a90cf930580931f5579e4a8024b1814f7",
       "zipPartIndex": 178
     },
     {
@@ -3823,7 +4021,7 @@
       "size": 16777216,
       "offset": 3003121664,
       "length": 16777216,
-      "hash": "sha256-05a8b1ce81ac93ca4d25d337afefa512c326e97199e796910ec18ddc6562cbbf",
+      "hash": "sha256-a8348c1c181d5d096a6757a2941f3a9df83e6e052577e2321e10057f1a897cab",
       "zipPartIndex": 179
     },
     {
@@ -3832,7 +4030,7 @@
       "size": 16777216,
       "offset": 3019898880,
       "length": 16777216,
-      "hash": "sha256-5ea9d6d3b247a27041600f88ced9aa57dae458d42d9d622676152fa7cdda5149",
+      "hash": "sha256-200a6471c8cd88dee263b06f84dddaadb69b091075f9e229392d814920faa1bb",
       "zipPartIndex": 180
     },
     {
@@ -3841,7 +4039,7 @@
       "size": 16777216,
       "offset": 3036676096,
       "length": 16777216,
-      "hash": "sha256-040d02aa147389efc1432e697ad7d291751e614703ace214d0c2d4759d62d22c",
+      "hash": "sha256-55429a96d65a6fd1cfdf1933614404a714274c3f742e075424551f373c05352a",
       "zipPartIndex": 181
     },
     {
@@ -3850,7 +4048,7 @@
       "size": 16777216,
       "offset": 3053453312,
       "length": 16777216,
-      "hash": "sha256-173e0a89f3a93cfe2ef368e8ffa838506ea286f3b5e916e1ae036a9a48b82e09",
+      "hash": "sha256-7e11f270df78937d1b10d8c38b9f7d6216ef17bbba54981a894e221e1b916b10",
       "zipPartIndex": 182
     },
     {
@@ -3859,7 +4057,7 @@
       "size": 16777216,
       "offset": 3070230528,
       "length": 16777216,
-      "hash": "sha256-d0e9017fb20bbcae208dc27247ff3656482943aed5a0fada4f8265f1b9dc0983",
+      "hash": "sha256-86ef270b5a6cd98eb59c78ad92076729fdb880f1518b19465929650d60d02d47",
       "zipPartIndex": 183
     },
     {
@@ -3868,17 +4066,53 @@
       "size": 16777216,
       "offset": 3087007744,
       "length": 16777216,
-      "hash": "sha256-6fe534e2007853a7a8d7f17311cac971024d950d59bc28f4f30814c4ef1aa354",
+      "hash": "sha256-637dd994740d308be3b7a72c5eebbf2e746cab755e9e0f467288d6de801570a0",
       "zipPartIndex": 184
     },
     {
       "sliceId": "0186",
       "fileName": "data_0185.bin",
-      "size": 10695750,
+      "size": 16777216,
       "offset": 3103784960,
-      "length": 10695750,
-      "hash": "sha256-d64b543d6f41e9ae2b38241372928c76ee58a16ea9501090877bb0f17e108a1a",
+      "length": 16777216,
+      "hash": "sha256-c53471435456e246c46d7bbbd94889f92565a3edf2dff54ac4ea00578862f0d8",
       "zipPartIndex": 185
+    },
+    {
+      "sliceId": "0187",
+      "fileName": "data_0186.bin",
+      "size": 16777216,
+      "offset": 3120562176,
+      "length": 16777216,
+      "hash": "sha256-be974afd18c5c62bc244c7fa5d361bc5a0d8693e118a18253b631589bfa0df08",
+      "zipPartIndex": 186
+    },
+    {
+      "sliceId": "0188",
+      "fileName": "data_0187.bin",
+      "size": 16777216,
+      "offset": 3137339392,
+      "length": 16777216,
+      "hash": "sha256-f0ab231681878b4130ff16a4fa128ec5cc602d6ce2166f20c37eb1e39a9daa57",
+      "zipPartIndex": 187
+    },
+    {
+      "sliceId": "0189",
+      "fileName": "data_0188.bin",
+      "size": 16777216,
+      "offset": 3154116608,
+      "length": 16777216,
+      "hash": "sha256-3de2920030df113d0f02bf90e9114345d9b1002d4d8fee8117a5b6d18df0658e",
+      "zipPartIndex": 188
+    },
+    {
+      "sliceId": "0190",
+      "fileName": "data_0189.bin",
+      "size": 6819830,
+      "offset": 3170893824,
+      "length": 6819830,
+      "hash": "sha256-52f5e67e0d4ba304c412eeac3e900026761818be848c29a612392726da0e4de8",
+      "zipPartIndex": 189
     }
   ]
 }

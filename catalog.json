@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-11T20:32:59.2564856Z",
+  "version": "2026-10-11T20:42:52.3901160Z",
   "rootPath": "PixelEditor",
   "files": [
     {
@@ -1366,7 +1366,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-f389e28d8fc48bd41e3c5241ac89326c9aa21ac6821589473cc090897bdb6529",
+      "hash": "sha256-fd7b03e63f64325a41046dd8d02325b578fa4cb3d0f9831ae8e8bf62cece89d8",
       "zipPartIndex": 0
     },
     {
@@ -1375,7 +1375,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-65947591ca7a597851c795216ad550224394a232cd5bdb95eb3bee20d75ed7bf",
+      "hash": "sha256-95068b323a38145bb5f28e1cbc3ba4cc8d41b5e44f145f506e37a6e1d668361c",
       "zipPartIndex": 1
     },
     {
@@ -1411,7 +1411,7 @@
       "size": 16777216,
       "offset": 83886080,
       "length": 16777216,
-      "hash": "sha256-6ac7571938caca7d76b715bac48d15d36adf622798314c2637e22d7272bee4aa",
+      "hash": "sha256-e0b694ad4dd52b5265ee923a9fa22d696a1b97f3ed958ddaad59d959c4acd6ca",
       "zipPartIndex": 5
     },
     {
@@ -1447,7 +1447,7 @@
       "size": 16777216,
       "offset": 150994944,
       "length": 16777216,
-      "hash": "sha256-2dbcbb4dee84ffa3b28acee69b66d51018ed7b0fdece36f0a56e79daf5866704",
+      "hash": "sha256-de38e6c0aa184c4a22a590c08e05335931bdaaa7dd4ef00969ae3b8e62e48ea1",
       "zipPartIndex": 9
     },
     {
@@ -1510,7 +1510,7 @@
       "size": 4304390,
       "offset": 268435456,
       "length": 4304390,
-      "hash": "sha256-5b78bb6e87ce55ff93244719e815cfb9b8d51ecdb71fb9c99c6d40a24f798882",
+      "hash": "sha256-99768e5273c367dc468f4c3a4c2d1416db1c0c40e7a63b0920785b79cdbc5f7f",
       "zipPartIndex": 16
     }
   ]

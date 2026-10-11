@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-11T21:17:38.8072884Z",
+  "version": "2026-10-11T22:15:44.9806695Z",
   "rootPath": "PixelEditor",
   "files": [
     {
@@ -131,7 +131,7 @@
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
       "size": 155037683,
-      "hash": "sha256-e8c67aa28d8d478f7cc58704db94625359fa7a1568ed06d18ff486f881a73eb6",
+      "hash": "sha256-ac273be2588440dd5834d26f163779d806b57dac9b3a191df5c220b754f71f65",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
@@ -4561,7 +4561,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-f023c68bd2bc0fb732b81d778c7ca2f11a878aa96ad0668632eda321a77f3680",
+      "hash": "sha256-37d8ad701b974b1b3d3d2062d2f8584127a9bd6f82010c3c3ae226ca8d0003bf",
       "zipPartIndex": 1
     },
     {
@@ -4570,7 +4570,7 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-824b22a6fd91b6768b364d7d3a586681d8e8c93ee051df1f435cc89b3f790e9b",
+      "hash": "sha256-78535810314388f3afd0ab5072449704bef956c91154c275ccf3bb04950bb4a2",
       "zipPartIndex": 2
     },
     {
@@ -4579,7 +4579,7 @@
       "size": 16777216,
       "offset": 50331648,
       "length": 16777216,
-      "hash": "sha256-1a0b5043259eb9203edf1d22f3bed838497713495aa53dfbd9121cf7dd231805",
+      "hash": "sha256-0206653476aeb2b010f3b03833f050cde69b73beb5eb01a312067e51f5cb5a2e",
       "zipPartIndex": 3
     },
     {
@@ -4588,7 +4588,7 @@
       "size": 16777216,
       "offset": 67108864,
       "length": 16777216,
-      "hash": "sha256-28d4ba59806fae8abe1ec45cfe7758544f457112385e8b8e49b7d71d2239992f",
+      "hash": "sha256-6da758027f15817a40a1c82972cd5507ff4be728a5c226379bcdad510a7b02e8",
       "zipPartIndex": 4
     },
     {
@@ -4597,7 +4597,7 @@
       "size": 16777216,
       "offset": 83886080,
       "length": 16777216,
-      "hash": "sha256-1a51251e1131846c0bd4aec833ac4806a586bbc7ae573bf6715f0e4ab7b3cc71",
+      "hash": "sha256-06b5468a8260869a7899c46cbdbfde4adc91dc8cba60090dc586336a6479ae16",
       "zipPartIndex": 5
     },
     {
@@ -4606,7 +4606,7 @@
       "size": 16777216,
       "offset": 100663296,
       "length": 16777216,
-      "hash": "sha256-c4e22b0b6f9a6147e809b9237b07ac8ba9e7c851cf887774b764e09d025beb35",
+      "hash": "sha256-d34eabafce3d51339677c5dbd32adf04471c3d1e8c0f014780fbba94ad9a1a44",
       "zipPartIndex": 6
     },
     {
@@ -4615,7 +4615,7 @@
       "size": 16777216,
       "offset": 117440512,
       "length": 16777216,
-      "hash": "sha256-e64226ee36b2ce59e8f7fd4b6f0469fa05dfa23353817469e7a8da83733cf149",
+      "hash": "sha256-2910ca982fb4c20730ee1416c632d3c13a41ca3e42d88c52be95d2c694002081",
       "zipPartIndex": 7
     },
     {
@@ -4624,7 +4624,7 @@
       "size": 16777216,
       "offset": 134217728,
       "length": 16777216,
-      "hash": "sha256-f275e7a9715866f7e61cd8df8c72ebcd09e5ec115ac9e4b326f3edf1fd23b3cb",
+      "hash": "sha256-2f59ac4aae7da1d5dbf23e7bcb9392d9b24502ac6d09fbfd4f24ddbf36cfe6be",
       "zipPartIndex": 8
     },
     {
@@ -4633,7 +4633,7 @@
       "size": 16777216,
       "offset": 150994944,
       "length": 16777216,
-      "hash": "sha256-873957d4da536e6540506a6a53621032827424eed17612f2dcdf13b554aab350",
+      "hash": "sha256-ed6137b49cd1465a41dc102a4096a9dd214d1bdd13190968afdf31f063a71fe5",
       "zipPartIndex": 9
     },
     {
@@ -4642,7 +4642,7 @@
       "size": 16777216,
       "offset": 167772160,
       "length": 16777216,
-      "hash": "sha256-49acf674be50fccc275427c8ba674fcf2d85c1a8a85d1d18ae679c0759a70ad0",
+      "hash": "sha256-abc81b751e14f9a435ee79f7c48beba50354cd4043f4c7a17a392e2dda78bb90",
       "zipPartIndex": 10
     },
     {
@@ -4651,7 +4651,7 @@
       "size": 16777216,
       "offset": 184549376,
       "length": 16777216,
-      "hash": "sha256-7a81dc8374380d6d871b9b660c1fa7db05c2ac58ed28b2b58ee591ff704079bf",
+      "hash": "sha256-e64e664de6f17de93015c3b26a20a20983999578525ae4040694b283784652d7",
       "zipPartIndex": 11
     },
     {
@@ -4660,7 +4660,7 @@
       "size": 16777216,
       "offset": 201326592,
       "length": 16777216,
-      "hash": "sha256-c55d37f02075c00117680e09f4d829850f88618c430a9dcae399fd97dcf3a5e2",
+      "hash": "sha256-17b31bd37b4daf45a37c90e2eb8ce2a96545c0e26368a4c2e9f7e49d8fe230c5",
       "zipPartIndex": 12
     },
     {
@@ -4669,7 +4669,7 @@
       "size": 16777216,
       "offset": 218103808,
       "length": 16777216,
-      "hash": "sha256-21536c14949b486062ca105e3fa0f063ea00cf8bd53b3aff35dbe3db59e679c1",
+      "hash": "sha256-7b02fe0347cf224d5007330f4059bdd9f7b1b9131699e49f7737935a3a1d50d9",
       "zipPartIndex": 13
     },
     {
@@ -4678,7 +4678,7 @@
       "size": 16777216,
       "offset": 234881024,
       "length": 16777216,
-      "hash": "sha256-5eb3e4b03eb0a560af4f5e763262db24f7f736ffaea2f8e1a555fa37aa01e822",
+      "hash": "sha256-870c7c6c17c04e1de9cc554ed05404fcb89aafb7fe6240a4d071f6e38d739336",
       "zipPartIndex": 14
     },
     {
@@ -4687,7 +4687,7 @@
       "size": 16777216,
       "offset": 251658240,
       "length": 16777216,
-      "hash": "sha256-443323ef2e65ff2b69319852bbfa91610b7bffdbbdf68128e25f80cf344fd7b1",
+      "hash": "sha256-4b20c2eb27733054642dd0cd5bd23d6d49a8771ec04bade5cce9b68c562e52c9",
       "zipPartIndex": 15
     },
     {
@@ -4696,7 +4696,7 @@
       "size": 16777216,
       "offset": 268435456,
       "length": 16777216,
-      "hash": "sha256-90bef6ff270e86468f4e38d94e3d25a7301b9102e92a72a8b7185093a99249f7",
+      "hash": "sha256-cd941d4a51491ac550831e71d8c254833e61941c373bf9ac1d2b7d3decf1238a",
       "zipPartIndex": 16
     },
     {
@@ -4705,7 +4705,7 @@
       "size": 16777216,
       "offset": 285212672,
       "length": 16777216,
-      "hash": "sha256-6cdff9b0ebf5dc9dde6cb3fa076efa6073fcf6889957c3a9b6f672f274611687",
+      "hash": "sha256-d2a5d7a02da6f0fd62ed426ffd6025a1373247b1340ca21041f11d7d16a3d063",
       "zipPartIndex": 17
     },
     {
@@ -4714,7 +4714,7 @@
       "size": 16777216,
       "offset": 301989888,
       "length": 16777216,
-      "hash": "sha256-5fd8eaebc5721426240ba0af4359b1521a195ca168e6647701e5156fc66bb476",
+      "hash": "sha256-5ab9b602269d0cfb5ee6c453a4dc8b761e4aeb051d840530a6bbdf27fbbe9ddc",
       "zipPartIndex": 18
     },
     {
@@ -4723,16 +4723,16 @@
       "size": 16777216,
       "offset": 318767104,
       "length": 16777216,
-      "hash": "sha256-d7aec981126031dadca1b147e0671565d6c8020068a77fa2f6adbdadd5f71112",
+      "hash": "sha256-afc2ff6dd72eb38496ac85ab19cf8cc86016435844719bb8587f20c3d8b1130f",
       "zipPartIndex": 19
     },
     {
       "sliceId": "0021",
       "fileName": "data_0020.bin",
-      "size": 4577815,
+      "size": 4577813,
       "offset": 335544320,
-      "length": 4577815,
-      "hash": "sha256-53f368e51a813174778e960a95872667dd7e39f62456264016e9a361084a3749",
+      "length": 4577813,
+      "hash": "sha256-521652eaf6ab88546fcc8d5a723fcf30010f253ebd538d4fc41a903db701c93e",
       "zipPartIndex": 20
     }
   ]

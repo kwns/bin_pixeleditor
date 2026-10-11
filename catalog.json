@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-10T18:15:29.1859057Z",
+  "version": "2026-10-11T16:38:01.4882394Z",
   "rootPath": "PixelEditor",
   "files": [
     {
@@ -27,10 +27,10 @@
       "zipEntryName": "win-x64/assimp.dll"
     },
     {
-      "relativePath": "win-x64/AssimpNet.dll",
-      "size": 190976,
-      "hash": "sha256-f72ca5c41c8556da0f099d869148ec69f05b54975d10bfd78cf37936ddfafdb0",
-      "zipEntryName": "win-x64/AssimpNet.dll"
+      "relativePath": "win-x64/D3DCompiler_47_cor3.dll",
+      "size": 4916840,
+      "hash": "sha256-a05d04a270f68c8c6d6ea2d23bebf8cd1d5453b26b5442fa54965f90f1c62082",
+      "zipEntryName": "win-x64/D3DCompiler_47_cor3.dll"
     },
     {
       "relativePath": "win-x64/DirectML.Debug.dll",
@@ -45,40 +45,16 @@
       "zipEntryName": "win-x64/DirectML.dll"
     },
     {
-      "relativePath": "win-x64/Microsoft.ML.OnnxRuntime.dll",
-      "size": 228376,
-      "hash": "sha256-5c3c531af36a6cb4baa01db20dcf94a0464ec36f8090aa42f35ff565b90a1ea6",
-      "zipEntryName": "win-x64/Microsoft.ML.OnnxRuntime.dll"
-    },
-    {
-      "relativePath": "win-x64/Microsoft.Web.WebView2.Core.dll",
-      "size": 698208,
-      "hash": "sha256-d60e6e94245078cb56e44ebd5f360dc04bf18e460136be93bfc4cfca43b98505",
-      "zipEntryName": "win-x64/Microsoft.Web.WebView2.Core.dll"
-    },
-    {
       "relativePath": "win-x64/Microsoft.Web.WebView2.Core.xml",
       "size": 612031,
       "hash": "sha256-8684cd74000c77533e563785208308ada63808da85825206856cab11a9eeffce",
       "zipEntryName": "win-x64/Microsoft.Web.WebView2.Core.xml"
     },
     {
-      "relativePath": "win-x64/Microsoft.Web.WebView2.WinForms.dll",
-      "size": 39264,
-      "hash": "sha256-84b5772260dbdfe95591197edc9315dcd2cc86ad610e4b14ddd5e4291e31a381",
-      "zipEntryName": "win-x64/Microsoft.Web.WebView2.WinForms.dll"
-    },
-    {
       "relativePath": "win-x64/Microsoft.Web.WebView2.WinForms.xml",
       "size": 41869,
       "hash": "sha256-6a8ec199373824fdebceda7b3d780d0b31c82edceae04d92391027c971dea6c2",
       "zipEntryName": "win-x64/Microsoft.Web.WebView2.WinForms.xml"
-    },
-    {
-      "relativePath": "win-x64/Microsoft.Web.WebView2.Wpf.dll",
-      "size": 87392,
-      "hash": "sha256-4cbabd120344cc47f313f168fb86022d8f7423e09adff43da643e0e88570fa0c",
-      "zipEntryName": "win-x64/Microsoft.Web.WebView2.Wpf.dll"
     },
     {
       "relativePath": "win-x64/Microsoft.Web.WebView2.Wpf.xml",
@@ -105,100 +81,34 @@
       "zipEntryName": "win-x64/onnxruntime_providers_shared.dll"
     },
     {
-      "relativePath": "win-x64/PixelEditor.App.deps.json",
-      "size": 13846,
-      "hash": "sha256-fa9c1e1c0b6927991939ff14e2a453cdf7f6076ccb3fe0cb76165d58ae715c0c",
-      "zipEntryName": "win-x64/PixelEditor.App.deps.json"
-    },
-    {
-      "relativePath": "win-x64/PixelEditor.App.dll",
-      "size": 1174016,
-      "hash": "sha256-c9d8da6854027cceb33536b2660bfc0177c28e6ba69dc32e0c00eaeca85aec26",
-      "zipEntryName": "win-x64/PixelEditor.App.dll"
+      "relativePath": "win-x64/PenImc_cor3.dll",
+      "size": 157992,
+      "hash": "sha256-e1bcd85e177302a63f63b48a8f84e3686355f5058e559086a80844c1cf0f0466",
+      "zipEntryName": "win-x64/PenImc_cor3.dll"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 305664,
-      "hash": "sha256-0bccc24703178cc819a8d43a1176080bccc2bc73d004a7eaa3a01db0000bae12",
+      "size": 154931187,
+      "hash": "sha256-b3420c685224c5de5dfaaa186bf5700cec41124b40531185fdfb519109e19a42",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
-      "relativePath": "win-x64/PixelEditor.App.runtimeconfig.json",
-      "size": 372,
-      "hash": "sha256-1eca0f0c70070aa83bb609e4b749b26dcb4409784326032726394722224a098a",
-      "zipEntryName": "win-x64/PixelEditor.App.runtimeconfig.json"
-    },
-    {
-      "relativePath": "win-x64/PixelEditor.Core.dll",
-      "size": 312832,
-      "hash": "sha256-1904c9c132bf75e2e1aa8f8faa494c73c3ecec1f0a826144be2e49facc8cc21c",
-      "zipEntryName": "win-x64/PixelEditor.Core.dll"
-    },
-    {
-      "relativePath": "win-x64/RendererWrapper.Core.dll",
-      "size": 4608,
-      "hash": "sha256-f47c33e7c777549f2a369fe9b52deb87e4c26c4a774772e98474b25939b903c7",
-      "zipEntryName": "win-x64/RendererWrapper.Core.dll"
-    },
-    {
-      "relativePath": "win-x64/RendererWrapper.Fallback.dll",
-      "size": 9728,
-      "hash": "sha256-087cdbabbe2307de193cf46353bd36de1cc2675cb76547589de0e1896a3aa4fc",
-      "zipEntryName": "win-x64/RendererWrapper.Fallback.dll"
-    },
-    {
-      "relativePath": "win-x64/SharpGen.Runtime.COM.dll",
-      "size": 170496,
-      "hash": "sha256-74ba6a25ecdd48f7f90465bffe038dc2fb09cc861c1f1c257d038f11fb4e9732",
-      "zipEntryName": "win-x64/SharpGen.Runtime.COM.dll"
-    },
-    {
-      "relativePath": "win-x64/SharpGen.Runtime.dll",
-      "size": 76800,
-      "hash": "sha256-7dea05f2b06719e6ddf3cb2d852633e3cf5afb3bcc9e1f10e9af5f36cb408eab",
-      "zipEntryName": "win-x64/SharpGen.Runtime.dll"
+      "relativePath": "win-x64/PresentationNative_cor3.dll",
+      "size": 1237768,
+      "hash": "sha256-5de57dbc363e91b13791c24e5df76e1395b4256986de4c7844594ef809f7cbea",
+      "zipEntryName": "win-x64/PresentationNative_cor3.dll"
     },
     {
       "relativePath": "win-x64/splash_banner.html",
-      "size": 563016,
-      "hash": "sha256-814efb6aa4b83b91a7a1358d71f48f1bc2eaff404bc41dda4028a287dee057ad",
+      "size": 437566,
+      "hash": "sha256-c100b73b42ea89daa5a0d4f08ecaa3bdf82ad9f177ef85e147dc656c92fac4f7",
       "zipEntryName": "win-x64/splash_banner.html"
     },
     {
-      "relativePath": "win-x64/Vortice.D3DCompiler.dll",
-      "size": 23552,
-      "hash": "sha256-d9dd75d5ee4fa07c5d4b075440fd9a271c347d313dadbff3d43b3c2f522fbac8",
-      "zipEntryName": "win-x64/Vortice.D3DCompiler.dll"
-    },
-    {
-      "relativePath": "win-x64/Vortice.Direct3D11.dll",
-      "size": 335872,
-      "hash": "sha256-6b14dfd21299a798493fbecaa469c64cdd5458eaa64da90bade17c6f3160321d",
-      "zipEntryName": "win-x64/Vortice.Direct3D11.dll"
-    },
-    {
-      "relativePath": "win-x64/Vortice.Direct3D9.dll",
-      "size": 127488,
-      "hash": "sha256-e4882dd096cb00e2f5cd215e2320d4b9f82f3d3631cce14625643ef617e04b10",
-      "zipEntryName": "win-x64/Vortice.Direct3D9.dll"
-    },
-    {
-      "relativePath": "win-x64/Vortice.DirectX.dll",
-      "size": 266752,
-      "hash": "sha256-fac5f0d24fe724f48e09969451bc77be6d237c3444cc606c9f918292c4107db0",
-      "zipEntryName": "win-x64/Vortice.DirectX.dll"
-    },
-    {
-      "relativePath": "win-x64/Vortice.DXGI.dll",
-      "size": 88576,
-      "hash": "sha256-61266acd2697787cb51e8eed17ccd60f231090391d8c4caf847c310bdf96c0e6",
-      "zipEntryName": "win-x64/Vortice.DXGI.dll"
-    },
-    {
-      "relativePath": "win-x64/Vortice.Mathematics.dll",
-      "size": 104960,
-      "hash": "sha256-5237f3211ca3104dadd777cf7dfb488a20ab602694929c647cbe0dddfc5dfd7d",
-      "zipEntryName": "win-x64/Vortice.Mathematics.dll"
+      "relativePath": "win-x64/vcruntime140_cor3.dll",
+      "size": 119888,
+      "hash": "sha256-02c6aa0e6e624411a9f19b0360a7865ab15908e26024510e5c38a9c08362c35a",
+      "zipEntryName": "win-x64/vcruntime140_cor3.dll"
     },
     {
       "relativePath": "win-x64/WebView2Loader.dll",
@@ -207,34 +117,10 @@
       "zipEntryName": "win-x64/WebView2Loader.dll"
     },
     {
-      "relativePath": "win-x64/Xceed.Wpf.AvalonDock.dll",
-      "size": 426496,
-      "hash": "sha256-7f646040ef2c77767a7222ce6942863b04414a771051829cb51c885579dd23e7",
-      "zipEntryName": "win-x64/Xceed.Wpf.AvalonDock.dll"
-    },
-    {
-      "relativePath": "win-x64/Xceed.Wpf.AvalonDock.Themes.Aero.dll",
-      "size": 88576,
-      "hash": "sha256-853ba0bb517a51fa2dba00335a002bea8efa75e293cc48ed21497c35501f4237",
-      "zipEntryName": "win-x64/Xceed.Wpf.AvalonDock.Themes.Aero.dll"
-    },
-    {
-      "relativePath": "win-x64/Xceed.Wpf.AvalonDock.Themes.Expression.dll",
-      "size": 97792,
-      "hash": "sha256-76b422fbdd54442af159cfb1cec6fec9bef0466180f0e32fa65c95d2341c590a",
-      "zipEntryName": "win-x64/Xceed.Wpf.AvalonDock.Themes.Expression.dll"
-    },
-    {
-      "relativePath": "win-x64/Xceed.Wpf.AvalonDock.Themes.Metro.dll",
-      "size": 82432,
-      "hash": "sha256-c6eed19abd4f6a8185b59f53df03b2282b0b52fd9e538261c4e178008a6b74fd",
-      "zipEntryName": "win-x64/Xceed.Wpf.AvalonDock.Themes.Metro.dll"
-    },
-    {
-      "relativePath": "win-x64/Xceed.Wpf.AvalonDock.Themes.VS2010.dll",
-      "size": 86528,
-      "hash": "sha256-688fd8a2bbd2be0801951dd45fbfe4c08e438e99f212534e6aa0cdad28a10ea7",
-      "zipEntryName": "win-x64/Xceed.Wpf.AvalonDock.Themes.VS2010.dll"
+      "relativePath": "win-x64/wpfgfx_cor3.dll",
+      "size": 1963816,
+      "hash": "sha256-5245476eed26c58e120dbad3cb138f8d7fac755836b611def109fee0d78aecb9",
+      "zipEntryName": "win-x64/wpfgfx_cor3.dll"
     },
     {
       "relativePath": "win-x64/\u3042\u308A\u304B\u30D6\u30ED\u30C3\u30AD\u30F3\u30B0_00.bmp",
@@ -243,94 +129,46 @@
       "zipEntryName": "win-x64/\u3042\u308A\u304B\u30D6\u30ED\u30C3\u30AD\u30F3\u30B0_00.bmp"
     },
     {
-      "relativePath": "win-x64/de/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 6144,
-      "hash": "sha256-3ce5d751de0f26ff1cad625d0fde9eab312e26695a98afdbb950edcc1fc04d57",
-      "zipEntryName": "win-x64/de/Xceed.Wpf.AvalonDock.resources.dll"
-    },
-    {
-      "relativePath": "win-x64/es/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 5632,
-      "hash": "sha256-61a400dd6dbb963fb68e7d6da3b0863000902e97a7c0f0323ccd4aa35d822252",
-      "zipEntryName": "win-x64/es/Xceed.Wpf.AvalonDock.resources.dll"
-    },
-    {
-      "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.deps.json",
-      "size": 487,
-      "hash": "sha256-259631b0c2b143070b132c5b717c234be5271a45e18dc07c809355165b9ab4fe",
-      "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.deps.json"
-    },
-    {
-      "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.dll",
-      "size": 67584,
-      "hash": "sha256-65ec52aa94137fb0e302740d18752fc592f7a86fe3030704273a45c9aa531f2e",
-      "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.dll"
+      "relativePath": "win-x64/FairyTeachSidecar/D3DCompiler_47_cor3.dll",
+      "size": 4916840,
+      "hash": "sha256-a05d04a270f68c8c6d6ea2d23bebf8cd1d5453b26b5442fa54965f90f1c62082",
+      "zipEntryName": "win-x64/FairyTeachSidecar/D3DCompiler_47_cor3.dll"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.exe",
-      "size": 151040,
-      "hash": "sha256-238719a2b831222a2ca52fbb6f781dfbf426a2ab76ca9efc3a9e17139edc3902",
+      "size": 144712242,
+      "hash": "sha256-0afb0cb78bf9ac2edbeeac62007811527cfa88b589b90dcdcfbe63ceaac0a36d",
       "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.exe"
     },
     {
-      "relativePath": "win-x64/FairyTeachSidecar/FairyTeachMock.runtimeconfig.json",
-      "size": 372,
-      "hash": "sha256-1eca0f0c70070aa83bb609e4b749b26dcb4409784326032726394722224a098a",
-      "zipEntryName": "win-x64/FairyTeachSidecar/FairyTeachMock.runtimeconfig.json"
+      "relativePath": "win-x64/FairyTeachSidecar/PenImc_cor3.dll",
+      "size": 157992,
+      "hash": "sha256-e1bcd85e177302a63f63b48a8f84e3686355f5058e559086a80844c1cf0f0466",
+      "zipEntryName": "win-x64/FairyTeachSidecar/PenImc_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/PresentationNative_cor3.dll",
+      "size": 1237768,
+      "hash": "sha256-5de57dbc363e91b13791c24e5df76e1395b4256986de4c7844594ef809f7cbea",
+      "zipEntryName": "win-x64/FairyTeachSidecar/PresentationNative_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/vcruntime140_cor3.dll",
+      "size": 119888,
+      "hash": "sha256-02c6aa0e6e624411a9f19b0360a7865ab15908e26024510e5c38a9c08362c35a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/vcruntime140_cor3.dll"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/wpfgfx_cor3.dll",
+      "size": 1963816,
+      "hash": "sha256-5245476eed26c58e120dbad3cb138f8d7fac755836b611def109fee0d78aecb9",
+      "zipEntryName": "win-x64/FairyTeachSidecar/wpfgfx_cor3.dll"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/yousei_ai.png",
       "size": 434322,
       "hash": "sha256-24d25c3fd1b94329b612a32f007f3ae6001c4cf38d626271d0bee0c5c51fb4f0",
       "zipEntryName": "win-x64/FairyTeachSidecar/yousei_ai.png"
-    },
-    {
-      "relativePath": "win-x64/fr/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 6144,
-      "hash": "sha256-648df8584a783edae98af765eb819a70e47a324bc4497348e2a8ac46795be4f6",
-      "zipEntryName": "win-x64/fr/Xceed.Wpf.AvalonDock.resources.dll"
-    },
-    {
-      "relativePath": "win-x64/hu/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 5632,
-      "hash": "sha256-cb9bd08e90ebcd76d89388024eee0ffcae21f2c2ff445306abf75712f649401d",
-      "zipEntryName": "win-x64/hu/Xceed.Wpf.AvalonDock.resources.dll"
-    },
-    {
-      "relativePath": "win-x64/it/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 5632,
-      "hash": "sha256-5b07b9c94fa8e025ebf91a79c5fe393408d2335a6b0d15806d4bda7d5d305690",
-      "zipEntryName": "win-x64/it/Xceed.Wpf.AvalonDock.resources.dll"
-    },
-    {
-      "relativePath": "win-x64/pt-BR/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 6144,
-      "hash": "sha256-a8767f8849ab7c6c99d0fec54a21485ebfc36e9fe32b0b57b0c86e1f9002d60a",
-      "zipEntryName": "win-x64/pt-BR/Xceed.Wpf.AvalonDock.resources.dll"
-    },
-    {
-      "relativePath": "win-x64/ro/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 5632,
-      "hash": "sha256-2530f542bafdb7a9e0505faed0193a68e96135255a0a87bec86d974f6a846949",
-      "zipEntryName": "win-x64/ro/Xceed.Wpf.AvalonDock.resources.dll"
-    },
-    {
-      "relativePath": "win-x64/ru/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 6144,
-      "hash": "sha256-402c5de0a5e3fdfc7495aa2706063258cfe676571f26d8d93be10f5c4ae83a02",
-      "zipEntryName": "win-x64/ru/Xceed.Wpf.AvalonDock.resources.dll"
-    },
-    {
-      "relativePath": "win-x64/sv/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 5632,
-      "hash": "sha256-c181fb0da8a63180f2939386d9e02cd3525c7d34bec986657afb609dc601778c",
-      "zipEntryName": "win-x64/sv/Xceed.Wpf.AvalonDock.resources.dll"
-    },
-    {
-      "relativePath": "win-x64/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll",
-      "size": 5632,
-      "hash": "sha256-a4ff6b4bb5702a26b14b45d2ea6922dffa5badd2ef4d408cec9739821bd2f97e",
-      "zipEntryName": "win-x64/zh-Hans/Xceed.Wpf.AvalonDock.resources.dll"
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe.WebView2/EBWebView/Last Version",
@@ -1528,7 +1366,7 @@
       "size": 16777216,
       "offset": 0,
       "length": 16777216,
-      "hash": "sha256-a265281d72e0d5e2eb3f086f25377605dcd1c0b86a27cdb2b238f10dd97ec89c",
+      "hash": "sha256-1f938d34351c252f196ca406e4b14dca86189fd0c3c53a3a923154c4d5ada7d1",
       "zipPartIndex": 0
     },
     {
@@ -1537,7 +1375,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-852d10f0ebd248b305df2eec023d8fbc358d2c1c11a3b1da1b4a67804ca33580",
+      "hash": "sha256-5df1acdb5606eefa38d0585b6f8335203ddd26ac6b0e6a9035ce4938581709d0",
       "zipPartIndex": 1
     },
     {
@@ -1546,7 +1384,7 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-f57f6a14ead53aaefe47b5f46bbec993452ce920ac9662fff48808409063643c",
+      "hash": "sha256-7e8cc52f640daeb3eb7e1f6898637c5713e6b86a8df67de3439da15a63f2f364",
       "zipPartIndex": 2
     },
     {
@@ -1555,7 +1393,7 @@
       "size": 16777216,
       "offset": 50331648,
       "length": 16777216,
-      "hash": "sha256-e5e639d9ddbefcecd962403c9f4b16803449d17c2db1e875c865795f42e47b6f",
+      "hash": "sha256-d87d559e5bf1d39f14e94948f7da9241fd54026ec1af056f12d1595db76ec67c",
       "zipPartIndex": 3
     },
     {
@@ -1564,7 +1402,7 @@
       "size": 16777216,
       "offset": 67108864,
       "length": 16777216,
-      "hash": "sha256-b30748b9587f37c7882f61f13af20d285159df63006c7e336f3698af42a8d234",
+      "hash": "sha256-c7e1c2c2c05c58b32307e0a22ded10fe4421c664dc5515cf2f452283f11c29d2",
       "zipPartIndex": 4
     },
     {
@@ -1573,7 +1411,7 @@
       "size": 16777216,
       "offset": 83886080,
       "length": 16777216,
-      "hash": "sha256-39b62e9519568cabe7c69a1e591e459281ebc0c06d8633e9cfea3e16033e6c9e",
+      "hash": "sha256-4baea06baddbeb2e0c6416475a9c00297b4ce1f4af569388b5b213ec635dcc9e",
       "zipPartIndex": 5
     },
     {
@@ -1582,7 +1420,7 @@
       "size": 16777216,
       "offset": 100663296,
       "length": 16777216,
-      "hash": "sha256-0b14cdf8c5a19c7770691ba0eeeaed48876a3880cc3a523714effd2844a21a49",
+      "hash": "sha256-d5227056470e4e170c5ff09d80ed35515d3df1bcd746a30559350417941a6bbf",
       "zipPartIndex": 6
     },
     {
@@ -1591,17 +1429,89 @@
       "size": 16777216,
       "offset": 117440512,
       "length": 16777216,
-      "hash": "sha256-45b41f30dae90cee69865312ee3a0da3bb61105290427125513f653a5cf31f96",
+      "hash": "sha256-69485cb01898854827d104fbf3c166f7afbd5a2dec16b7fe036e5685397f73d2",
       "zipPartIndex": 7
     },
     {
       "sliceId": "0009",
       "fileName": "data_0008.bin",
-      "size": 8535000,
+      "size": 16777216,
       "offset": 134217728,
-      "length": 8535000,
-      "hash": "sha256-c1b389902e165d322ce49106fcf515ff4102a98a0555c5e83da23393b39ddced",
+      "length": 16777216,
+      "hash": "sha256-148901b30a59cc7e9a6ad0ae4947444be781c0458708bc0954dbee5808ddf510",
       "zipPartIndex": 8
+    },
+    {
+      "sliceId": "0010",
+      "fileName": "data_0009.bin",
+      "size": 16777216,
+      "offset": 150994944,
+      "length": 16777216,
+      "hash": "sha256-e820dece50b5610d04b2251cec95c8e775bf976107afeed8b776f7e117f7348e",
+      "zipPartIndex": 9
+    },
+    {
+      "sliceId": "0011",
+      "fileName": "data_0010.bin",
+      "size": 16777216,
+      "offset": 167772160,
+      "length": 16777216,
+      "hash": "sha256-3da5e90510290b7d3d5a28956d882020222c758da5a5d02dae34ba776945890c",
+      "zipPartIndex": 10
+    },
+    {
+      "sliceId": "0012",
+      "fileName": "data_0011.bin",
+      "size": 16777216,
+      "offset": 184549376,
+      "length": 16777216,
+      "hash": "sha256-72416cf0f4fb564031509ceb4e16620433880eb645025211b131e0ca18af7f82",
+      "zipPartIndex": 11
+    },
+    {
+      "sliceId": "0013",
+      "fileName": "data_0012.bin",
+      "size": 16777216,
+      "offset": 201326592,
+      "length": 16777216,
+      "hash": "sha256-32f5c8cdb5ace1ececc048ae56fd30c5da0f2f84d46d204cf4bd97ef3ee99d3a",
+      "zipPartIndex": 12
+    },
+    {
+      "sliceId": "0014",
+      "fileName": "data_0013.bin",
+      "size": 16777216,
+      "offset": 218103808,
+      "length": 16777216,
+      "hash": "sha256-0c46d7d89bef114c156140d6a049f032b78222282f21a70e8d258240974b0a85",
+      "zipPartIndex": 13
+    },
+    {
+      "sliceId": "0015",
+      "fileName": "data_0014.bin",
+      "size": 16777216,
+      "offset": 234881024,
+      "length": 16777216,
+      "hash": "sha256-fcef6be3d5dfdcb5161cd802282227c549b0737525fcd87bda3a157783ab74af",
+      "zipPartIndex": 14
+    },
+    {
+      "sliceId": "0016",
+      "fileName": "data_0015.bin",
+      "size": 16777216,
+      "offset": 251658240,
+      "length": 16777216,
+      "hash": "sha256-28d14b6726ee52dab29749cb1425f75b380c81640031e1c5e33275fb00ad8b8c",
+      "zipPartIndex": 15
+    },
+    {
+      "sliceId": "0017",
+      "fileName": "data_0016.bin",
+      "size": 4258684,
+      "offset": 268435456,
+      "length": 4258684,
+      "hash": "sha256-651e8261f44fcaed0477f1c259f63f1036ef53532361ca87c0f56897fb73ff4e",
+      "zipPartIndex": 16
     }
   ]
 }

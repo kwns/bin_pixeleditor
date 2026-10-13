@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-12T23:59:05.8524560Z",
+  "version": "2026-10-13T00:11:46.4511950Z",
   "rootPath": "PixelEditor",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 155286003,
-      "hash": "sha256-eca1b16543adba7f7c3ba2924aaac0f3a067111305809788f14dab42cbde4ebc",
+      "size": 155384819,
+      "hash": "sha256-f12ddc6dc5ce3e5c45f15a5652d5d1087a2618da2004f62b334bed74157be758",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
@@ -412,20 +412,20 @@
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/teach_dialogues.json",
-      "size": 162198,
-      "hash": "sha256-7ff7de4556f112039c589b9963f55a855a969fff1016c2de38008212a662fa0d",
+      "size": 167264,
+      "hash": "sha256-20781f5654fbac5e4d1fabc5722bcf62fef0bef57b594b5e17413239f64bab99",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/teach_dialogues.json"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/voice_bake_state.json",
-      "size": 53078,
-      "hash": "sha256-847a9a528a9bda0f64fd6749e0be67105937c09286f16bcc86c27d686eb84a2e",
+      "size": 54352,
+      "hash": "sha256-f69e3aa2fb7ab3b0f830936fd180395d8d61bc10c0712bf28654e40657b22ac8",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/voice_bake_state.json"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/voice_speech_manifest.json",
-      "size": 51314,
-      "hash": "sha256-9a77fbe19115c677b9044dce778f2c0970ac13db604114f27768cfd5f52569bb",
+      "size": 52458,
+      "hash": "sha256-5c5bb66724ba35a0a2d247ccabc5a005e6f8ac67f6a2e46cf6676ad02e8b7aaa",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/voice_speech_manifest.json"
     },
     {
@@ -859,6 +859,42 @@
       "size": 18524,
       "hash": "sha256-b8182396bc19a318c75cabb3e96be11eaa1a2acd1e8168ba8e7847fdb10d3d2e",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/AppSettings_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_CreateAndOpen_0.mp3",
+      "size": 30308,
+      "hash": "sha256-abba2da1ada5b062d9beeba64bb5787f0080bdf5e0e6d8c4a24614192d6e4e34",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_CreateAndOpen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_CreateAndOpen_1.mp3",
+      "size": 30308,
+      "hash": "sha256-abba2da1ada5b062d9beeba64bb5787f0080bdf5e0e6d8c4a24614192d6e4e34",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_CreateAndOpen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_EditOpen_0.mp3",
+      "size": 18380,
+      "hash": "sha256-119bb320a480233e76d16988c5429e9ee7e203d0f7b3c371e9b01e06ed81d886",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_EditOpen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_EditOpen_1.mp3",
+      "size": 18380,
+      "hash": "sha256-119bb320a480233e76d16988c5429e9ee7e203d0f7b3c371e9b01e06ed81d886",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_EditOpen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_HeadlessImport_0.mp3",
+      "size": 21500,
+      "hash": "sha256-e7af0f2d63368286242fa120f4655a8ce73e8d01da7b388fc1e890fe5abec8fe",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_HeadlessImport_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_HeadlessImport_1.mp3",
+      "size": 21500,
+      "hash": "sha256-e7af0f2d63368286242fa120f4655a8ce73e8d01da7b388fc1e890fe5abec8fe",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/ColorFilter_HeadlessImport_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/CommandPalette_BlurOutline_0.mp3",
@@ -2059,6 +2095,42 @@
       "size": 31268,
       "hash": "sha256-97cbdf9aee33613ac5c70638a0fc8afaf5a62c708b84167933a15a6262a24ae3",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/AppSettings_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_CreateAndOpen_0.mp3",
+      "size": 29012,
+      "hash": "sha256-05057605d184716a36f9d14eef5924aa9eefdd959e8f9b90e8b6d17a4e76cf97",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_CreateAndOpen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_CreateAndOpen_1.mp3",
+      "size": 29012,
+      "hash": "sha256-05057605d184716a36f9d14eef5924aa9eefdd959e8f9b90e8b6d17a4e76cf97",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_CreateAndOpen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_EditOpen_0.mp3",
+      "size": 17540,
+      "hash": "sha256-bd85eaafd3828f80f950eff34f876ff3b2abc6178f676a56c951d8f9c898ed6a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_EditOpen_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_EditOpen_1.mp3",
+      "size": 17540,
+      "hash": "sha256-bd85eaafd3828f80f950eff34f876ff3b2abc6178f676a56c951d8f9c898ed6a",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_EditOpen_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_HeadlessImport_0.mp3",
+      "size": 17564,
+      "hash": "sha256-4fef84b67ec0fa3c5c7d3bbfcafaf70eaa931d366139f6b18ea37e9569b9c341",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_HeadlessImport_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_HeadlessImport_1.mp3",
+      "size": 17564,
+      "hash": "sha256-d3c24c03d326e35ebbf2247fa6ae683d91c0d026b5794e21d9c9574622de7c93",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/ColorFilter_HeadlessImport_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/CommandPalette_BlurOutline_0.mp3",
@@ -4039,7 +4111,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-fb74f8a4c518649a662769e8399544e36c13ebb10dd5bdc42bdd1d6281eb4bbc",
+      "hash": "sha256-6d00088194b256567bb2d06dd44c53d6e0074b29f54af01619d26e1800a03d21",
       "zipPartIndex": 1
     },
     {
@@ -4048,7 +4120,7 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-ea17b5236ef2e67c73c92f775a137c20a3d9ee8bc18dd283ffc638b110ef2cd8",
+      "hash": "sha256-1e65dfea4e7065d4726bb9d82d5e0229c3397b37a183b09302a835a53d4912a8",
       "zipPartIndex": 2
     },
     {
@@ -4057,7 +4129,7 @@
       "size": 16777216,
       "offset": 50331648,
       "length": 16777216,
-      "hash": "sha256-7dca344d021a2d1a17f7945671d166c8321374565325c8ca1587c5c3581917f5",
+      "hash": "sha256-cd2c60db19a68958105738139f0291a000b8ec3d61323ac02eb2d1411c024953",
       "zipPartIndex": 3
     },
     {
@@ -4066,7 +4138,7 @@
       "size": 16777216,
       "offset": 67108864,
       "length": 16777216,
-      "hash": "sha256-b516739721273bfb077ca61dd78a064a6a403eb35b9100fc100a1ba15a01c5aa",
+      "hash": "sha256-600bbee384c219904aaa203411f47ea5fdd0e8c218198f22e3e4f5a967998f1a",
       "zipPartIndex": 4
     },
     {
@@ -4075,7 +4147,7 @@
       "size": 16777216,
       "offset": 83886080,
       "length": 16777216,
-      "hash": "sha256-3cb177ce9fa9cdc17d071ec4b989d4efce33d447ca77de5a84da3512292f6b50",
+      "hash": "sha256-688f63526be2c92668acc867bf0155f9d1c955c84955339609a5fd3f56bae097",
       "zipPartIndex": 5
     },
     {
@@ -4084,7 +4156,7 @@
       "size": 16777216,
       "offset": 100663296,
       "length": 16777216,
-      "hash": "sha256-40022bce84079029a1723c67e3c73c9cdcbfcdbf0cdc0eed8609086493aaa510",
+      "hash": "sha256-0459f2aae7881c73d7db0e6120897c6fc10fcd8d5e5865b60a43119c734094c2",
       "zipPartIndex": 6
     },
     {
@@ -4093,7 +4165,7 @@
       "size": 16777216,
       "offset": 117440512,
       "length": 16777216,
-      "hash": "sha256-446755d5e47d5b28ed74a237feb6aeedd53805f277131d81f0c22919e7430e33",
+      "hash": "sha256-c37ca7797fed6743a782b4e4d8f502f3ae615fb3c82b7ceebb6f69b93d771ca9",
       "zipPartIndex": 7
     },
     {
@@ -4102,7 +4174,7 @@
       "size": 16777216,
       "offset": 134217728,
       "length": 16777216,
-      "hash": "sha256-97c39166962bb58737015eaff479a88c1697ebefc2af86790076804f03512067",
+      "hash": "sha256-b5706c695ee8c85928fde1f4186b11c7e729ce3f48fbd85a571af3765a811f67",
       "zipPartIndex": 8
     },
     {
@@ -4111,7 +4183,7 @@
       "size": 16777216,
       "offset": 150994944,
       "length": 16777216,
-      "hash": "sha256-61b69bea8090aaaf35d73548c6d90d12f65b42019cd42581b78275b577c7d428",
+      "hash": "sha256-4b8722c29fcbbdd528b2b52436dee025aaa58051b61eae994c8453ff2e401e18",
       "zipPartIndex": 9
     },
     {
@@ -4120,7 +4192,7 @@
       "size": 16777216,
       "offset": 167772160,
       "length": 16777216,
-      "hash": "sha256-2ff5659256c65432636b7719c96aae26459a7386348bd07cb92920b121b7e735",
+      "hash": "sha256-763c466f1dc7ea6d8a8e9d0100670884624eca36737efc975277099894ea4b59",
       "zipPartIndex": 10
     },
     {
@@ -4129,7 +4201,7 @@
       "size": 16777216,
       "offset": 184549376,
       "length": 16777216,
-      "hash": "sha256-f5e506bfa81027968ea104276495d22ef431ac9f9bf740b519758b13b601e98c",
+      "hash": "sha256-513f3958bcb6f7b281d5650a444c684b7f54b3e78560217ad1e6b84f00c062cd",
       "zipPartIndex": 11
     },
     {
@@ -4138,7 +4210,7 @@
       "size": 16777216,
       "offset": 201326592,
       "length": 16777216,
-      "hash": "sha256-4a2385619c738557bda9ebf6edef44bc12ab9d28816fda084e3e52080726c47e",
+      "hash": "sha256-5de335dcce4b9f37f75fbea537c320cc5a5d4a4e0f41eecf51de925cf3befcef",
       "zipPartIndex": 12
     },
     {
@@ -4147,7 +4219,7 @@
       "size": 16777216,
       "offset": 218103808,
       "length": 16777216,
-      "hash": "sha256-1da826904f9e973b99a0ef7235e5afe3957381ecd7064cdf3b46fb9c09e46338",
+      "hash": "sha256-8a21d46192e361007775330e64b1088159facb93120c0fe91f5001261fd246a1",
       "zipPartIndex": 13
     },
     {
@@ -4156,7 +4228,7 @@
       "size": 16777216,
       "offset": 234881024,
       "length": 16777216,
-      "hash": "sha256-6032b898ad1210d61d1a5a5359a29604d0a1d9ce54edbe62d6987b5588a38cf0",
+      "hash": "sha256-bca60d84885942eae7dd197918de6de40d3bb97b692ea7540589f0822a0c0f6f",
       "zipPartIndex": 14
     },
     {
@@ -4165,7 +4237,7 @@
       "size": 16777216,
       "offset": 251658240,
       "length": 16777216,
-      "hash": "sha256-8355b102faf24923cf3f7ce8ad4a82dd2b574f850db586e2427618b5131dcaa0",
+      "hash": "sha256-4aa060679bcc62ccefe1c07bbeaae3a753128cd70ea6b1821c74b674c6f4dbe0",
       "zipPartIndex": 15
     },
     {
@@ -4174,16 +4246,16 @@
       "size": 16777216,
       "offset": 268435456,
       "length": 16777216,
-      "hash": "sha256-20b7181e6b1541e9e114c94664545cffc1903690d724893839db28dc02355c11",
+      "hash": "sha256-b459f846565aae128e719bafdba1afbdf39bb72c4461ef18b7ba975ab2301cd5",
       "zipPartIndex": 16
     },
     {
       "sliceId": "0018",
       "fileName": "data_0017.bin",
-      "size": 4912416,
+      "size": 5227294,
       "offset": 285212672,
-      "length": 4912416,
-      "hash": "sha256-b7c36e47a185645edae27362bb11a632c53893c11613160b3dbc4d9306d141f1",
+      "length": 5227294,
+      "hash": "sha256-7abebb3d4adbbd5164fea2dd6a7acc2a77ad9297f9c36c93cbe5fd35d5f26635",
       "zipPartIndex": 17
     }
   ]

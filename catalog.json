@@ -1,5 +1,5 @@
 {
-  "version": "2026-10-25T14:07:24.9499374Z",
+  "version": "2026-10-25T14:10:21.8386224Z",
   "rootPath": "PixelEditor",
   "files": [
     {
@@ -130,8 +130,8 @@
     },
     {
       "relativePath": "win-x64/PixelEditor.App.exe",
-      "size": 156479021,
-      "hash": "sha256-f1f18be26dff6b88bde7f40d940cf348e74d67bb2e31b2d8c73541fb31bb5e73",
+      "size": 156775981,
+      "hash": "sha256-a27505230f9b9db6422243b9a32c337670366a214ffd93e668fe67798daeed21",
       "zipEntryName": "win-x64/PixelEditor.App.exe"
     },
     {
@@ -412,20 +412,20 @@
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/teach_dialogues.json",
-      "size": 200070,
-      "hash": "sha256-ea049e267dd29d9c4ec4f953e008ce4947c10c26e9742ea0acceafa11da367b6",
+      "size": 204552,
+      "hash": "sha256-e0a6c5303361a5c9745d8559b24058c5ab9b4e5f7fd4ef6414562b36d490f0db",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/teach_dialogues.json"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/voice_bake_state.json",
-      "size": 63056,
-      "hash": "sha256-1102fed1cb069babf504a02489ac6ec3f8d614e88692b5d671e9b1069ac8e6c3",
+      "size": 64086,
+      "hash": "sha256-ae29d71069afebb8e3dd4dd74e4481558c4bf78974a4465260c408ca619d879a",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/voice_bake_state.json"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/dialogues/voice_speech_manifest.json",
-      "size": 60646,
-      "hash": "sha256-c15e43f6f5a98bcacc03de3a84bbdc02d87703ff8182fb075408ae9033c739f1",
+      "size": 61590,
+      "hash": "sha256-e383efe6d914bf24198e36158f1382fdc6f53d41017e69553cd8ea740370c2e4",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/dialogues/voice_speech_manifest.json"
     },
     {
@@ -1707,6 +1707,18 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_JointCreatedFromPivot_0.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_SetConstraintType_0.mp3",
+      "size": 41756,
+      "hash": "sha256-614f4b60e9c7a13e3bb5ef910ed6cfa14c82cb6e1f2e2de77bcc90fbc1d8e631",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_SetConstraintType_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_SetConstraintType_1.mp3",
+      "size": 45428,
+      "hash": "sha256-14d6d8c3ef9012a603a492cc3e038a8caac635f550bf616cb1a49344129108e0",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_SetConstraintType_1.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_ToggleIsolationMode_0.mp3",
       "size": 41228,
       "hash": "sha256-c3ae3fa531a4719d3e8fb83065597e379124f174510a39fc039c8eeef0d6fa1a",
@@ -1717,6 +1729,18 @@
       "size": 41180,
       "hash": "sha256-3854082a9bace9421dd796a5781b9323ec27db8f010db05b1c0bc1659d09ff6f",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_ToggleIsolationMode_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_ToggleOnionGhost_0.mp3",
+      "size": 35108,
+      "hash": "sha256-9ee77507363d6445626d283bd570ba328b09ec797468f093a9503d8ea489e5f1",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_ToggleOnionGhost_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_ToggleOnionGhost_1.mp3",
+      "size": 34484,
+      "hash": "sha256-046d98286c12e765d79adda3bc859462059bc5dacb961dab94b002b096a509d6",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_ToggleOnionGhost_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/secretary/Puppet_ToggleSkeletonTransparency_0.mp3",
@@ -3135,6 +3159,18 @@
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_JointCreatedFromPivot_0.mp3"
     },
     {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_SetConstraintType_0.mp3",
+      "size": 40436,
+      "hash": "sha256-5191ee3821fbec9d03b61db818b3c26fb43b772ce26aed531450d626918022dc",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_SetConstraintType_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_SetConstraintType_1.mp3",
+      "size": 32396,
+      "hash": "sha256-e6a0ead45e235e7c46262f3797f4c63adc0bb15b88ca85842f56bbaeccd29a8e",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_SetConstraintType_1.mp3"
+    },
+    {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_ToggleIsolationMode_0.mp3",
       "size": 36716,
       "hash": "sha256-b791e840fd2beb94fada47808e888ef5ae618b68e6430eadd5d840a1a85c476f",
@@ -3145,6 +3181,18 @@
       "size": 34484,
       "hash": "sha256-305ed5169b65c5a9a314f37ab0b66305ceab406b46f312b3f9084cac72ee1a65",
       "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_ToggleIsolationMode_1.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_ToggleOnionGhost_0.mp3",
+      "size": 31028,
+      "hash": "sha256-86ca7ba6a4a942b986a912935455bc237a72deaed11f79197c696869dadd7216",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_ToggleOnionGhost_0.mp3"
+    },
+    {
+      "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_ToggleOnionGhost_1.mp3",
+      "size": 32636,
+      "hash": "sha256-92640716192ec41f1075f3cb7c04df7b28d6b781619777ff8687b87630b4ab81",
+      "zipEntryName": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_ToggleOnionGhost_1.mp3"
     },
     {
       "relativePath": "win-x64/FairyTeachSidecar/assets/voices/tomboy/Puppet_ToggleSkeletonTransparency_0.mp3",
@@ -4531,7 +4579,7 @@
       "size": 16777216,
       "offset": 16777216,
       "length": 16777216,
-      "hash": "sha256-8b4534573cf4820d2dbf78237da1983b00e487c8504c1ec4bf93311fcab0a4a6",
+      "hash": "sha256-3ceb53a893aafb4bdb5f2b32ee0d0cf51a30465a3a012e91d81761b53c39d50a",
       "zipPartIndex": 1
     },
     {
@@ -4540,7 +4588,7 @@
       "size": 16777216,
       "offset": 33554432,
       "length": 16777216,
-      "hash": "sha256-1cea702d53a5ceba0549f36046d038f60ba8cf0ac7843c8b9d602b7fb2ac6a92",
+      "hash": "sha256-3f8851ad96a80f018d53861b2dee63a5cc06c79d0849215218b62521e65e4665",
       "zipPartIndex": 2
     },
     {
@@ -4549,7 +4597,7 @@
       "size": 16777216,
       "offset": 50331648,
       "length": 16777216,
-      "hash": "sha256-baa89e3453ee70fceb18c381f02a207be4f047ea8921e0f6a87ccdd052819cc4",
+      "hash": "sha256-5d57b780307c83281289659ba7a76b9e8268ce6d68edc2416c008e75a3f31751",
       "zipPartIndex": 3
     },
     {
@@ -4558,7 +4606,7 @@
       "size": 16777216,
       "offset": 67108864,
       "length": 16777216,
-      "hash": "sha256-53f9774d9d461245dfbd151035a1a122af1ef97bf302621c9e5b3545ca3f96d4",
+      "hash": "sha256-1087cf436786bcff82e356da2ed37c154ead524eec09978b953a36f392b9feb6",
       "zipPartIndex": 4
     },
     {
@@ -4567,7 +4615,7 @@
       "size": 16777216,
       "offset": 83886080,
       "length": 16777216,
-      "hash": "sha256-b02890051a4b58918538e5af20b409478243c15064e99846dc9b944670f0e1c9",
+      "hash": "sha256-7fd44016f34137887c9f96fbcd9c9d61c2033c944a672d268bbcb1ce7e7a4560",
       "zipPartIndex": 5
     },
     {
@@ -4576,7 +4624,7 @@
       "size": 16777216,
       "offset": 100663296,
       "length": 16777216,
-      "hash": "sha256-05d79e6bc2545465e498ae901444b7453aff86894efb8c1af7bdf2c8775aaf3f",
+      "hash": "sha256-c9d9c1ec94573df965772d3fabf22f6e3b09321bbc942b832bd6ab0680b81f53",
       "zipPartIndex": 6
     },
     {
@@ -4585,7 +4633,7 @@
       "size": 16777216,
       "offset": 117440512,
       "length": 16777216,
-      "hash": "sha256-6a1d35ce48f02adaef34fee24ba7cc574d5d6d76709a0c420b330f21bd0ca8c5",
+      "hash": "sha256-28f6e0627eb55b0339e2aeae53928c687d6f6f7c27f747d7665c3b92fb73003e",
       "zipPartIndex": 7
     },
     {
@@ -4594,7 +4642,7 @@
       "size": 16777216,
       "offset": 134217728,
       "length": 16777216,
-      "hash": "sha256-7a51e71b5b33c3f37a5d0f302832a23274eba5375be87f2d80298e577923b469",
+      "hash": "sha256-2192766550fd1d06efba34bf8345543b1e49b7c97bce2c66f73a9a6ec2036409",
       "zipPartIndex": 8
     },
     {
@@ -4603,7 +4651,7 @@
       "size": 16777216,
       "offset": 150994944,
       "length": 16777216,
-      "hash": "sha256-20de53879eade15692bd8ab02cdc51c409d3903cc971fa8c40394dbf747ea005",
+      "hash": "sha256-f1dbff942440c14a0ec675c5241f896b5451da35f12f4a3fec3db7f2cf2c7639",
       "zipPartIndex": 9
     },
     {
@@ -4612,7 +4660,7 @@
       "size": 16777216,
       "offset": 167772160,
       "length": 16777216,
-      "hash": "sha256-db7fb2cd9f6736db7516b5b9a3373de95e1e09462597b1270741af31f588d2f9",
+      "hash": "sha256-d1e7acff0b5ad0fb432c30b6c0fa5b7ecdcdca7fdcd639d55a10d38c73fed821",
       "zipPartIndex": 10
     },
     {
@@ -4621,7 +4669,7 @@
       "size": 16777216,
       "offset": 184549376,
       "length": 16777216,
-      "hash": "sha256-b98b8e7ee1e20a488418516c50ff8959a6f247e79da9c89de94c197a25b783e2",
+      "hash": "sha256-4be87382a6097dd81ec22d8ce9ab44393ddfa375c39a9648aedaa5f80129f977",
       "zipPartIndex": 11
     },
     {
@@ -4630,7 +4678,7 @@
       "size": 16777216,
       "offset": 201326592,
       "length": 16777216,
-      "hash": "sha256-47bb55ca62703e60dd9562efabe2f123f8c39a51b2641ff3336b322462393b96",
+      "hash": "sha256-5eb5b5ba3dc0074fbf3301d8f511123283f7bf4f9b1d4f4a455983feee217372",
       "zipPartIndex": 12
     },
     {
@@ -4639,7 +4687,7 @@
       "size": 16777216,
       "offset": 218103808,
       "length": 16777216,
-      "hash": "sha256-af4a19f5f39e2b132ea4cba7999f26d0079a2a799eeb66458540f04779cd539f",
+      "hash": "sha256-7ce246918431cd46d4fed7ebde4fb0fce76cd2d2457d16530499695935f89e54",
       "zipPartIndex": 13
     },
     {
@@ -4648,7 +4696,7 @@
       "size": 16777216,
       "offset": 234881024,
       "length": 16777216,
-      "hash": "sha256-fa9bc6268e15ad04d0cbde3324db84721a2e98b15410b71ba18cc8a977ee67ec",
+      "hash": "sha256-752665bba313a27235acde0ce53f2601ee133a3faf7e8933d148954d88a1b7cb",
       "zipPartIndex": 14
     },
     {
@@ -4657,7 +4705,7 @@
       "size": 16777216,
       "offset": 251658240,
       "length": 16777216,
-      "hash": "sha256-2754b097d1bfe76371fed97c6e2166c2ee814c0566ce9730df024ea80be15626",
+      "hash": "sha256-366a7a987b1a20d8d179367c6663646363e97bb5b883d084c6b4c31eca7f5906",
       "zipPartIndex": 15
     },
     {
@@ -4666,7 +4714,7 @@
       "size": 16777216,
       "offset": 268435456,
       "length": 16777216,
-      "hash": "sha256-7699c594aa5b893c0f5da86bbdb7acd1c69ff41fa81dc840d8093b0c8ac9bf5f",
+      "hash": "sha256-226a96f7dbb58c24e4890d7525b7881ea44211320dd846c0856b044924ee4dee",
       "zipPartIndex": 16
     },
     {
@@ -4675,7 +4723,7 @@
       "size": 16777216,
       "offset": 285212672,
       "length": 16777216,
-      "hash": "sha256-e2fba74bb6e96f2b78b7a2a3b4deca20c2b306217b000f67561fc4737a41e2f2",
+      "hash": "sha256-b7f873e5aa8a3438b6238fae81f042624447e4bc55047f167b742309445ccc0d",
       "zipPartIndex": 17
     },
     {
@@ -4684,7 +4732,7 @@
       "size": 16777216,
       "offset": 301989888,
       "length": 16777216,
-      "hash": "sha256-4e64ad34e43f9bf113bc0ea4fb144222c8966e68df7e449c964f294c674cfe7b",
+      "hash": "sha256-ca4d99db3f63f51c9c666700d7e393531fc5e36ee15e02f165c650831a6d2d2e",
       "zipPartIndex": 18
     },
     {
@@ -4693,7 +4741,7 @@
       "size": 16777216,
       "offset": 318767104,
       "length": 16777216,
-      "hash": "sha256-c46715ea46f3ea64bd3024af0605ece1821f3c6771c165682a4054265d1191a5",
+      "hash": "sha256-924a756d56c54e105adc28e6ce09ed23b310e7f70793e2f0d6a01bc37738d7e0",
       "zipPartIndex": 19
     },
     {
@@ -4702,7 +4750,7 @@
       "size": 16777216,
       "offset": 335544320,
       "length": 16777216,
-      "hash": "sha256-9f92760b3b3e2a9db900067fb5b31911a6b2067fa5526342099bbf09b9d48920",
+      "hash": "sha256-6c8f2007d9534468478273c561bed15e4db25c1182ebe35284415f0fc7377479",
       "zipPartIndex": 20
     },
     {
@@ -4711,7 +4759,7 @@
       "size": 16777216,
       "offset": 352321536,
       "length": 16777216,
-      "hash": "sha256-a8eda735e90065332b95cdcd50a09443b8c7ec1708fc46e69645484c6fea3067",
+      "hash": "sha256-d2961b5cc978df1d81968b06d12a4c7a076138366b0daa191c4227962b105d7f",
       "zipPartIndex": 21
     },
     {
@@ -4720,7 +4768,7 @@
       "size": 16777216,
       "offset": 369098752,
       "length": 16777216,
-      "hash": "sha256-af5069e6d47ad9e05c049bae4966744ef689962d1398ceb4f4cad843a1a27efc",
+      "hash": "sha256-7f8c8353a0fda27273caf778397ab916fadda15f3f253a94b4755b17d30dbc11",
       "zipPartIndex": 22
     },
     {
@@ -4729,7 +4777,7 @@
       "size": 16777216,
       "offset": 385875968,
       "length": 16777216,
-      "hash": "sha256-b3c44b51db866eb4a7098041818ac7b07b37c15ce114ac06701eac2641810505",
+      "hash": "sha256-a1ceebb44919ddb23f2267e122b00dc61c57ccc18d3c9a46f0b672442528b591",
       "zipPartIndex": 23
     },
     {
@@ -4738,7 +4786,7 @@
       "size": 16777216,
       "offset": 402653184,
       "length": 16777216,
-      "hash": "sha256-62e4123b2387bea610095b43bc32d18090aa79dc1186fe08189085efc19e8bce",
+      "hash": "sha256-bcc083c7f8b59d571ff6c30666fe9e2abdc143f5b6500994f9f51eea6b814f76",
       "zipPartIndex": 24
     },
     {
@@ -4747,7 +4795,7 @@
       "size": 16777216,
       "offset": 419430400,
       "length": 16777216,
-      "hash": "sha256-db7d72834b183f42ab2bb4b842c6b4a2dbaaa4d53bec08d3147fffd32339e3b6",
+      "hash": "sha256-eb98a52c8466012ec1d45c16d55c99fce8b15a325f408375f84aa5f9508d5127",
       "zipPartIndex": 25
     },
     {
@@ -4756,7 +4804,7 @@
       "size": 16777216,
       "offset": 436207616,
       "length": 16777216,
-      "hash": "sha256-65a961135af14a800799f4b8dad4937fb0e4f8cbc14d9e48851bd6234b7158b7",
+      "hash": "sha256-498f8d5d73e9c7a8b13b1bc7723f4aecac3da30c62b5bd9c56de2427fbc6e057",
       "zipPartIndex": 26
     },
     {
@@ -4765,7 +4813,7 @@
       "size": 16777216,
       "offset": 452984832,
       "length": 16777216,
-      "hash": "sha256-4dda49b55c7a92ebc75d2f829b6006b51a243c9d18caef8fc954796288728715",
+      "hash": "sha256-b0c9a246444ec3d99d319d891ab8ffdf9c8d07d4c6f9ed331db2883f48cbce0a",
       "zipPartIndex": 27
     },
     {
@@ -4774,7 +4822,7 @@
       "size": 16777216,
       "offset": 469762048,
       "length": 16777216,
-      "hash": "sha256-37162b888b5e2ab161e1c34bdb4fc99dc7bcd9841c1880399cf052915a8ff59e",
+      "hash": "sha256-455da8d801b20847cd4ccdfe2baf61a8c746bc3826148a17da0c31b6d932be55",
       "zipPartIndex": 28
     },
     {
@@ -4783,16 +4831,16 @@
       "size": 16777216,
       "offset": 486539264,
       "length": 16777216,
-      "hash": "sha256-0a8e5bb968d3e310abdb0114d1b86903fea1317073e893385a1b1b747bb316a1",
+      "hash": "sha256-524ab5fbbd039669ba6b1fed3a43fdbc54719345702fb725be84aeac0ab61b0c",
       "zipPartIndex": 29
     },
     {
       "sliceId": "0031",
       "fileName": "data_0030.bin",
-      "size": 4947858,
+      "size": 5375042,
       "offset": 503316480,
-      "length": 4947858,
-      "hash": "sha256-3ae2b4b0a32b0d76c1931011527cdfd5bd8736dce16530c388820f4bd9ddcdab",
+      "length": 5375042,
+      "hash": "sha256-7711232f7e2dabe29187b0697971550da62a8b4c86f90f83fec10d47a65f17d4",
       "zipPartIndex": 30
     }
   ]
